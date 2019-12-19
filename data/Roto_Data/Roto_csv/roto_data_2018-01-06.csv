@@ -1,0 +1,256 @@
+Date,Position,"LastName, FirstName",FD PTS,Salary,Team,Opp Team,Score,Min,Statline
+2018-01-06,PG,"Curry, Stephen",63.7,"10,000",gsw,@ lac, 121-105,29:51,   45pt 6rb 3as 3st 2to 8trey 11-21fg 15-16ft
+2018-01-06,SG,"Oladipo, Victor",57.7,"9,300",ind,v chi, 125-86,23:36,   23pt 6rb 9as 5st 1to 2trey 9-11fg 3-4ft
+2018-01-06,SG,"Wiggins, Andrew",47.6,"5,700",min,v nor, 116-98,34:35,   20pt 8rb 2as 2st 3bl 1trey 9-22fg 1-1ft
+2018-01-06,PG,"Paul, Chris",44.9,"10,100",hou,@ det, 101-108,35:06,   16pt 7rb 13as 2st 5to 3trey 5-10fg 3-3ft
+2018-01-06,PG,"Wall, John",43.6,"9,200",was,v mil, 103-110,41:56,   16pt 3rb 16as 1st 1bl 6to 1trey 5-19fg 5-6ft
+2018-01-06,PG,"Bledsoe, Eric",41.8,"7,200",mil,@ was, 110-103,33:23,   21pt 4rb 4as 3st 1bl 2to 2trey 6-11fg 7-8ft
+2018-01-06,PG,"Irving, Kyrie",37.2,"8,700",bos,@ bkn, 87-85,37:57,   21pt 6rb 4as 1bl 2trey 8-22fg 3-4ft
+2018-01-06,PG,"Payton, Elfrid",32.9,"8,000",orl,v cle, 127-131,26:55,   20pt 7rb 5as 3to 1trey 8-13fg 3-4ft
+2018-01-06,PG,"Smith, Ishmael",32.6,"6,000",det,v hou, 108-101,25:55,   17pt 3rb 4as 2st 7-12fg 3-4ft
+2018-01-06,SG,"Beal, Bradley",32.5,"8,600",was,v mil, 103-110,41:40,   20pt 5rb 1as 1st 2bl 4to 1trey 7-19fg 5-7ft
+2018-01-06,SG,"Wade, Dwyane",32.3,"5,000",cle,@ orl, 131-127,25:02,   16pt 9rb 3as 1st 2to 7-9fg 2-5ft
+2018-01-06,PG,"Fox, De",31.1,"4,800",sac,v den, 106-98,35:08,   18pt 3rb 7as 1st 4to 6-11fg 6-8ft
+2018-01-06,SG,"Williams, Louis",30.9,"7,900",lac,v gsw, 105-121,24:14,   23pt 2rb 3as 1st 1bl 5to 2trey 7-14fg 7-7ft
+2018-01-06,PG,"Joseph, Cory",30,"4,800",ind,v chi, 125-86,25:46,   7pt 10rb 4as 1st 1bl 1to 1trey 3-8fg
+2018-01-06,PG,"Evans, Jawun",29.3,"4,400",lac,v gsw, 105-121,27:58,   12pt 4rb 7as 1st 1to 5-16fg 2-3ft
+2018-01-06,SG,"Smart, Marcus",29.1,"5,700",bos,@ bkn, 87-85,29:15,   11pt 3rb 3as 3st 1bl 2to 4-14fg 3-5ft
+2018-01-06,SG,"Barton, Will",28.6,"6,300",den,@ sac, 98-106,30:13,   17pt 3rb 6as 1st 4to 3trey 6-13fg 2-3ft
+2018-01-06,SG,"Harris, Gary",28.3,"6,800",den,@ sac, 98-106,36:14,   17pt 4rb 3as 1st 1to 3trey 6-11fg 2-2ft
+2018-01-06,SG,"Middleton, Khris",27.5,"7,200",mil,@ was, 110-103,42:05,   20pt 5rb 1as 1st 3to 2trey 5-14fg 8-8ft
+2018-01-06,PG,"Dinwiddie, Spencer",27.1,"6,600",bkn,v bos, 85-87,36:34,   20pt 3rb 3as 1st 4to 1trey 7-15fg 5-5ft
+2018-01-06,SG,"Gordon, Eric",27.1,"8,000",hou,@ det, 101-108,34:13,   15pt 3rb 7as 2to 3trey 6-13fg
+2018-01-06,SG,"Holiday, Jrue",25.3,"7,000",nor,@ min, 98-116,32:41,   13pt 4rb 3as 2st 3to 6-13fg 1-2ft
+2018-01-06,PG,"Murray, Jamal",25,"7,000",den,@ sac, 98-106,36:43,   18pt 5rb 2bl 5to 3trey 7-16fg 1-1ft
+2018-01-06,SG,"Brogdon, Malcolm",24.8,"4,900",mil,@ was, 110-103,31:44,   10pt 9rb 2st 2to 5-14fg
+2018-01-06,PG,"Augustin, DJ",23.7,"3,500",orl,v cle, 127-131,25:00,   9pt 1rb 7as 1st 2trey 3-7fg 1-2ft
+2018-01-06,SG,"Thompson, Klay",23.3,"7,300",gsw,@ lac, 121-105,25:34,   10pt 4rb 3as 1st 1bl 2to 2trey 4-16fg
+2018-01-06,SG,"Hield, Buddy",23,"4,400",sac,v den, 106-98,34:34,   14pt 5rb 2as 4trey 5-14fg
+2018-01-06,SG,"Bogdanovic, Bogdan",22.9,"4,600",sac,v den, 106-98,32:37,   11pt 2rb 5as 1st 1to 1trey 3-9fg 4-4ft
+2018-01-06,PG,"Thomas, Isaiah",22.4,"6,200",cle,@ orl, 131-127,21:24,   19pt 2rb 4as 5to 2trey 7-13fg 3-5ft
+2018-01-06,SG,"Young, Nick",22.3,"3,500",gsw,@ lac, 121-105,19:58,   11pt 4rb 1as 2st 1to 2trey 4-11fg 1-1ft
+2018-01-06,SG,"Fournier, Evan",21.7,"6,100",orl,v cle, 127-131,37:58,   18pt 1rb 5as 5to 4trey 5-14fg 4-5ft
+2018-01-06,PG,"Dunn, Kris",20.8,"7,700",chi,@ ind, 86-125,28:15,   8pt 4rb 8as 4to 4-10fg
+2018-01-06,PG,"Buycks, Dwight",20.4,"3,600",det,v hou, 108-101,22:05,   16pt 2rb 2as 1bl 4to 4trey 5-9fg 2-2ft
+2018-01-06,PG,"Weber, Briante",19.7,"3,500",hou,@ det, 101-108,11:05,   5pt 1rb 3as 2st 1bl 1trey 1-3fg 2-2ft
+2018-01-06,PG,"Collison, Darren",19.6,"6,100",ind,v chi, 125-86,27:05,   13pt 3rb 2as 3trey 4-8fg 2-2ft
+2018-01-06,PG,"Young, Joseph",18.9,"3,500",ind,v chi, 125-86,20:55,   11pt 2rb 1as 2st 2to 1trey 4-6fg 2-2ft
+2018-01-06,SG,"Bradley, Avery",18.7,"5,700",det,v hou, 108-101,39:19,   12pt 1rb 3as 1st 2to 2trey 5-15fg
+2018-01-06,SG,"Snell, Tony",18.7,"3,600",mil,@ was, 110-103,32:12,   10pt 1rb 1as 1st 1bl 2trey 4-9fg
+2018-01-06,SG,"Wilkins, Damien",17.9,"3,700",ind,v chi, 125-86,22:14,   11pt 2rb 1as 1bl 3trey 3-8fg 2-2ft
+2018-01-06,SG,"Smith, JR",17.4,"3,900",cle,@ orl, 131-127,29:00,   10pt 2rb 2as 1st 1to 2trey 2-4fg 4-4ft
+2018-01-06,PG,"Rondo, Rajon",16.9,"5,800",nor,@ min, 98-116,21:32,   10pt 2rb 3as 1st 3to 5-11fg
+2018-01-06,PG,"Jones, Tyus",16.6,"5,600",min,v nor, 116-98,32:46,   10pt 3rb 2as 1st 3to 4-9fg 2-2ft
+2018-01-06,SG,"Kennard, Luke",15.5,"3,900",det,v hou, 108-101,23:40,   0pt 5rb 3as 2st 1to 0-2fg
+2018-01-06,SG,"Richardson, Malachi",14.9,"3,500",sac,v den, 106-98,19:27,   8pt 2rb 1as 1st 2trey 3-7fg
+2018-01-06,SG,"Crawford, Jamal",13.9,"3,700",min,v nor, 116-98,19:30,   4pt 2rb 5as 1-5fg 2-2ft
+2018-01-06,SG,"Holiday, Justin",13.3,"5,800",chi,@ ind, 86-125,26:59,   6pt 4rb 1as 1bl 2to 1trey 2-14fg 1-1ft
+2018-01-06,PG,"Livingston, Shaun",12.7,"3,500",gsw,@ lac, 121-105,9:35,   4pt 1rb 1as 1st 1bl 2-3fg
+2018-01-06,SG,"Williams, CJ",12.5,"3,700",lac,v gsw, 105-121,21:58,   6pt 1as 1st 1bl 1to 3-7fg
+2018-01-06,SG,"McCaw, Patrick",12.3,"3,500",gsw,@ lac, 121-105,22:26,   0pt 4rb 1as 2st 0-4fg
+2018-01-06,PG,"Larkin, Shane",11.4,"3,500",bos,@ bkn, 87-85,14:53,   9pt 2rb 1trey 3-4fg 2-2ft
+2018-01-06,PG,"Grant, Jerian",11.3,"3,800",chi,@ ind, 86-125,19:45,   2pt 4rb 1as 1st 0-11fg 2-4ft
+2018-01-06,PG,"Thornwell, Sindarius",9.7,"3,500",lac,v gsw, 105-121,7:24,   4pt 1rb 1as 1st 2-5fg 0-1ft
+2018-01-06,PG,"Rozier, Terry",9.2,"5,000",bos,@ bkn, 87-85,18:29,   2pt 1rb 2as 1st 1-7fg
+2018-01-06,SG,"Meeks, Jodie",8.7,"3,500",was,v mil, 103-110,14:32,   6pt 1rb 1as 2trey 2-3fg
+2018-01-06,SG,"Stauskas, Nik",8.6,"3,500",bkn,v bos, 85-87,15:30,   2pt 3rb 1bl 1-6fg
+2018-01-06,PG,"Nelson, Jameer",7.9,"3,500",nor,@ min, 98-116,18:13,   2pt 2rb 3as 1to 1-5fg
+2018-01-06,PG,"Brooks, Aaron",7.7,"3,500",min,v nor, 116-98,15:14,   5pt 1rb 1as 1trey 2-6fg
+2018-01-06,PG,"Dellavedova, Matthew",7.7,"4,200",mil,@ was, 110-103,15:23,   0pt 1rb 5as 1to 0-2fg
+2018-01-06,SG,"Temple, Garrett",7.3,"4,200",sac,v den, 106-98,22:17,   2pt 4rb 1as 1st 4to 1-9fg
+2018-01-06,SG,"Afflalo, Arron",7.2,"3,500",orl,v cle, 127-131,10:24,   6pt 1rb 2trey 2-4fg
+2018-01-06,SG,"Beasley, Malik",7.1,"3,600",den,@ sac, 98-106,17:04,   3pt 3rb 1as 1to 1trey 1-2fg
+2018-01-06,PG,"Clark, Ian",7,"3,500",nor,@ min, 98-116,9:48,   4pt 2as 1trey 1-4fg 1-1ft
+2018-01-06,PG,"Doyle, Milton",6.5,"3,500",bkn,v bos, 85-87,6:05,   2pt 1as 1bl 1-3fg
+2018-01-06,PG,"Satoransky, Tomas",4.5,"3,500",was,v mil, 103-110,14:37,   3pt 1as 1trey 1-3fg
+2018-01-06,PG,"Mack, Shelvin",3,"3,600",orl,v cle, 127-131,7:05,   0pt 2as 0-1fg
+2018-01-06,SG,"Korver, Kyle",2.4,"3,600",cle,@ orl, 131-127,19:46,   3pt 2rb 3to 1trey 1-4fg
+2018-01-06,PG,"Teodosic, Milos",0,"5,400",lac,v gsw, 105-121,0,   
+2018-01-06,PG,"Frazier, Tim",0,"3,500",was,v mil, 103-110,0,   
+2018-01-06,SG,"Liggins, DeAndre",0,"3,500",mil,@ was, 110-103,0,   
+2018-01-06,PG,"Calderon, Jose",0,"3,500",cle,@ orl, 131-127,0,   
+2018-01-06,SG,"Kilpatrick, Sean",0,"3,500",mil,@ was, 110-103,0,   
+2018-01-06,PG,"Galloway, Langston",0,"3,500",det,v hou, 108-101,0,   
+2018-01-06,SG,"Vaughn, Rashad",0,"3,500",mil,@ was, 110-103,0,   
+2018-01-06,SG,"Terry, Jason",0,"3,500",mil,@ was, 110-103,0,   
+2018-01-06,PG,"Mudiay, Emmanuel",0,"3,500",den,@ sac, 98-106,0,   
+2018-01-06,SG,"Brown, Sterling",0,"3,500",mil,@ was, 110-103,0,   
+2018-01-06,SG,"Nader, Abdel",0,"3,500",bos,@ bkn, 87-85,0,   
+2018-01-06,PG,"Teague, Jeff",0,"6,700",min,v nor, 116-98,0,   
+2018-01-06,PG,"III, Frank",0,"3,700",sac,v den, 106-98,0,   
+2018-01-06,PG,"Jackson, Reggie",0,"5,700",det,v hou, 108-101,0,   
+2018-01-06,PG,"Cook, Quinn",0,"3,500",gsw,@ lac, 121-105,0,   
+2018-01-06,SG,"Ross, Terrence",0,"4,500",orl,v cle, 127-131,0,   
+2018-01-06,SG,"Harden, James",0,"11,400",hou,@ det, 101-108,0,   
+2018-01-06,PG,"Blakeney, Antonio",0,"3,500",chi,@ ind, 86-125,0,   
+2018-01-06,PG,"Perrantes, London",0,"3,500",cle,@ orl, 131-127,0,   
+2018-01-06,SG,"Shumpert, Iman",0,"3,600",cle,@ orl, 131-127,0,   
+2018-01-06,PG,"Payne, Cameron",0,"3,500",chi,@ ind, 86-125,0,   
+2018-01-06,SG,"LaVine, Zach",0,"5,200",chi,@ ind, 86-125,0,   
+2018-01-06,PG,"Hill, George",0,"4,600",sac,v den, 106-98,0,   
+2018-01-06,PG,"Sumner, Edmond",0,"3,500",ind,v chi, 125-86,0,   
+2018-01-06,SG,"Cooke, Charles",0,"3,500",nor,@ min, 98-116,0,   
+2018-01-06,SG,"Bird, Jabari",0,"3,500",bos,@ bkn, 87-85,0,   
+2018-01-06,SG,"Russell, D",0,"7,900",bkn,v bos, 85-87,0,   
+2018-01-06,PG,"Allen, Kadeem",0,"3,800",bos,@ bkn, 87-85,0,   
+2018-01-06,SG,"LeVert, Caris",0,"6,600",bkn,v bos, 85-87,0,   
+2018-01-06,PG,"Rose, Derrick",0,"4,400",cle,@ orl, 131-127,0,   
+2018-01-06,PG,"Wiley, Jacob",0,"3,500",bkn,v bos, 85-87,0,   
+2018-01-06,PG,"Jackson, Demetrius",0,"3,500",hou,@ det, 101-108,0,   
+2018-01-06,PG,"Morris, Monte",0,"3,500",den,@ sac, 98-106,0,   
+2018-01-06,PG,"Rivers, Austin",0,"5,300",lac,v gsw, 105-121,0,   
+2018-01-06,PG,"Whitehead, Isaiah",0,"3,900",bkn,v bos, 85-87,0,   
+2018-01-06,PG,"Arcidiacono, Ryan",0,"3,500",chi,@ ind, 86-125,0,   
+2018-01-06,SF,"James, LeBron",76.5,"11,700",cle,@ orl, 131-127,37:17,   33pt 10rb 9as 6st 1bl 3to 4trey 12-23fg 5-7ft
+2018-01-06,SF,"Antetokounmpo, Giannis",64.9,"11,000",mil,@ was, 110-103,40:51,   34pt 12rb 7as 2st 1bl 3to 1trey 12-17fg 9-10ft
+2018-01-06,PF,"Tatum, Jayson",47.2,"5,800",bos,@ bkn, 87-85,32:20,   14pt 6rb 3st 6bl 1to 2trey 6-15fg
+2018-01-06,PF,"Gordon, Aaron",43.1,"7,900",orl,v cle, 127-131,31:38,   30pt 8rb 1as 2st 4to 1trey 13-26fg 3-6ft
+2018-01-06,SF,"Butler, Jimmy",42.4,"9,800",min,v nor, 116-98,32:18,   21pt 7rb 8as 1st 2to 2trey 7-15fg 5-6ft
+2018-01-06,PF,"Harris, Tobias",41.1,"6,300",det,v hou, 108-101,32:56,   27pt 8rb 1as 1st 3trey 8-15fg 8-11ft
+2018-01-06,PF,"Davis, Anthony",37.8,"11,200",nor,@ min, 98-116,36:09,   16pt 9rb 2as 1st 2bl 1to 5-12fg 6-6ft
+2018-01-06,PF,"Henson, John",37.2,"5,000",mil,@ was, 110-103,33:44,   11pt 11rb 2as 2st 2bl 2to 5-8fg 1-2ft
+2018-01-06,PF,"Green, Draymond",34.9,"8,500",gsw,@ lac, 121-105,28:41,   9pt 12rb 7as 1st 2to 1trey 4-11fg 0-3ft
+2018-01-06,PF,"Gibson, Taj",34.7,"5,800",min,v nor, 116-98,33:59,   15pt 6rb 3as 3st 1to 5-9fg 5-6ft
+2018-01-06,SF,"Carter, Vince",33.6,"3,500",sac,v den, 106-98,31:27,   12pt 8rb 2as 2st 1bl 2trey 5-12fg
+2018-01-06,PF,"Morris, Markieff",32,"4,900",was,v mil, 103-110,32:29,   14pt 10rb 2as 1st 6-9fg 2-3ft
+2018-01-06,PF,"Moreland, Eric",31.6,"3,500",det,v hou, 108-101,35:50,   8pt 8rb 4as 2st 1bl 1to 3-5fg 2-2ft
+2018-01-06,PF,"Portis, Bobby",30.8,"4,300",chi,@ ind, 86-125,22:10,   15pt 4rb 2as 3bl 1to 1trey 4-7fg 6-7ft
+2018-01-06,SF,"Hezonja, Mario",30,"4,000",orl,v cle, 127-131,38:49,   16pt 10rb 2as 1bl 4to 2trey 7-14fg 0-1ft
+2018-01-06,PF,"Lyles, Trey",29.8,"6,400",den,@ sac, 98-106,31:08,   19pt 9rb 1bl 3to 2trey 8-11fg 1-4ft
+2018-01-06,PF,"Sabonis, Domantas",29,"5,800",ind,v chi, 125-86,26:59,   22pt 5rb 1bl 2to 1trey 9-12fg 3-6ft
+2018-01-06,PF,"Theis, Daniel",29,"3,500",bos,@ bkn, 87-85,18:39,   8pt 10rb 1st 2bl 4-6fg
+2018-01-06,PF,"Labissiere, Skal",28.8,"4,200",sac,v den, 106-98,15:37,   12pt 4rb 1st 3bl 6-12fg
+2018-01-06,SF,"Harris, Joe",28.4,"3,700",bkn,v bos, 85-87,32:11,   10pt 12rb 2as 1bl 2to 4-9fg 2-2ft
+2018-01-06,SF,"Valentine, Denzel",27.5,"4,500",chi,@ ind, 86-125,27:26,   13pt 5rb 1as 2st 1bl 2to 3trey 5-10fg
+2018-01-06,SF,"Iwundu, Wes",27.5,"3,500",orl,v cle, 127-131,21:34,   12pt 5rb 3as 2st 1to 6-7fg
+2018-01-06,PF,"Dieng, Gorgui",26.6,"3,700",min,v nor, 116-98,21:07,   14pt 3rb 2as 1st 1bl 2trey 6-9fg
+2018-01-06,PF,"Harrell, Montrezl",26.5,"3,500",lac,v gsw, 105-121,31:54,   9pt 10rb 3as 2bl 5to 4-9fg 1-1ft
+2018-01-06,SF,"Oubre, Kelly",25.4,"4,100",was,v mil, 103-110,31:15,   14pt 2rb 2as 2st 2trey 3-6fg 6-6ft
+2018-01-06,SF,"Carroll, DeMarre",22.9,"5,100",bkn,v bos, 85-87,30:50,   10pt 7rb 1as 1bl 2trey 3-12fg 2-2ft
+2018-01-06,SF,"Ariza, Trevor",21.3,"5,500",hou,@ det, 101-108,34:55,   15pt 4rb 1as 2trey 5-15fg 3-3ft
+2018-01-06,SF,"Iguodala, Andre",21.3,"4,300",gsw,@ lac, 121-105,22:44,   2pt 4rb 7as 1st 1bl 2to 0-2fg 2-2ft
+2018-01-06,PF,"Leaf, TJ",21.2,"3,500",ind,v chi, 125-86,19:35,   15pt 6rb 1to 3trey 6-6fg
+2018-01-06,PF,"Black, Tarik",21.2,"3,500",hou,@ det, 101-108,20:14,   13pt 6rb 1bl 2to 6-6fg 1-2ft
+2018-01-06,PF,"Jefferson, Rondae",20.9,"7,200",bkn,v bos, 85-87,28:18,   8pt 7rb 1as 1bl 3-15fg 2-3ft
+2018-01-06,PF,"Looney, Kevon",20.4,"3,600",gsw,@ lac, 121-105,14:40,   4pt 2rb 2as 4bl 1to 1-1fg 2-2ft
+2018-01-06,PF,"Markkanen, Lauri",20,"6,200",chi,@ ind, 86-125,24:35,   13pt 5rb 2as 2to 3trey 4-9fg 2-2ft
+2018-01-06,SF,"Bullock, Reggie",19.4,"4,700",det,v hou, 108-101,33:00,   14pt 2rb 2as 3trey 5-6fg 1-2ft
+2018-01-06,PF,"Bell, Jordan",18.7,"4,700",gsw,@ lac, 121-105,16:26,   3pt 6rb 5as 1bl 2to 1-3fg 1-2ft
+2018-01-06,SF,"Green, Gerald",18.6,"5,700",hou,@ det, 101-108,28:55,   15pt 3rb 4trey 5-14fg 1-1ft
+2018-01-06,SF,"Stephenson, Lance",18.2,"6,000",ind,v chi, 125-86,24:24,   4pt 6rb 4as 1st 2to 2-8fg
+2018-01-06,PF,"Morris, Marcus",17.3,"3,900",bos,@ bkn, 87-85,26:14,   8pt 4rb 1as 1bl 4-8fg
+2018-01-06,PF,"Crowder, Jae",17.3,"4,200",cle,@ orl, 131-127,24:23,   2pt 4rb 3as 2st 1-7fg
+2018-01-06,SF,"Dekker, Sam",15.8,"3,500",lac,v gsw, 105-121,28:07,   9pt 4rb 1st 1to 4-11fg 1-1ft
+2018-01-06,SF,"Moore, E",15.8,"4,400",nor,@ min, 98-116,28:41,   8pt 4rb 1bl 3-9fg 2-2ft
+2018-01-06,PF,"Young, Thaddeus",15.6,"5,100",ind,v chi, 125-86,24:05,   6pt 3rb 2as 1bl 3-8fg
+2018-01-06,SF,"Tucker, PJ",14.3,"3,800",hou,@ det, 101-108,24:37,   3pt 4rb 3as 1st 1to 1trey 1-5fg
+2018-01-06,PF,"West, David",14.2,"3,800",gsw,@ lac, 121-105,7:34,   10pt 1rb 1st 4-5fg 2-2ft
+2018-01-06,PF,"Green, Jeff",13.7,"4,700",cle,@ orl, 131-127,21:53,   6pt 1rb 1as 1st 1bl 1to 2-5fg 2-2ft
+2018-01-06,SF,"Crabbe, Allen",13.5,"5,300",bkn,v bos, 85-87,31:48,   9pt 5rb 1as 3to 2trey 2-11fg 3-4ft
+2018-01-06,SF,"Miller, Darius",13.2,"3,500",nor,@ min, 98-116,25:47,   9pt 1rb 2as 3trey 3-9fg
+2018-01-06,PF,"Anderson, Ryan",11.6,"4,700",hou,@ det, 101-108,23:09,   5pt 3rb 2as 1trey 2-9fg
+2018-01-06,SF,"Brown, Jaylen",11.5,"6,100",bos,@ bkn, 87-85,34:57,   4pt 5rb 1as 2-8fg 0-4ft
+2018-01-06,SF,"Osman, Cedi",11.1,"3,500",cle,@ orl, 131-127,13:15,   6pt 3rb 1as 3-6fg
+2018-01-06,SF,"Casspi, Omri",10.1,"3,800",gsw,@ lac, 121-105,15:31,   8pt 3rb 1as 3to 2-6fg 4-4ft
+2018-01-06,PF,"Acy, Quincy",10,"3,500",bkn,v bos, 85-87,19:41,   5pt 5rb 1to 1trey 1-3fg 2-2ft
+2018-01-06,PF,"Griffin, Blake",9.9,"9,100",lac,v gsw, 105-121,9:49,   5pt 2rb 1as 1bl 2to 1-2fg 3-4ft
+2018-01-06,PF,"Mirotic, Nikola",9.4,"6,800",chi,@ ind, 86-125,22:55,   8pt 2rb 1to 2trey 2-4fg 2-2ft
+2018-01-06,SF,"Chandler, Wilson",9.2,"5,500",den,@ sac, 98-106,27:11,   7pt 6rb 5to 1trey 1-6fg 4-4ft
+2018-01-06,SF,"Nwaba, David",9.2,"3,600",chi,@ ind, 86-125,17:07,   5pt 1rb 1st 2-3fg 1-2ft
+2018-01-06,PF,"Diallo, Cheick",9,"3,500",nor,@ min, 98-116,3:45,   9pt 2-3fg 5-5ft
+2018-01-06,SF,"Cunningham, Dante",8.2,"3,500",nor,@ min, 98-116,24:38,   4pt 1rb 1st 1-1fg 2-2ft
+2018-01-06,SF,"Johnson, Wesley",7.4,"3,700",lac,v gsw, 105-121,10:12,   0pt 2rb 2st 1to 0-1fg
+2018-01-06,PF,"Tolliver, Anthony",6.7,"3,700",det,v hou, 108-101,15:18,   4pt 1rb 1as 1-3fg 2-2ft
+2018-01-06,PF,"Scott, Mike",6.2,"3,500",was,v mil, 103-110,16:18,   7pt 1rb 2to 1trey 3-5fg
+2018-01-06,SF,"Zipser, Paul",5.6,"3,500",chi,@ ind, 86-125,21:01,   4pt 3rb 2to 2-4fg
+2018-01-06,SF,"Ojeleye, Semi",4.2,"3,500",bos,@ bkn, 87-85,7:03,   0pt 1rb 1bl
+2018-01-06,SF,"Pondexter, Quincy",3.2,"3,500",chi,@ ind, 86-125,9:26,   2pt 1rb 1-3fg
+2018-01-06,SF,"Bjelica, Nemanja",2.2,"3,500",min,v nor, 116-98,12:03,   2pt 1rb 1to 1-1fg
+2018-01-06,PF,"Poythress, Alex",1.2,"3,500",ind,v chi, 125-86,4:59,   0pt 1rb 0-1fg
+2018-01-06,SF,"Craig, Torrey",1.2,"3,500",den,@ sac, 98-106,9:55,   0pt 1rb 0-2fg
+2018-01-06,SF,"Jackson, Justin",0,"3,500",sac,v den, 106-98,0,   
+2018-01-06,SF,"Montero, Luis",0,"3,500",det,v hou, 108-101,0,   
+2018-01-06,SF,"Muhammad, Shabazz",0,"3,500",min,v nor, 116-98,0,   
+2018-01-06,SF,"Allen, Tony",0,"3,600",nor,@ min, 98-116,0,   
+2018-01-06,SF,"Jefferson, Richard",0,"3,500",den,@ sac, 98-106,0,   
+2018-01-06,PF,"Yabusele, Guerschon",0,"3,500",bos,@ bkn, 87-85,0,   
+2018-01-06,SF,"Sampson, JaKarr",0,"3,500",sac,v den, 106-98,0,   
+2018-01-06,PF,"Birch, Khem",0,"3,500",orl,v cle, 127-131,0,   
+2018-01-06,PF,"Moute, Luc",0,"3,500",hou,@ det, 101-108,0,   
+2018-01-06,SF,"Simmons, Jonathon",0,"5,700",orl,v cle, 127-131,0,   
+2018-01-06,PF,"Arthur, Darrell",0,"3,500",den,@ sac, 98-106,0,   
+2018-01-06,PF,"Faried, Kenneth",0,"3,500",den,@ sac, 98-106,0,   
+2018-01-06,PF,"Ellenson, Henry",0,"3,500",det,v hou, 108-101,0,   
+2018-01-06,PF,"Smith, Jason",0,"3,500",was,v mil, 103-110,0,   
+2018-01-06,SF,"Hernangomez, Juan",0,"3,500",den,@ sac, 98-106,0,   
+2018-01-06,SF,"Robinson, Devin",0,"3,500",was,v mil, 103-110,0,   
+2018-01-06,PF,"McCullough, Chris",0,"3,500",was,v mil, 103-110,0,   
+2018-01-06,PF,"Giles, Harry",0,"3,500",sac,v den, 106-98,0,   
+2018-01-06,PF,"Boucher, Chris",0,"3,500",gsw,@ lac, 121-105,0,   
+2018-01-06,SF,"Durant, Kevin",0,"10,700",gsw,@ lac, 121-105,0,   
+2018-01-06,PF,"Wilson, DJ",0,"3,500",mil,@ was, 110-103,0,   
+2018-01-06,SF,"Porter, Otto",0,"6,700",was,v mil, 103-110,0,   
+2018-01-06,SF,"Brown, Anthony",0,"3,500",min,v nor, 116-98,0,   
+2018-01-06,SF,"Teletovic, Mirza",0,"3,500",mil,@ was, 110-103,0,   
+2018-01-06,SF,"Williams, Troy",0,"3,500",hou,@ det, 101-108,0,   
+2018-01-06,SF,"Jones, Jalen",0,"3,500",nor,@ min, 98-116,0,   
+2018-01-06,SF,"Johnson, Stanley",0,"3,700",det,v hou, 108-101,0,   
+2018-01-06,SF,"Bogdanovic, Bojan",0,"4,700",ind,v chi, 125-86,0,   
+2018-01-06,SF,"Gallinari, Danilo",0,"6,800",lac,v gsw, 105-121,0,   
+2018-01-06,PF,"Johnson, Brice",0,"3,600",lac,v gsw, 105-121,0,   
+2018-01-06,PF,"Randolph, Zach",0,"5,500",sac,v den, 106-98,0,   
+2018-01-06,PF,"Bolomboy, Joel",0,"3,500",mil,@ was, 110-103,0,   
+2018-01-06,SF,"III, Glenn",0,"3,500",ind,v chi, 125-86,0,   
+2018-01-06,SF,"Holland, John",0,"3,500",cle,@ orl, 131-127,0,   
+2018-01-06,PF,"Leuer, Jon",0,"3,500",det,v hou, 108-101,0,   
+2018-01-06,SF,"Hill, Solomon",0,"3,700",nor,@ min, 98-116,0,   
+2018-01-06,PF,"Payne, Adreian",0,"3,500",orl,v cle, 127-131,0,   
+2018-01-06,PF,"Isaac, Jonathan",0,"3,800",orl,v cle, 127-131,0,   
+2018-01-06,SF,"Artis, Jamel",0,"3,500",orl,v cle, 127-131,0,   
+2018-01-06,PF,"Lydon, Tyler",0,"3,500",den,@ sac, 98-106,0,   
+2018-01-06,C,"Cousins, DeMarcus",50.5,"11,200",nor,@ min, 98-116,38:46,   23pt 15rb 5as 3bl 7to 2trey 6-11fg 9-10ft
+2018-01-06,C,"Towns, Karl",48.7,"9,000",min,v nor, 116-98,34:54,   21pt 16rb 3as 1st 1bl 2to 3trey 7-11fg 4-4ft
+2018-01-06,C,"Stein, Willie",45.8,"6,900",sac,v den, 106-98,25:25,   17pt 4rb 2as 7st 8-12fg 1-3ft
+2018-01-06,C,"Gortat, Marcin",35.9,"4,600",was,v mil, 103-110,33:14,   17pt 7rb 1as 3bl 7-10fg 3-6ft
+2018-01-06,C,"Love, Kevin",34.5,"7,700",cle,@ orl, 131-127,28:04,   27pt 5rb 1as 6trey 8-17fg 5-5ft
+2018-01-06,C,"Jordan, DeAndre",31.7,"7,900",lac,v gsw, 105-121,24:30,   15pt 11rb 1as 1bl 1to 5-8fg 5-7ft
+2018-01-06,C,"Capela, Clint",30.2,"7,400",hou,@ det, 101-108,27:46,   14pt 11rb 2bl 3to 7-15fg
+2018-01-06,C,"Koufos, Kosta",27.9,"3,500",sac,v den, 106-98,23:28,   12pt 7rb 1as 2st 5-8fg 2-2ft
+2018-01-06,C,"Plumlee, Mason",26.6,"5,300",den,@ sac, 98-106,17:14,   9pt 8rb 3bl 1to 3-5fg 3-5ft
+2018-01-06,C,"Jokic, Nikola",26.4,"9,700",den,@ sac, 98-106,34:18,   8pt 7rb 10as 5to 3-10fg 2-2ft
+2018-01-06,C,"Biyombo, Bismack",26.2,"6,200",orl,v cle, 127-131,27:38,   8pt 11rb 2as 1bl 1to 2-6fg 4-4ft
+2018-01-06,C,"Zeller, Tyler",25,"3,500",bkn,v bos, 85-87,15:47,   7pt 5rb 2as 3bl 3-5fg 1-2ft
+2018-01-06,C,"Okafor, Jahlil",23,"3,500",bkn,v bos, 85-87,12:39,   12pt 5rb 2bl 1to 5-12fg 2-2ft
+2018-01-06,C,"McGee, JaVale",20.8,"3,500",gsw,@ lac, 121-105,13:20,   11pt 4rb 2bl 1to 4-5fg 3-5ft
+2018-01-06,C,"Baynes, Aron",20.7,"3,700",bos,@ bkn, 87-85,20:11,   10pt 6rb 1as 1bl 1to 5-14fg
+2018-01-06,C,"Marjanovic, Boban",20.5,"4,700",det,v hou, 108-101,11:57,   10pt 5rb 1as 2bl 3to 4-8fg 2-4ft
+2018-01-06,C,"Reed, Willie",19.2,"3,500",lac,v gsw, 105-121,22:26,   9pt 6rb 1bl 4-6fg 1-2ft
+2018-01-06,C,"Turner, Myles",17.5,"6,600",ind,v chi, 125-86,20:22,   13pt 5rb 1as 3to 1trey 5-10fg 2-2ft
+2018-01-06,C,"Thompson, Tristan",16.9,"3,900",cle,@ orl, 131-127,19:56,   9pt 7rb 1as 2to 4-6fg 1-3ft
+2018-01-06,C,"Mahinmi, Ian",14.5,"3,500",was,v mil, 103-110,13:59,   6pt 5rb 1as 1st 2to 3-4fg 0-1ft
+2018-01-06,C,"Lopez, Robin",13.4,"4,800",chi,@ ind, 86-125,20:21,   10pt 2rb 1bl 2to 4-5fg 2-2ft
+2018-01-06,C,"Pachulia, Zaza",13,"3,600",gsw,@ lac, 121-105,13:40,   4pt 5rb 1st 2-6fg
+2018-01-06,C,"Speights, Marreese",12.4,"3,800",orl,v cle, 127-131,12:59,   8pt 2rb 2as 1to 2trey 3-6fg
+2018-01-06,C,"Maker, Thon",7.4,"3,700",mil,@ was, 110-103,10:38,   4pt 2rb 1bl 2to 2-5fg 0-2ft
+2018-01-06,C,"Allen, Jarrett",4.6,"4,100",bkn,v bos, 85-87,10:33,   0pt 3rb 1st 1bl 5to
+2018-01-06,C,"Aldrich, Cole",2,"3,500",min,v nor, 116-98,1:45,   2pt 1-1fg
+2018-01-06,C,"Papagiannis, Georgios",0,"3,500",sac,v den, 106-98,0,   
+2018-01-06,C,"Jefferson, Al",0,"4,000",ind,v chi, 125-86,0,   
+2018-01-06,C,"Frye, Channing",0,"3,500",cle,@ orl, 131-127,0,   
+2018-01-06,C,"Cooley, Jack",0,"3,500",sac,v den, 106-98,0,   
+2018-01-06,C,"Drummond, Andre",0,"9,500",det,v hou, 108-101,0,   
+2018-01-06,C,"Onuaku, Chinanu",0,"3,500",hou,@ det, 101-108,0,   
+2018-01-06,C,"Mozgov, Timofey",0,"3,700",bkn,v bos, 85-87,0,   
+2018-01-06,C,"Asik, Omer",0,"3,600",nor,@ min, 98-116,0,   
+2018-01-06,C,"Horford, Al",0,"7,400",bos,@ bkn, 87-85,0,   
+2018-01-06,C,"Felicio, Cristiano",0,"3,500",chi,@ ind, 86-125,0,   
+2018-01-06,C,"Jones, Damian",0,"3,500",gsw,@ lac, 121-105,0,   
+2018-01-06,C,"Hilario, Nene",0,"3,600",hou,@ det, 101-108,0,   
+2018-01-06,C,"Vucevic, Nikola",0,"8,800",orl,v cle, 127-131,0,   
+2018-01-06,C,"Qi, Zhou",0,"3,500",hou,@ det, 101-108,0,   
+2018-01-06,C,"Zizic, Ante",0,"3,500",cle,@ orl, 131-127,0,   
+2018-01-06,C,"Ajinca, Alexis",0,"3,500",nor,@ min, 98-116,0,   
+2018-01-06,C,"Anigbogu, Ike",0,"3,500",ind,v chi, 125-86,0,   
+2018-01-06,C,"Patton, Justin",0,"3,500",min,v nor, 116-98,0,   
+2018-01-06,NA,"Wallace, Tyrone",27.6,N/A,lac,v gsw, 105-121,31:28,   13pt 3rb 2as 3st 1to 1trey 4-12fg 4-4ft
+2018-01-06,NA,"Hunt, Marcus",5,N/A,min,v nor, 116-98,1:49,   2pt 1st 1-2fg

@@ -1,0 +1,324 @@
+Date,Position,"LastName, FirstName",FD PTS,Salary,Team,Opp Team,Score,Min,Statline
+2017-11-29,PG,"Westbrook, Russell",65.7,"11,000",okc,@ orl, 108-121,37:47,   37pt 11rb 5as 5st 7to 7trey 11-23fg 8-12ft
+2017-11-29,SG,"Harden, James",55.6,"12,200",hou,v ind, 118-97,35:19,   29pt 8rb 10as 1st 1to 4trey 8-22fg 9-9ft
+2017-11-29,PG,"Lowry, Kyle",51,"8,200",tor,v cha, 126-113,36:42,   36pt 5rb 6as 1st 3to 8trey 12-18fg 4-4ft
+2017-11-29,SG,"Oladipo, Victor",49.1,"8,400",ind,@ hou, 97-118,34:10,   19pt 3rb 5as 5st 2bl 2to 1trey 8-20fg 2-2ft
+2017-11-29,PG,"Payton, Elfrid",47,"7,300",orl,v okc, 121-108,30:55,   19pt 5rb 6as 4st 1bl 2to 8-10fg 3-5ft
+2017-11-29,SG,"Wiggins, Andrew",46.1,"6,800",min,@ nor, 120-102,36:32,   28pt 8rb 5as 1bl 2to 3trey 10-18fg 5-5ft
+2017-11-29,SG,"DeRozan, DeMar",42.8,"7,100",tor,v cha, 126-113,35:26,   30pt 4rb 6as 1to 14-22fg 2-3ft
+2017-11-29,SG,"Holiday, Jrue",41.7,"6,800",nor,v min, 102-120,38:09,   27pt 1rb 5as 2st 1bl 3to 5trey 10-20fg 2-2ft
+2017-11-29,PG,"Jones, Tyus",40.8,"5,300",min,@ nor, 120-102,41:35,   16pt 4rb 6as 4st 1to 2trey 6-9fg 2-3ft
+2017-11-29,PG,"Curry, Stephen",39.5,"9,800",gsw,@ lal, 127-123,39:23,   28pt 5rb 7as 5to 3trey 9-20fg 7-8ft
+2017-11-29,SG,"Clarkson, Jordan",39.2,"5,000",lal,v gsw, 123-127,35:31,   21pt 6rb 8as 1to 2trey 9-19fg 1-1ft
+2017-11-29,PG,"Jackson, Reggie",33.7,"5,800",det,v pho, 131-107,21:56,   23pt 1rb 5as 2st 4to 2trey 9-13fg 3-4ft
+2017-11-29,PG,"Dinwiddie, Spencer",33.6,"7,000",bkn,@ dal, 109-104,32:58,   19pt 3rb 6as 1bl 1to 2trey 6-15fg 5-8ft
+2017-11-29,PG,"Ball, Lonzo",33.4,"6,700",lal,v gsw, 123-127,43:20,   15pt 2rb 10as 1st 2to 3trey 5-12fg 2-2ft
+2017-11-29,SG,"Lamb, Jeremy",31.1,"6,300",cha,@ tor, 113-126,28:41,   18pt 3rb 3as 1st 1bl 1to 2trey 7-13fg 2-2ft
+2017-11-29,SG,"LeVert, Caris",30.7,"4,800",bkn,@ dal, 109-104,27:51,   13pt 6rb 5as 1st 2trey 5-13fg 1-2ft
+2017-11-29,SG,"Pope, Kentavious",30.4,"6,200",lal,v gsw, 123-127,41:32,   21pt 7rb 1st 2to 2trey 7-18fg 5-6ft
+2017-11-29,SG,"Beal, Bradley",30.3,"8,300",was,@ phi, 113-118,22:57,   21pt 4rb 1as 1st 4trey 6-12fg 5-5ft
+2017-11-29,SG,"Meeks, Jodie",29.3,"3,500",was,@ phi, 113-118,26:27,   21pt 4rb 1as 1st 1to 3trey 5-11fg 8-9ft
+2017-11-29,SG,"Evans, Tyreke",29.1,"7,500",mem,@ sas, 95-104,30:43,   22pt 3rb 5as 4to 3trey 9-17fg 1-2ft
+2017-11-29,PG,"Paul, Chris",28.7,"8,700",hou,v ind, 118-97,29:33,   13pt 6rb 7as 2to 2trey 5-8fg 1-2ft
+2017-11-29,PG,"Smith, Ishmael",28.6,"3,800",det,v pho, 131-107,20:41,   14pt 3rb 6as 1bl 1to 6-10fg 2-3ft
+2017-11-29,SG,"Waiters, Dion",28.2,"6,000",mia,@ nyk, 86-115,29:57,   10pt 1rb 8as 1st 1bl 1to 1trey 3-10fg 3-6ft
+2017-11-29,SG,"Kennard, Luke",27.4,"3,500",det,v pho, 131-107,26:09,   12pt 2rb 6as 2st 2to 2trey 4-8fg 2-2ft
+2017-11-29,SG,"Thompson, Klay",26.6,"7,200",gsw,@ lal, 127-123,38:41,   20pt 3rb 2as 4trey 6-12fg 4-4ft
+2017-11-29,SG,"Bradley, Avery",26.5,"5,300",det,v pho, 131-107,28:10,   20pt 1as 2st 1to 2trey 9-12fg
+2017-11-29,PG,"Satoransky, Tomas",26.4,"3,500",was,@ phi, 113-118,28:51,   12pt 2rb 8as 4-7fg 4-4ft
+2017-11-29,PG,"Johnson, Tyler",25.7,"4,800",mia,@ nyk, 86-115,29:26,   13pt 1rb 3as 2st 1bl 2to 1trey 5-11fg 2-2ft
+2017-11-29,PG,"Mills, Patty",25.1,"4,500",sas,v mem, 104-95,26:59,   13pt 3rb 5as 1st 2to 2trey 2-7fg 7-7ft
+2017-11-29,SG,"Roberson, Andre",24.3,"3,800",okc,@ orl, 108-121,30:00,   11pt 9rb 1as 1bl 2to 5-8fg 1-2ft
+2017-11-29,SG,"Booker, Devin",22.8,"6,900",pho,@ det, 107-131,27:12,   22pt 4rb 1st 7to 2trey 7-8fg 6-6ft
+2017-11-29,PG,"James, Mike",22.8,"4,400",pho,@ det, 107-131,15:55,   8pt 4rb 4as 1st 1bl 2to 3-8fg 2-4ft
+2017-11-29,PG,"VanVleet, Fred",22.7,"3,800",tor,v cha, 126-113,18:31,   8pt 1rb 9as 2trey 3-6fg 0-1ft
+2017-11-29,PG,"Ulis, Tyler",22.4,"4,300",pho,@ det, 107-131,22:57,   13pt 2rb 4as 1st 2to 1trey 4-8fg 4-4ft
+2017-11-29,PG,"Harrison, Andrew",22.2,"3,500",mem,@ sas, 95-104,24:15,   13pt 6rb 2as 1to 2trey 5-9fg 1-2ft
+2017-11-29,SG,"Harris, Devin",21.9,"3,700",dal,v bkn, 104-109,22:56,   11pt 2rb 3as 2st 2to 1trey 5-8fg 0-1ft
+2017-11-29,PG,"Collison, Darren",20.7,"6,400",ind,@ hou, 97-118,32:12,   5pt 6rb 5as 1st 2to 1trey 2-8fg
+2017-11-29,SG,"Monk, Malik",20.4,"3,500",cha,@ tor, 113-126,15:53,   9pt 2rb 4as 1bl 3trey 3-6fg
+2017-11-29,PG,"Bayless, Jerryd",20.2,"3,700",phi,v was, 118-113,25:38,   14pt 1rb 4as 1to 4-7fg 6-8ft
+2017-11-29,PG,"Augustin, DJ",19.7,"3,500",orl,v okc, 121-108,17:05,   11pt 1rb 3as 1st 2trey 4-5fg 1-2ft
+2017-11-29,SG,"Barea, Jose",19.6,"4,700",dal,v bkn, 104-109,21:49,   9pt 3rb 6as 2to 1trey 4-12fg
+2017-11-29,PG,"Parker, Tony",18.9,"3,500",sas,v mem, 104-95,17:54,   10pt 2rb 5as 1to 4-7fg 2-2ft
+2017-11-29,SG,"Batum, Nicolas",18.7,"5,800",cha,@ tor, 113-126,32:35,   10pt 1rb 5as 1st 3to 1trey 3-9fg 3-3ft
+2017-11-29,PG,"Williams, Michael",18.7,"5,200",cha,@ tor, 113-126,32:07,   9pt 6rb 5as 5to 1-10fg 7-7ft
+2017-11-29,PG,"Ferrell, Yogi",18.5,"3,500",dal,v bkn, 104-109,21:40,   8pt 5rb 1as 1bl 2-7fg 4-4ft
+2017-11-29,PG,"Jack, Jarrett",18.1,"4,700",nyk,v mia, 115-86,23:59,   2pt 3rb 7as 1st 1to 1-3fg
+2017-11-29,PG,"Sessions, Ramon",18,"3,500",nyk,v mia, 115-86,24:01,   8pt 6as 1st 2to 3-9fg 2-2ft
+2017-11-29,SG,"Green, Danny",17.8,"4,900",sas,v mem, 104-95,27:56,   5pt 4rb 2as 1st 1bl 1to 1trey 2-4fg
+2017-11-29,PG,"Nelson, Jameer",17.7,"3,500",nor,v min, 102-120,26:52,   7pt 1rb 3as 2st 1to 1trey 3-4fg
+2017-11-29,PG,"Galloway, Langston",17.3,"3,500",det,v pho, 131-107,19:50,   9pt 4rb 1as 1bl 1to 3trey 3-8fg
+2017-11-29,SG,"McLemore, Ben",17.1,"3,500",mem,@ sas, 95-104,27:28,   10pt 3rb 1as 1st 1to 2trey 3-10fg 2-2ft
+2017-11-29,SG,"Crawford, Jamal",16.7,"3,500",min,@ nor, 120-102,25:42,   12pt 1rb 3as 1to 5-11fg 2-3ft
+2017-11-29,SG,"Jr, Tim",16,"6,100",nyk,v mia, 115-86,29:23,   12pt 2as 1st 2to 1trey 5-11fg 1-2ft
+2017-11-29,SG,"Redick, JJ",16,"5,700",phi,v was, 118-113,30:19,   8pt 4as 1bl 1to 4-12fg
+2017-11-29,SG,"Gordon, Eric",15.7,"4,800",hou,v ind, 118-97,26:24,   10pt 1rb 3as 1st 3to 1trey 4-10fg 1-4ft
+2017-11-29,PG,"Jr, Dennis",14.9,"5,800",dal,v bkn, 104-109,25:20,   10pt 2rb 3as 2to 3-11fg 4-4ft
+2017-11-29,PG,"Rondo, Rajon",14.7,"4,800",nor,v min, 102-120,26:58,   3pt 1rb 7as 1st 3to 1trey 1-3fg
+2017-11-29,PG,"Baker, Ron",13.9,"3,500",nyk,v mia, 115-86,8:48,   2pt 2rb 3as 2st 1to 1-1fg
+2017-11-29,SG,"Powell, Norman",13.8,"4,600",tor,v cha, 126-113,17:03,   10pt 4rb 1to 2trey 3-7fg 2-2ft
+2017-11-29,SG,"Ross, Terrence",13.7,"4,700",orl,v okc, 121-108,13:40,   6pt 1rb 1as 2bl 1to 2trey 2-3fg
+2017-11-29,SG,"Matthews, Wes",13.6,"5,000",dal,v bkn, 104-109,36:05,   8pt 3rb 2as 1to 2trey 3-8fg
+2017-11-29,PG,"Dragic, Goran",12.9,"6,900",mia,@ nyk, 86-115,23:15,   6pt 2rb 3as 3-12fg
+2017-11-29,SG,"Moore, E",11.9,"4,000",nor,v min, 102-120,26:42,   5pt 2rb 1as 1st 2-8fg 1-1ft
+2017-11-29,PG,"Felton, Raymond",11.8,"3,500",okc,@ orl, 108-121,16:08,   5pt 4rb 2as 1to 2-9fg 1-2ft
+2017-11-29,SG,"Young, Nick",10.4,"3,500",gsw,@ lal, 127-123,13:53,   9pt 2rb 1to 1trey 3-5fg 2-3ft
+2017-11-29,SG,"Ellington, Wayne",10.2,"3,500",mia,@ nyk, 86-115,27:04,   3pt 1rb 2st 1trey 1-7fg
+2017-11-29,SG,"Forbes, Bryn",9.7,"3,500",sas,v mem, 104-95,17:09,   7pt 1rb 1as 2trey 2-6fg 1-3ft
+2017-11-29,SG,"Ginobili, Manu",9.2,"3,500",sas,v mem, 104-95,23:35,   4pt 1rb 4as 2to 2-5fg
+2017-11-29,PG,"Frazier, Tim",9.1,"4,900",was,@ phi, 113-118,19:09,   4pt 3rb 3as 3to 2-4fg
+2017-11-29,SG,"Hart, Josh",8.6,"3,500",lal,v gsw, 123-127,12:42,   6pt 3rb 1to 2-3fg 2-2ft
+2017-11-29,PG,"Whitehead, Isaiah",8.2,"3,800",bkn,@ dal, 109-104,11:37,   6pt 1rb 2as 2to 3-7fg
+2017-11-29,SG,"Kilpatrick, Sean",7.6,"3,600",bkn,@ dal, 109-104,17:03,   3pt 3rb 2as 2to 1trey 1-6fg
+2017-11-29,PG,"Livingston, Shaun",7.2,"3,900",gsw,@ lal, 127-123,9:40,   5pt 1rb 1st 2to 2-2fg 1-2ft
+2017-11-29,SG,"Luwawu, Timothe",7.1,"3,500",phi,v was, 118-113,15:55,   3pt 3rb 1as 1to 1trey 1-4fg
+2017-11-29,PG,"McConnell, TJ",6.9,"6,400",phi,v was, 118-113,15:50,   4pt 2rb 1as 1to 2-2fg
+2017-11-29,PG,"Brooks, Aaron",6.7,"3,500",min,@ nor, 120-102,7:14,   5pt 1rb 1as 1to 1trey 2-4fg
+2017-11-29,PG,"Weber, Briante",5.4,"3,500",hou,v ind, 118-97,2:22,   0pt 2rb 1st
+2017-11-29,SG,"Dotson, Damyean",5,"3,500",nyk,v mia, 115-86,5:50,   5pt 1trey 2-4fg
+2017-11-29,PG,"Joseph, Cory",4.5,"3,900",ind,@ hou, 97-118,25:23,   0pt 1as 1st 0-3fg
+2017-11-29,PG,"Clark, Ian",3.5,"3,500",nor,v min, 102-120,2:29,   2pt 1as 1-1fg
+2017-11-29,SG,"Afflalo, Arron",3.2,"3,500",orl,v okc, 121-108,16:13,   0pt 1rb 1bl 1to 0-2fg
+2017-11-29,PG,"Murray, Dejounte",3,"3,700",sas,v mem, 104-95,4:47,   3pt 1-1fg 1-2ft
+2017-11-29,PG,"Jr, Derrick",3,"3,500",mia,@ nyk, 86-115,4:00,   0pt 1st 0-1fg
+2017-11-29,SG,"McCaw, Patrick",3,"4,100",gsw,@ lal, 127-123,8:25,   0pt 2as 0-1fg
+2017-11-29,PG,"Young, Joseph",3,"3,500",ind,@ hou, 97-118,4:15,   5pt 2to 2-4fg 1-1ft
+2017-11-29,SG,"Ferguson, Terrance",2.4,"3,500",okc,@ orl, 108-121,19:32,   0pt 2rb 0-3fg
+2017-11-29,SG,"Daniels, Troy",2,"3,500",pho,@ det, 107-131,15:57,   3pt 1to 1trey 1-4fg
+2017-11-29,SG,"Simmons, Kobi",2,"3,500",mem,@ sas, 95-104,5:02,   2pt 1-1fg
+2017-11-29,PG,"Brown, Bobby",0,"3,500",hou,v ind, 118-97,2:22,   0pt 0-1fg
+2017-11-29,SG,"Wilkins, Damien",0,"3,500",ind,@ hou, 97-118,2:22,   0pt
+2017-11-29,SG,"Paul, Brandon",0,"3,500",sas,v mem, 104-95,4:19,   0pt
+2017-11-29,SG,"Graham, Treveon",0,"3,500",cha,@ tor, 113-126,1:20,   0pt
+2017-11-29,SG,"Korkmaz, Furkan",0,"3,500",phi,v was, 118-113,0,   
+2017-11-29,PG,"Brown, Lorenzo",0,"3,500",tor,v cha, 126-113,0,   
+2017-11-29,PG,"Ennis, Tyler",0,"3,500",lal,v gsw, 123-127,0,   
+2017-11-29,SG,"Cleveland, Antonius",0,"3,500",dal,v bkn, 104-109,0,   
+2017-11-29,PG,"Mack, Shelvin",0,"3,800",orl,v okc, 121-108,0,   
+2017-11-29,PG,"Wall, John",0,"9,300",was,@ phi, 113-118,0,   
+2017-11-29,PG,"Pullen, Jacob",0,"3,500",phi,v was, 118-113,0,   
+2017-11-29,SG,"Abrines, Alex",0,"3,500",okc,@ orl, 108-121,0,   
+2017-11-29,SG,"Stauskas, Nik",0,"3,500",phi,v was, 118-113,0,   
+2017-11-29,PG,"Teague, Jeff",0,"7,300",min,@ nor, 120-102,0,   
+2017-11-29,PG,"Stone, Julyan",0,"3,500",cha,@ tor, 113-126,0,   
+2017-11-29,PG,"Cook, Quinn",0,"3,500",gsw,@ lal, 127-123,0,   
+2017-11-29,SG,"Curry, Seth",0,"4,400",dal,v bkn, 104-109,0,   
+2017-11-29,PG,"Ntilikina, Frank",0,"3,500",nyk,v mia, 115-86,0,   
+2017-11-29,PG,"White, Derrick",0,"3,500",sas,v mem, 104-95,0,   
+2017-11-29,PG,"Sumner, Edmond",0,"3,500",ind,@ hou, 97-118,0,   
+2017-11-29,PG,"Buycks, Dwight",0,"3,500",det,v pho, 131-107,0,   
+2017-11-29,SG,"Williams, Matt",0,"3,500",mia,@ nyk, 86-115,0,   
+2017-11-29,SG,"Cooke, Charles",0,"3,500",nor,v min, 102-120,0,   
+2017-11-29,PG,"Walker, Kemba",0,"7,200",cha,@ tor, 113-126,0,   
+2017-11-29,SG,"Russell, D",0,"7,400",bkn,@ dal, 109-104,0,   
+2017-11-29,PG,"Conley, Mike",0,"7,100",mem,@ sas, 95-104,0,   
+2017-11-29,PG,"Paige, Marcus",0,"3,500",cha,@ tor, 113-126,0,   
+2017-11-29,SG,"Ouattara, Yakuba",0,"3,500",bkn,@ dal, 109-104,0,   
+2017-11-29,SG,"Blue, Vander",0,"3,500",lal,v gsw, 123-127,0,   
+2017-11-29,SG,"Hilliard, Darrun",0,"3,500",sas,v mem, 104-95,0,   
+2017-11-29,SG,"Dozier, PJ",0,"3,500",okc,@ orl, 108-121,0,   
+2017-11-29,PG,"Wiley, Jacob",0,"3,500",bkn,@ dal, 109-104,0,   
+2017-11-29,SG,"Selden, Wayne",0,"3,500",mem,@ sas, 95-104,0,   
+2017-11-29,PG,"Jackson, Demetrius",0,"3,500",hou,v ind, 118-97,0,   
+2017-11-29,SG,"Caruso, Alex",0,"3,500",lal,v gsw, 123-127,0,   
+2017-11-29,PG,"Wright, Delon",0,"3,500",tor,v cha, 126-113,0,   
+2017-11-29,PG,"Chalmers, Mario",0,"6,900",mem,@ sas, 95-104,0,   
+2017-11-29,PF,"Gordon, Aaron",78,"7,700",orl,v okc, 121-108,43:57,   40pt 15rb 4as 4st 1bl 1to 6trey 13-23fg 8-11ft
+2017-11-29,PF,"Simmons, Ben",64.6,"10,100",phi,v was, 118-113,40:36,   31pt 18rb 4as 2st 2bl 6to 8-16fg 15-29ft
+2017-11-29,PF,"Aldridge, LaMarcus",51.7,"8,700",sas,v mem, 104-95,36:47,   41pt 6rb 1as 1bl 1to 3trey 17-24fg 4-4ft
+2017-11-29,SF,"Ingram, Brandon",50.5,"6,100",lal,v gsw, 123-127,44:01,   32pt 5rb 3as 3st 2bl 7to 2trey 12-21fg 6-7ft
+2017-11-29,PF,"Green, Draymond",49.7,"7,800",gsw,@ lal, 127-123,38:20,   15pt 11rb 9as 4st 4to 1trey 5-10fg 4-6ft
+2017-11-29,SF,"Durant, Kevin",44.9,"10,500",gsw,@ lal, 127-123,42:19,   29pt 7rb 5as 1st 1bl 6to 3trey 12-25fg 2-4ft
+2017-11-29,PF,"Dieng, Gorgui",43.7,"3,500",min,@ nor, 120-102,36:32,   19pt 6rb 5as 4st 2to 1trey 8-13fg 2-2ft
+2017-11-29,SF,"Barnes, Harrison",40.6,"6,500",dal,v bkn, 104-109,36:20,   17pt 8rb 6as 2st 1to 5-10fg 7-8ft
+2017-11-29,SF,"Oubre, Kelly",39.4,"4,300",was,@ phi, 113-118,28:39,   22pt 7rb 4as 1st 1bl 3to 1trey 7-15fg 7-7ft
+2017-11-29,PF,"Saric, Dario",38.6,"5,700",phi,v was, 118-113,32:10,   24pt 8rb 2as 1st 1to 1trey 8-12fg 7-7ft
+2017-11-29,SF,"Lee, Courtney",37,"5,100",nyk,v mia, 115-86,28:27,   17pt 5rb 2as 3st 1bl 1to 2trey 5-9fg 5-5ft
+2017-11-29,SF,"Jackson, Josh",36.9,"4,000",pho,@ det, 107-131,31:33,   20pt 7rb 1as 3st 2to 9-19fg 2-4ft
+2017-11-29,SF,"George, Paul",36.5,"8,600",okc,@ orl, 108-121,40:37,   22pt 5rb 5as 1st 2to 2trey 7-17fg 6-7ft
+2017-11-29,PF,"Powell, Dwight",30.9,"3,800",dal,v bkn, 104-109,20:28,   14pt 7rb 3as 1st 1bl 2to 1trey 6-8fg 1-2ft
+2017-11-29,PF,"Harris, Tobias",29.9,"6,700",det,v pho, 131-107,26:49,   20pt 7rb 1as 2trey 8-14fg 2-3ft
+2017-11-29,SF,"Carroll, DeMarre",29.9,"5,800",bkn,@ dal, 109-104,33:54,   22pt 7rb 1as 2to 4trey 7-14fg 4-5ft
+2017-11-29,PF,"Randle, Julius",29.8,"4,600",lal,v gsw, 123-127,31:09,   20pt 4rb 2as 1bl 1to 9-13fg 2-4ft
+2017-11-29,PF,"Anderson, Ryan",29.8,"4,300",hou,v ind, 118-97,31:01,   19pt 9rb 2as 3to 5trey 6-11fg 2-2ft
+2017-11-29,PF,"Anthony, Carmelo",29.4,"6,200",okc,@ orl, 108-121,34:12,   16pt 7rb 2as 1bl 1to 3trey 5-16fg 3-3ft
+2017-11-29,PF,"Kaminsky, Frank",29.4,"3,600",cha,@ tor, 113-126,27:35,   18pt 7rb 2as 2trey 7-13fg 2-2ft
+2017-11-29,SF,"Butler, Jimmy",29.3,"8,600",min,@ nor, 120-102,32:57,   19pt 4rb 3as 1st 2to 1trey 8-12fg 2-2ft
+2017-11-29,PF,"Gibson, Taj",29,"5,100",min,@ nor, 120-102,37:56,   10pt 10rb 4as 1st 2to 4-7fg 2-2ft
+2017-11-29,SF,"Anderson, Kyle",28.8,"6,100",sas,v mem, 104-95,29:08,   10pt 4rb 2as 4st 1to 4-7fg 2-3ft
+2017-11-29,PF,"Young, Thaddeus",28.8,"6,000",ind,@ hou, 97-118,31:20,   23pt 4rb 2as 2to 1trey 11-15fg
+2017-11-29,SF,"Richardson, Josh",28.1,"4,300",mia,@ nyk, 86-115,30:18,   13pt 3rb 1as 3st 1bl 2to 2trey 5-14fg 1-2ft
+2017-11-29,PF,"Booker, Trevor",28,"4,900",bkn,@ dal, 109-104,28:13,   16pt 10rb 2as 3to 8-13fg 0-2ft
+2017-11-29,SF,"Covington, Robert",27.9,"6,200",phi,v was, 118-113,33:56,   9pt 12rb 1as 2st 3to 1trey 4-12fg
+2017-11-29,PF,"Nance, Larry",27.3,"4,900",lal,v gsw, 123-127,22:27,   0pt 4rb 5as 4st 1bl 0-2fg
+2017-11-29,PF,"Kleber, Maxi",26.4,"3,500",dal,v bkn, 104-109,22:37,   16pt 7rb 1bl 1to 2trey 7-11fg
+2017-11-29,PF,"Olynyk, Kelly",26,"4,200",mia,@ nyk, 86-115,25:09,   18pt 5rb 2as 1bl 4to 3trey 6-11fg 3-3ft
+2017-11-29,SF,"Ennis, James",25.5,"3,500",mem,@ sas, 95-104,23:21,   15pt 5rb 1as 2st 3to 1trey 4-6fg 6-6ft
+2017-11-29,PF,"Chriss, Marquese",25.3,"3,700",pho,@ det, 107-131,22:51,   10pt 4rb 1as 2st 1bl 1trey 2-6fg 5-6ft
+2017-11-29,SF,"Stephenson, Lance",24.8,"5,200",ind,@ hou, 97-118,24:59,   11pt 4rb 4as 1st 1trey 5-8fg
+2017-11-29,SF,"Ariza, Trevor",23.9,"5,200",hou,v ind, 118-97,26:01,   14pt 2rb 1as 3st 3to 4trey 5-7fg
+2017-11-29,PF,"Ibaka, Serge",23.1,"4,900",tor,v cha, 126-113,29:31,   8pt 8rb 1as 1st 1bl 2to 4-12fg
+2017-11-29,SF,"Porter, Otto",22.8,"7,300",was,@ phi, 113-118,25:14,   8pt 4rb 2as 3st 2to 3-14fg 2-2ft
+2017-11-29,PF,"Green, JaMychal",22.6,"6,000",mem,@ sas, 95-104,28:25,   9pt 8rb 2as 1st 2to 1trey 4-9fg
+2017-11-29,SF,"Gay, Rudy",22.5,"4,900",sas,v mem, 104-95,22:00,   7pt 5rb 1as 1st 2bl 1to 2-8fg 3-3ft
+2017-11-29,PF,"Grant, Jerami",22.2,"3,500",okc,@ orl, 108-121,20:02,   9pt 1rb 2as 1st 2bl 4-6fg 1-2ft
+2017-11-29,SF,"Fournier, Evan",21.7,"5,200",orl,v okc, 121-108,32:59,   16pt 1rb 3as 1bl 3to 3trey 5-12fg 3-3ft
+2017-11-29,PF,"Davis, Anthony",21,"10,800",nor,v min, 102-120,17:43,   17pt 5rb 2to 7-13fg 3-3ft
+2017-11-29,PF,"Moreland, Eric",20.7,"3,500",det,v pho, 131-107,14:45,   4pt 6rb 3as 2bl 1to 1-2fg 2-2ft
+2017-11-29,PF,"Nowitzki, Dirk",19.9,"5,300",dal,v bkn, 104-109,26:05,   10pt 7rb 1as 2trey 4-9fg
+2017-11-29,SF,"Harris, Joe",18.8,"4,000",bkn,@ dal, 109-104,30:12,   11pt 4rb 2as 1trey 4-9fg 2-3ft
+2017-11-29,SF,"Bogdanovic, Bojan",18.2,"4,500",ind,@ hou, 97-118,31:22,   15pt 1rb 1st 1to 3trey 6-12fg
+2017-11-29,SF,"McDermott, Doug",17.9,"3,500",nyk,v mia, 115-86,29:22,   12pt 2rb 1as 1bl 1to 6-7fg 0-1ft
+2017-11-29,PF,"Williams, Marvin",17.6,"4,600",cha,@ tor, 113-126,20:25,   5pt 3rb 3st 1trey 2-4fg
+2017-11-29,PF,"Bell, Jordan",16.8,"3,500",gsw,@ lal, 127-123,12:23,   6pt 4rb 2st 1bl 3to 3-4fg
+2017-11-29,SF,"Iguodala, Andre",16.7,"4,700",gsw,@ lal, 127-123,34:49,   2pt 6rb 3as 1bl 1-4fg
+2017-11-29,SF,"Winslow, Justise",16.5,"4,000",mia,@ nyk, 86-115,16:31,   5pt 5rb 3as 1st 2to 2-5fg 1-2ft
+2017-11-29,PF,"Johnson, James",16.3,"5,800",mia,@ nyk, 86-115,18:35,   9pt 4rb 1as 1st 2to 2trey 3-7fg 1-3ft
+2017-11-29,PF,"Tolliver, Anthony",16,"3,500",det,v pho, 131-107,15:48,   6pt 5rb 1st 1bl 2to 2trey 2-5fg
+2017-11-29,PF,"Siakam, Pascal",15.7,"5,200",tor,v cha, 126-113,18:29,   4pt 6rb 1as 1bl 2-4fg
+2017-11-29,SF,"Miller, Darius",15.5,"3,700",nor,v min, 102-120,25:17,   12pt 1as 1st 1to 4trey 4-10fg
+2017-11-29,SF,"Thomas, Lance",14.8,"3,500",nyk,v mia, 115-86,21:05,   8pt 4rb 2as 1to 1trey 1-2fg 5-6ft
+2017-11-29,SF,"Gilchrist, Michael",14.7,"5,100",cha,@ tor, 113-126,27:37,   12pt 1rb 1as 4-8fg 4-5ft
+2017-11-29,SF,"Johnson, Stanley",14.6,"4,000",det,v pho, 131-107,21:51,   4pt 3rb 3st 2to 2-4fg
+2017-11-29,PF,"Sabonis, Domantas",14.4,"6,200",ind,@ hou, 97-118,19:44,   4pt 7rb 1bl 1to 2-4fg
+2017-11-29,PF,"Acy, Quincy",13.5,"3,500",bkn,@ dal, 109-104,20:18,   4pt 5rb 1as 1st 1to 1trey 1-3fg 1-2ft
+2017-11-29,PF,"Beasley, Michael",13.4,"5,200",nyk,v mia, 115-86,18:35,   6pt 7rb 1bl 4to 3-7fg
+2017-11-29,PF,"McCullough, Chris",13.3,"3,500",was,@ phi, 113-118,17:21,   4pt 4rb 1as 1bl 1-6fg 2-2ft
+2017-11-29,PF,"Johnson, Amir",13.2,"3,600",phi,v was, 118-113,13:25,   0pt 6rb 2as 1bl 0-1fg 0-2ft
+2017-11-29,PF,"Dudley, Jared",12.9,"3,500",pho,@ det, 107-131,21:41,   3pt 2rb 3as 1st 1trey 1-4fg
+2017-11-29,PF,"Looney, Kevon",12.8,"3,500",gsw,@ lal, 127-123,12:54,   2pt 4rb 1st 1bl 1-6fg
+2017-11-29,SF,"Allen, Tony",11.6,"3,500",nor,v min, 102-120,15:37,   7pt 3rb 2as 2to 1trey 2-6fg 2-2ft
+2017-11-29,SF,"Miles, CJ",11.5,"3,800",tor,v cha, 126-113,17:11,   7pt 1as 1st 1trey 3-8fg
+2017-11-29,SF,"Warren, TJ",11.4,"7,300",pho,@ det, 107-131,22:57,   7pt 2rb 1bl 1to 2-6fg 3-4ft
+2017-11-29,PF,"Bender, Dragan",10.4,"3,500",pho,@ det, 107-131,17:21,   3pt 2rb 2as 1st 1to 1trey 1-4fg
+2017-11-29,SF,"Brooks, Dillon",10.4,"4,700",mem,@ sas, 95-104,33:11,   8pt 2rb 2as 3to 2trey 3-6fg
+2017-11-29,PF,"Moute, Luc",10.3,"4,100",hou,v ind, 118-97,25:43,   4pt 4rb 1as 2-6fg
+2017-11-29,SF,"Cunningham, Dante",9.8,"3,500",nor,v min, 102-120,17:27,   5pt 4rb 1trey 2-4fg
+2017-11-29,PF,"Martin, Jarell",8.9,"3,500",mem,@ sas, 95-104,19:05,   6pt 2rb 1as 1to 2-7fg 2-2ft
+2017-11-29,PF,"Morris, Markieff",8.4,"5,300",was,@ phi, 113-118,16:59,   7pt 2rb 1to 1trey 3-9fg
+2017-11-29,PF,"Ellenson, Henry",7.3,"3,500",det,v pho, 131-107,5:23,   2pt 4rb 1as 1to 1-2fg
+2017-11-29,SF,"Simmons, Jonathon",7,"4,600",orl,v okc, 121-108,33:08,   6pt 2as 2to 2-3fg 2-3ft
+2017-11-29,SF,"Anunoby, OG",5.6,"3,500",tor,v cha, 126-113,19:07,   0pt 3rb 1st 1to 0-1fg
+2017-11-29,SF,"Brewer, Corey",5,"3,500",lal,v gsw, 123-127,12:04,   0pt 2st 1to 0-1fg
+2017-11-29,SF,"Tucker, PJ",4,"4,000",hou,v ind, 118-97,20:40,   6pt 2to 2trey 2-3fg
+2017-11-29,PF,"Bryant, Johnny",4,"3,500",cha,@ tor, 113-126,1:20,   4pt 2-2fg
+2017-11-29,SF,"Hezonja, Mario",3.9,"3,500",orl,v okc, 121-108,4:03,   0pt 2rb 1as
+2017-11-29,PF,"Mickey, Jordan",3.8,"3,500",mia,@ nyk, 86-115,5:12,   0pt 4rb 1to 0-1fg
+2017-11-29,PF,"Scott, Mike",3.2,"3,500",was,@ phi, 113-118,8:27,   0pt 1rb 1bl 1to 0-1fg
+2017-11-29,PF,"Porzingis, Kristaps",3,"8,900",nyk,v mia, 115-86,2:30,   4pt 1to 2-2fg
+2017-11-29,PF,"Diallo, Cheick",2.7,"3,500",nor,v min, 102-120,3:42,   0pt 1rb 1as
+2017-11-29,PF,"Leaf, TJ",1.2,"3,500",ind,@ hou, 97-118,2:53,   0pt 1rb
+2017-11-29,SF,"Bacon, Dwayne",1.2,"3,500",cha,@ tor, 113-126,5:47,   0pt 1rb 0-1fg
+2017-11-29,SF,"Bullock, Reggie",0.2,"3,900",det,v pho, 131-107,5:23,   0pt 1rb 1to 0-1fg
+2017-11-29,PF,"Patterson, Patrick",0,"3,500",okc,@ orl, 108-121,7:07,   0pt
+2017-11-29,PF,"Bertans, Davis",0,"3,500",sas,v mem, 104-95,00:31,   0pt
+2017-11-29,PF,"Black, Tarik",0,"3,500",hou,v ind, 118-97,2:22,   0pt 0-1fg
+2017-11-29,SF,"Muhammad, Shabazz",0,"3,500",min,@ nor, 120-102,0,   
+2017-11-29,PF,"Jefferson, Rondae",0,"7,000",bkn,@ dal, 109-104,0,   
+2017-11-29,SF,"Parsons, Chandler",0,"4,600",mem,@ sas, 95-104,0,   
+2017-11-29,SF,"Bjelica, Nemanja",0,"3,500",min,@ nor, 120-102,0,   
+2017-11-29,SF,"Casspi, Omri",0,"4,100",gsw,@ lal, 127-123,0,   
+2017-11-29,PF,"McKinnie, Alfonzo",0,"3,500",tor,v cha, 126-113,0,   
+2017-11-29,PF,"Hunter, Vince",0,"3,500",mem,@ sas, 95-104,0,   
+2017-11-29,PF,"McAdoo, James",0,"3,500",phi,v was, 118-113,0,   
+2017-11-29,SF,"Huestis, Josh",0,"3,500",okc,@ orl, 108-121,0,   
+2017-11-29,PF,"Smith, Jason",0,"3,500",was,@ phi, 113-118,0,   
+2017-11-29,SF,"Crabbe, Allen",0,"5,400",bkn,@ dal, 109-104,0,   
+2017-11-29,SF,"Robinson, Devin",0,"3,500",was,@ phi, 113-118,0,   
+2017-11-29,SF,"Smith, Dorian",0,"3,500",dal,v bkn, 104-109,0,   
+2017-11-29,PF,"McRoberts, Josh",0,"3,500",dal,v bkn, 104-109,0,   
+2017-11-29,PF,"Poythress, Alex",0,"3,500",ind,@ hou, 97-118,0,   
+2017-11-29,PF,"West, David",0,"3,700",gsw,@ lal, 127-123,0,   
+2017-11-29,PF,"Boucher, Chris",0,"3,500",gsw,@ lal, 127-123,0,   
+2017-11-29,SF,"Montero, Luis",0,"3,500",det,v pho, 131-107,0,   
+2017-11-29,SF,"Brown, Anthony",0,"3,500",min,@ nor, 120-102,0,   
+2017-11-29,PF,"Rabb, Ivan",0,"3,500",mem,@ sas, 95-104,0,   
+2017-11-29,SF,"Anderson, Justin",0,"3,500",phi,v was, 118-113,0,   
+2017-11-29,PF,"White, Okaro",0,"3,500",mia,@ nyk, 86-115,0,   
+2017-11-29,SF,"Hamilton, Daniel",0,"3,500",okc,@ orl, 108-121,0,   
+2017-11-29,SF,"Williams, Troy",0,"3,500",hou,v ind, 118-97,0,   
+2017-11-29,SF,"Jones, Jalen",0,"3,500",nor,v min, 102-120,0,   
+2017-11-29,PF,"Young, Mike",0,"3,500",was,@ phi, 113-118,0,   
+2017-11-29,SF,"Leonard, Kawhi",0,"8,000",sas,v mem, 104-95,0,   
+2017-11-29,PF,"Birch, Khem",0,"3,500",orl,v okc, 121-108,0,   
+2017-11-29,PF,"Kuzma, Kyle",0,"5,000",lal,v gsw, 123-127,0,   
+2017-11-29,SF,"III, Glenn",0,"3,500",ind,@ hou, 97-118,0,   
+2017-11-29,PF,"Kornet, Luke",0,"3,500",nyk,v mia, 115-86,0,   
+2017-11-29,PF,"Mathiang, Mangok",0,"3,500",cha,@ tor, 113-126,0,   
+2017-11-29,PF,"Leuer, Jon",0,"3,500",det,v pho, 131-107,0,   
+2017-11-29,SF,"Motley, Johnathan",0,"3,500",dal,v bkn, 104-109,0,   
+2017-11-29,SF,"Caboclo, Bruno",0,"3,500",tor,v cha, 126-113,0,   
+2017-11-29,PF,"Peters, Alec",0,"3,500",pho,@ det, 107-131,0,   
+2017-11-29,SF,"Hill, Solomon",0,"3,800",nor,v min, 102-120,0,   
+2017-11-29,PF,"Payne, Adreian",0,"3,500",orl,v okc, 121-108,0,   
+2017-11-29,SF,"Iwundu, Wes",0,"3,500",orl,v okc, 121-108,0,   
+2017-11-29,SF,"Singler, Kyle",0,"3,500",okc,@ orl, 108-121,0,   
+2017-11-29,PF,"Isaac, Jonathan",0,"4,000",orl,v okc, 121-108,0,   
+2017-11-29,PF,"Hicks, Isaiah",0,"3,500",nyk,v mia, 115-86,0,   
+2017-11-29,SF,"Jones, Derrick",0,"3,500",pho,@ det, 107-131,0,   
+2017-11-29,SF,"Artis, Jamel",0,"3,500",orl,v okc, 121-108,0,   
+2017-11-29,SF,"Deng, Luol",0,"3,500",lal,v gsw, 123-127,0,   
+2017-11-29,SF,"McGruder, Rodney",0,"3,700",mia,@ nyk, 86-115,0,   
+2017-11-29,PF,"Miller, Malcolm",0,"3,500",tor,v cha, 126-113,0,   
+2017-11-29,C,"Embiid, Joel",59.8,"9,900",phi,v was, 118-113,32:11,   25pt 14rb 4as 1st 4bl 3to 6-15fg 13-18ft
+2017-11-29,C,"Capela, Clint",43.1,"7,600",hou,v ind, 118-97,28:06,   22pt 13rb 1as 2st 2to 10-15fg 2-2ft
+2017-11-29,C,"Kanter, Enes",42.3,"6,400",nyk,v mia, 115-86,25:16,   22pt 14rb 1as 1st 1to 7-9fg 8-9ft
+2017-11-29,C,"Howard, Dwight",40.5,"7,200",cha,@ tor, 113-126,30:44,   22pt 10rb 3as 1st 1to 8-12fg 6-8ft
+2017-11-29,C,"Cousins, DeMarcus",40,"10,900",nor,v min, 102-120,39:04,   17pt 10rb 6as 1st 1bl 4to 1trey 7-15fg 2-3ft
+2017-11-29,C,"Turner, Myles",36.5,"7,000",ind,@ hou, 97-118,31:20,   15pt 10rb 1as 4bl 4to 6-14fg 3-3ft
+2017-11-29,C,"Drummond, Andre",35.9,"9,400",det,v pho, 131-107,27:52,   13pt 7rb 7as 1st 1bl 2to 5-8fg 3-3ft
+2017-11-29,C,"Vucevic, Nikola",33.9,"8,200",orl,v okc, 121-108,30:56,   15pt 7rb 7as 7-13fg 1-2ft
+2017-11-29,C,"Monroe, Greg",32.9,"4,300",pho,@ det, 107-131,25:00,   14pt 7rb 5as 2st 3to 7-10fg
+2017-11-29,C,"Zeller, Tyler",26.4,"3,600",bkn,@ dal, 109-104,21:31,   9pt 7rb 4as 2st 3to 4-6fg 1-3ft
+2017-11-29,C,"Gasol, Marc",25.7,"9,000",mem,@ sas, 95-104,35:42,   10pt 6rb 7as 2to 4-11fg 2-2ft
+2017-11-29,C,"Pachulia, Zaza",23.2,"4,000",gsw,@ lal, 127-123,14:11,   11pt 6rb 2as 1st 1to 5-5fg 1-1ft
+2017-11-29,C,"Hernangomez, Guillermo",23.1,"3,600",nyk,v mia, 115-86,8:48,   8pt 8rb 1as 2bl 2to 4-5fg
+2017-11-29,C,"Gasol, Pau",21.7,"6,600",sas,v mem, 104-95,28:55,   4pt 6rb 1as 2st 1bl 2-6fg
+2017-11-29,C,"Adams, Steven",21.6,"5,600",okc,@ orl, 108-121,28:05,   6pt 8rb 1st 1bl 3-10fg 0-2ft
+2017-11-29,C,"Towns, Karl",21.5,"9,500",min,@ nor, 120-102,20:43,   11pt 10rb 3as 6to 1trey 4-7fg 2-2ft
+2017-11-29,C,"Adebayo, Bam",20,"3,500",mia,@ nyk, 86-115,30:33,   9pt 5rb 2st 1to 4-5fg 1-2ft
+2017-11-29,C,"Valanciunas, Jonas",19.4,"4,400",tor,v cha, 126-113,22:26,   12pt 7rb 1to 6-12fg
+2017-11-29,C,"Quinn, Kyle",18.9,"4,200",nyk,v mia, 115-86,13:56,   9pt 7rb 1as 1st 3to 4-4fg 1-1ft
+2017-11-29,C,"Mahinmi, Ian",16.9,"3,500",was,@ phi, 113-118,25:26,   8pt 2rb 1as 2st 1to 2-3fg 4-6ft
+2017-11-29,C,"Allen, Jarrett",16.2,"3,500",bkn,@ dal, 109-104,16:23,   6pt 6rb 1st 3-4fg
+2017-11-29,C,"Biyombo, Bismack",14.3,"3,500",orl,v okc, 121-108,17:04,   8pt 4rb 1as 1bl 3to 4-5fg
+2017-11-29,C,"Gortat, Marcin",12.9,"4,900",was,@ phi, 113-118,20:30,   6pt 2rb 1as 1bl 3-7fg 0-2ft
+2017-11-29,C,"Lopez, Brook",12.7,"4,800",lal,v gsw, 123-127,16:51,   6pt 1rb 1as 1st 1bl 2to 2-5fg 2-3ft
+2017-11-29,C,"Len, Alex",12.1,"4,700",pho,@ det, 107-131,16:36,   4pt 3rb 1as 1bl 2-7fg
+2017-11-29,C,"Poeltl, Jakob",11,"3,500",tor,v cha, 126-113,17:18,   8pt 1st 4-5fg 0-1ft
+2017-11-29,C,"Zeller, Cody",10.9,"3,800",cha,@ tor, 113-126,15:56,   6pt 2rb 3as 2to 0-1fg 6-8ft
+2017-11-29,C,"Hilario, Nene",10.3,"3,800",hou,v ind, 118-97,10:07,   1pt 4rb 1as 1st 0-2fg 1-2ft
+2017-11-29,C,"Nogueira, Lucas",7.2,"3,500",tor,v cha, 126-113,8:16,   3pt 1rb 1st 1trey 1-3fg
+2017-11-29,C,"Bogut, Andrew",5.9,"3,500",lal,v gsw, 123-127,5:21,   2pt 2rb 1as 1-1fg
+2017-11-29,C,"Davis, Deyonta",5.4,"3,500",mem,@ sas, 95-104,12:48,   0pt 2rb 1bl 0-1fg
+2017-11-29,C,"Marjanovic, Boban",4.2,"3,500",det,v pho, 131-107,5:23,   4pt 1rb 1to 1-2fg 2-4ft
+2017-11-29,C,"Johnson, Dakari",3.2,"3,500",okc,@ orl, 108-121,6:30,   2pt 1rb 1-4fg
+2017-11-29,C,"Mejri, Salah",2.5,"3,600",dal,v bkn, 104-109,6:40,   1pt 1as 1-2ft
+2017-11-29,C,"Collison, Nick",0,"3,500",okc,@ orl, 108-121,0,   0pt
+2017-11-29,C,"Lauvergne, Joffrey",0,"3,500",sas,v mem, 104-95,0,   
+2017-11-29,C,"Chandler, Tyson",0,"4,700",pho,@ det, 107-131,0,   0pt
+2017-11-29,C,"Whiteside, Hassan",0,"8,400",mia,@ nyk, 86-115,0,   
+2017-11-29,C,"Jefferson, Al",0,"4,300",ind,@ hou, 97-118,0,   
+2017-11-29,C,"Zubac, Ivica",0,"3,500",lal,v gsw, 123-127,0,   
+2017-11-29,C,"Aldrich, Cole",0,"3,500",min,@ nor, 120-102,0,   
+2017-11-29,C,"Speights, Marreese",0,"3,500",orl,v okc, 121-108,0,   
+2017-11-29,C,"Noel, Nerlens",0,"3,500",dal,v bkn, 104-109,0,   
+2017-11-29,C,"Qi, Zhou",0,"3,500",hou,v ind, 118-97,0,   
+2017-11-29,C,"Bryant, Thomas",0,"3,500",lal,v gsw, 123-127,0,   
+2017-11-29,C,"Mozgov, Timofey",0,"3,600",bkn,@ dal, 109-104,0,   
+2017-11-29,C,"Holmes, Richaun",0,"3,500",phi,v was, 118-113,0,   
+2017-11-29,C,"Asik, Omer",0,"3,500",nor,v min, 102-120,0,   
+2017-11-29,C,"McGee, JaVale",0,"3,500",gsw,@ lal, 127-123,0,   
+2017-11-29,C,"Withey, Jeff",0,"3,500",dal,v bkn, 104-109,0,   
+2017-11-29,C,"Haslem, Udonis",0,"3,500",mia,@ nyk, 86-115,0,   
+2017-11-29,C,"Noah, Joakim",0,"3,500",nyk,v mia, 115-86,0,   
+2017-11-29,C,"Okafor, Jahlil",0,"3,500",phi,v was, 118-113,0,   
+2017-11-29,C,"Jones, Damian",0,"3,500",gsw,@ lal, 127-123,0,   
+2017-11-29,C,"Williams, Alan",0,"4,600",pho,@ det, 107-131,0,   
+2017-11-29,C,"Wright, Brandan",0,"3,500",mem,@ sas, 95-104,0,   
+2017-11-29,C,"Onuaku, Chinanu",0,"3,500",hou,v ind, 118-97,0,   
+2017-11-29,C,"Ajinca, Alexis",0,"3,500",nor,v min, 102-120,0,   
+2017-11-29,C,"Anigbogu, Ike",0,"3,500",ind,@ hou, 97-118,0,   
+2017-11-29,C,"Patton, Justin",0,"3,500",min,@ nor, 120-102,0,   
+2017-11-29,C,"Hammons, AJ",0,"3,500",mia,@ nyk, 86-115,0,   

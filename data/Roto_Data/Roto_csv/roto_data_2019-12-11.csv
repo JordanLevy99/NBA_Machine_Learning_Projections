@@ -1,0 +1,367 @@
+Date,Position,"LastName, FirstName",FD PTS,Salary,Team,Opp Team,Score,Min,Statline
+2019-12-11,SG,"Harden, James",76.6,"12,200",hou,@ cle, 116-110,41:16,   55pt 3rb 8as 2st 2bl 6to 10trey 20-34fg 5-5ft
+2019-12-11,PG,"Walker, Kemba",62.1,"7,700",bos,@ ind, 117-122,35:16,   44pt 3rb 7as 2st 2to 7trey 16-28fg 5-7ft
+2019-12-11,PG,"Teague, Jeff",51.8,"5,300",min,v uta, 116-127,35:50,   32pt 4rb 6as 1st 1bl 4trey 11-16fg 6-6ft
+2019-12-11,SG,"Graham, Devonte",51.5,"7,700",cha,@ bkn, 113-108,37:05,   40pt 5rb 5as 2to 7trey 12-21fg 9-11ft
+2019-12-11,PG,"Westbrook, Russell",50.4,"10,400",hou,@ cle, 116-110,36:31,   23pt 7rb 6as 4st 2to 1trey 9-20fg 4-4ft
+2019-12-11,SG,"Russell, D",48.6,"8,500",gsw,v nyk, 122-124,35:41,   32pt 3rb 6as 2st 2to 6trey 12-27fg 2-3ft
+2019-12-11,PG,"Brogdon, Malcolm",48.4,"8,000",ind,v bos, 122-117,29:18,   29pt 2rb 8as 2st 1to 2trey 6-10fg 15-15ft
+2019-12-11,SG,"LaVine, Zach",46.4,"8,200",chi,v atl, 136-102,25:29,   35pt 2rb 4as 1st 1bl 3to 7trey 12-16fg 4-4ft
+2019-12-11,SG,"Mitchell, Donovan",46,"8,100",uta,@ min, 127-116,36:19,   30pt 5rb 6as 1bl 2to 2trey 13-20fg 2-2ft
+2019-12-11,SG,"Wiggins, Andrew",44.7,"7,700",min,v uta, 116-127,37:32,   26pt 6rb 3as 3st 2to 3trey 11-23fg 1-1ft
+2019-12-11,PG,"Bledsoe, Eric",44.6,"7,000",mil,v nor, 127-112,25:27,   29pt 3rb 6as 2st 3to 5trey 10-13fg 4-4ft
+2019-12-11,SG,"Hield, Buddy",43.2,"7,500",sac,v okc, 94-93,37:03,   23pt 6rb 6as 2st 2to 5trey 9-24fg
+2019-12-11,PG,"Paul, Chris",42.4,"7,500",okc,@ sac, 93-94,35:05,   8pt 7rb 12as 3bl 1to 2trey 3-9fg
+2019-12-11,SG,"Barrett, RJ",41.5,"6,400",nyk,@ gsw, 124-122,46:05,   22pt 10rb 3as 1st 1bl 3to 3trey 8-16fg 3-4ft
+2019-12-11,SG,"Middleton, Khris",41,"6,800",mil,v nor, 127-112,30:50,   24pt 5rb 4as 2st 1to 1trey 11-22fg 1-1ft
+2019-12-11,PG,"Dinwiddie, Spencer",40,"8,000",bkn,v cha, 108-113,32:46,   24pt 5rb 6as 1st 2to 2trey 8-16fg 6-9ft
+2019-12-11,SG,"Williams, Louis",37.2,"6,000",lac,@ tor, 112-92,32:26,   18pt 6rb 8as 1st 3to 3trey 7-12fg 1-3ft
+2019-12-11,SG,"Booker, Devin",36.8,"8,700",pho,v mem, 108-115,39:17,   15pt 4rb 10as 1st 1to 6-17fg 3-4ft
+2019-12-11,PG,"Young, Trae",35.9,"9,600",atl,@ chi, 102-136,31:44,   15pt 2rb 13as 2st 7to 1trey 4-14fg 6-7ft
+2019-12-11,SG,"Holiday, Jrue",35.2,"7,900",nor,@ mil, 112-127,37:34,   21pt 6rb 6as 2bl 8to 4trey 8-11fg 1-2ft
+2019-12-11,SG,"Redick, JJ",35.2,"4,300",nor,@ mil, 112-127,32:16,   31pt 1rb 2as 3trey 10-16fg 8-8ft
+2019-12-11,SG,"Brooks, Dillon",35.1,"5,600",mem,@ pho, 115-108,27:15,   27pt 3rb 1as 2st 3to 1trey 10-18fg 6-6ft
+2019-12-11,PG,"Rubio, Ricky",33.2,"8,000",pho,v mem, 108-115,37:36,   22pt 1rb 8as 1st 5to 1trey 7-15fg 7-7ft
+2019-12-11,SG,"Clarkson, Jordan",32.8,"4,500",cle,v hou, 110-116,28:57,   17pt 4rb 4as 1st 1bl 1to 3trey 7-16fg
+2019-12-11,PG,"White, Coby",32.4,"4,800",chi,v atl, 136-102,25:19,   19pt 2rb 4as 1st 1bl 1to 7-13fg 5-6ft
+2019-12-11,PG,"Hill, George",29.1,"3,600",mil,v nor, 127-112,18:59,   13pt 3rb 3as 3st 1to 3trey 5-7fg
+2019-12-11,PG,"Holiday, Aaron",29.1,"3,600",ind,v bos, 122-117,26:44,   18pt 3rb 1as 2st 2trey 8-9fg 0-1ft
+2019-12-11,PG,"Ball, Lonzo",29,"6,000",nor,@ mil, 112-127,22:50,   6pt 5rb 6as 4st 4to 1trey 2-9fg 1-3ft
+2019-12-11,SG,"Alexander, Shai",27.8,"7,200",okc,@ sac, 93-94,35:33,   14pt 4rb 4as 1st 1bl 3to 4-11fg 6-8ft
+2019-12-11,PG,"Morant, Ja",27.8,"7,900",mem,@ pho, 115-108,33:23,   13pt 4rb 6as 1st 2to 4-9fg 5-5ft
+2019-12-11,PG,"Mudiay, Emmanuel",27,"3,500",uta,@ min, 127-116,22:10,   13pt 5rb 2as 2bl 1to 2trey 4-7fg 3-4ft
+2019-12-11,PG,"Dunn, Kris",26.6,"5,700",chi,v atl, 136-102,22:54,   9pt 3rb 2as 3st 1bl 1to 4-9fg 1-1ft
+2019-12-11,PG,"Rozier, Terry",26.4,"7,300",cha,@ bkn, 113-108,34:57,   13pt 7rb 4as 1to 1trey 5-15fg 2-2ft
+2019-12-11,SG,"Schroder, Dennis",25.4,"6,000",okc,@ sac, 93-94,31:15,   17pt 2rb 2st 1bl 3to 3trey 7-14fg
+2019-12-11,SG,"Powell, Norman",25.1,"5,600",tor,v lac, 92-112,34:02,   22pt 3rb 1as 1st 5to 2trey 7-11fg 6-6ft
+2019-12-11,SG,"Fournier, Evan",24.9,"6,400",orl,v lal, 87-96,33:59,   18pt 2rb 5as 3to 3trey 7-17fg 1-2ft
+2019-12-11,PG,"Beverley, Patrick",24.8,"5,500",lac,@ tor, 112-92,19:13,   11pt 4rb 2as 1st 1bl 3trey 4-8fg
+2019-12-11,PG,"Sexton, Collin",24.7,"5,700",cle,v hou, 110-116,28:37,   18pt 1rb 3as 1st 2to 8-14fg 2-2ft
+2019-12-11,SG,"Green, Danny",24.5,"4,000",lal,@ orl, 96-87,29:22,   8pt 5rb 3as 1st 1bl 4-11fg
+2019-12-11,PG,"Payton, Elfrid",24.3,"5,100",nyk,@ gsw, 124-122,29:35,   14pt 4rb 5as 1st 5to 7-14fg
+2019-12-11,PG,"Lowry, Kyle",23.8,"8,000",tor,v lac, 92-112,35:12,   6pt 4rb 6as 2st 2to 1-8fg 4-4ft
+2019-12-11,PG,"Wanamaker, Brad",23.7,"3,500",bos,@ ind, 117-122,24:09,   12pt 6rb 1as 1st 1bl 3to 1trey 4-9fg 3-4ft
+2019-12-11,PG,"Melton, De",22.7,"4,300",mem,@ pho, 115-108,18:46,   9pt 6rb 3as 1bl 1to 1trey 3-4fg 2-2ft
+2019-12-11,SG,"Brown, Sterling",22,"3,600",mil,v nor, 127-112,19:59,   7pt 5rb 2as 2st 1trey 2-6fg 2-2ft
+2019-12-11,SG,"Pope, Kentavious",22,"4,000",lal,@ orl, 96-87,31:22,   15pt 3st 2to 4trey 5-10fg 1-1ft
+2019-12-11,SG,"Temple, Garrett",21.4,"5,500",bkn,v cha, 108-113,31:59,   11pt 2rb 4as 1st 1to 1trey 5-11fg
+2019-12-11,PG,"Williams, Michael",21.4,"3,500",orl,v lal, 87-96,21:22,   5pt 2rb 6as 1st 1bl 1to 1trey 2-6fg 0-4ft
+2019-12-11,SG,"Bogdanovic, Bogdan",20.6,"4,500",sac,v okc, 94-93,29:25,   17pt 3rb 1st 3to 2trey 7-12fg 1-4ft
+2019-12-11,PG,"McConnell, TJ",19.7,"3,600",ind,v bos, 122-117,19:43,   4pt 1rb 5as 2st 1bl 2to 1-3fg 2-2ft
+2019-12-11,SG,"Pinson, Theo",19.6,"3,500",bkn,v cha, 108-113,15:18,   12pt 3rb 2as 1bl 2to 2trey 5-9fg
+2019-12-11,SG,"Hart, Josh",19.1,"4,500",nor,@ mil, 112-127,26:01,   9pt 3rb 1as 2st 1to 3trey 3-10fg
+2019-12-11,SG,"Korver, Kyle",18.6,"3,500",mil,v nor, 127-112,16:19,   7pt 3rb 2as 2st 1to 1trey 3-7fg
+2019-12-11,SG,"Huerter, Kevin",18.4,"4,400",atl,@ chi, 102-136,24:19,   9pt 2rb 4as 1st 2to 1trey 3-9fg 2-2ft
+2019-12-11,PG,"Harrison, Shaquille",18.1,"3,500",chi,v atl, 136-102,7:38,   4pt 3rb 3as 2st 2-4fg
+2019-12-11,SG,"Martin, Cody",17.8,"3,500",cha,@ bkn, 113-108,23:40,   6pt 4rb 4as 1bl 2to 1trey 2-7fg 1-1ft
+2019-12-11,PG,"Joseph, Cory",15.4,"4,900",sac,v okc, 94-93,24:18,   7pt 2rb 2as 1bl 1trey 3-8fg
+2019-12-11,PG,"Caruso, Alex",15.2,"3,900",lal,@ orl, 96-87,28:14,   7pt 6rb 1st 2to 2trey 2-4fg 1-2ft
+2019-12-11,SG,"Davis, Terence",14.9,"3,500",tor,v lac, 92-112,15:01,   10pt 2rb 1as 1st 2to 2trey 3-8fg 2-2ft
+2019-12-11,SG,"Ross, Terrence",14.7,"5,300",orl,v lal, 87-96,28:39,   4pt 1rb 1as 3st 1to 2-11fg
+2019-12-11,SG,"Nwaba, David",14.6,"3,500",bkn,v cha, 108-113,17:58,   8pt 3rb 1st 1trey 2-6fg 3-4ft
+2019-12-11,SG,"McLemore, Ben",14.1,"5,000",hou,@ cle, 116-110,32:39,   6pt 3rb 1as 1bl 2trey 2-7fg
+2019-12-11,PG,"Satoransky, Tomas",13.9,"6,000",chi,v atl, 136-102,23:58,   7pt 2rb 3as 1st 3to 1trey 3-5fg
+2019-12-11,SG,"Matthews, Wes",13.2,"3,500",mil,v nor, 127-112,19:44,   9pt 1rb 1st 3trey 3-5fg
+2019-12-11,PG,"Ferrell, Yogi",12.2,"3,500",sac,v okc, 94-93,15:14,   6pt 1rb 2st 1to 2-4fg 2-2ft
+2019-12-11,PG,"Garland, Darius",11.7,"4,100",cle,v hou, 110-116,22:01,   11pt 1rb 1as 2to 3trey 4-8fg
+2019-12-11,SG,"Lamb, Jeremy",11,"6,100",ind,v bos, 122-117,22:45,   6pt 2as 1bl 1to 2-8fg 2-2ft
+2019-12-11,SG,"Anderson, Kyle",11,"3,700",mem,@ pho, 115-108,12:31,   3pt 5rb 1st 1to 1-4fg 1-1ft
+2019-12-11,PG,"Jones, Tyus",10.4,"4,300",mem,@ pho, 115-108,14:37,   2pt 2rb 2as 1st 1-2fg
+2019-12-11,PG,"Dellavedova, Matthew",8.7,"3,500",cle,v hou, 110-116,16:25,   3pt 1rb 3as 1-2fg 1-1ft
+2019-12-11,SG,"Crabbe, Allen",8.7,"3,700",atl,@ chi, 102-136,21:31,   6pt 1rb 1as 2trey 2-4fg
+2019-12-11,SG,"DiVincenzo, Donte",8.1,"3,700",mil,v nor, 127-112,23:48,   3pt 3rb 3as 3to 1trey 1-4fg
+2019-12-11,SG,"Walker, Nickeil",7.2,"3,500",nor,@ mil, 112-127,10:07,   6pt 1rb 2trey 2-4fg
+2019-12-11,SG,"Lee, Damion",7.2,"3,500",gsw,v nyk, 122-124,15:09,   6pt 1rb 3-7fg
+2019-12-11,SG,"Dotson, Damyean",6.9,"3,600",nyk,@ gsw, 124-122,16:54,   0pt 2rb 3as 0-3fg 0-1ft
+2019-12-11,SG,"Jerome, Ty",6.9,"3,500",pho,v mem, 108-115,10:24,   0pt 2rb 1as 1st 0-6fg
+2019-12-11,PG,"Augustin, DJ",6.6,"5,000",orl,v lal, 87-96,26:38,   2pt 3rb 2as 2to 1-3fg
+2019-12-11,SG,"Dort, Luguentz",6.5,"3,500",okc,@ sac, 93-94,12:45,   2pt 1as 1st 1-4fg
+2019-12-11,SG,"Shumpert, Iman",6.4,"3,500",bkn,v cha, 108-113,14:29,   4pt 2rb 1trey 1-5fg 1-2ft
+2019-12-11,SG,"Bacon, Dwayne",5.9,"3,500",cha,@ bkn, 113-108,6:54,   2pt 2rb 1as 0-3fg 2-2ft
+2019-12-11,SG,"Green, Javonte",5.4,"3,500",bos,@ ind, 117-122,4:38,   0pt 2rb 1bl
+2019-12-11,SG,"Bembry, DeAndre",5.2,"3,900",atl,@ chi, 102-136,7:59,   0pt 1rb 1st 1bl 2to
+2019-12-11,SG,"Daniels, Troy",5.2,"3,500",lal,@ orl, 96-87,6:46,   4pt 1rb 1trey 1-2fg 1-3ft
+2019-12-11,PG,"Clemons, Chris",5,"3,500",hou,@ cle, 116-110,8:56,   5pt 1trey 2-3fg
+2019-12-11,PG,"Robinson, Jerome",4.7,"3,500",lac,@ tor, 112-92,9:48,   2pt 1rb 1as 1-4fg
+2019-12-11,PG,"Napier, Shabazz",4.5,"3,500",min,v uta, 116-127,12:42,   0pt 1as 1st 0-2fg
+2019-12-11,SG,"Bradley, Avery",4.4,"3,900",lal,@ orl, 96-87,16:38,   2pt 2rb 1-4fg
+2019-12-11,PG,"Edwards, Carsen",4.2,"3,500",bos,@ ind, 117-122,8:05,   3pt 1rb 1trey 1-2fg
+2019-12-11,PG,"Bowman, Ky",3,"3,800",gsw,v nyk, 122-124,15:17,   3pt 1-2fg 1-2ft
+2019-12-11,SG,"Graham, Treveon",2.7,"3,500",min,v uta, 116-127,10:08,   0pt 1rb 1as 0-2fg
+2019-12-11,SG,"Guduric, Marko",2.7,"3,500",mem,@ pho, 115-108,5:41,   3pt 1rb 1as 3to 1trey 1-1fg
+2019-12-11,PG,"Arcidiacono, Ryan",2.4,"3,500",chi,v atl, 136-102,16:41,   0pt 2rb 0-1fg
+2019-12-11,SG,"Turner, Evan",2.1,"3,600",atl,@ chi, 102-136,12:40,   0pt 3rb 1as 3to 0-1fg
+2019-12-11,SG,"Mann, Terance",1.5,"3,500",lac,@ tor, 112-92,3:01,   0pt 1as
+2019-12-11,SG,"III, Jacob",0,"3,500",gsw,v nyk, 122-124,5:45,   0pt 0-2fg
+2019-12-11,PG,"Jr, Derrick",0,"3,500",lac,@ tor, 112-92,4:17,   0pt
+2019-12-11,PG,"Jackson, Frank",0,"3,600",nor,@ mil, 112-127,1:12,   0pt
+2019-12-11,SG,"Connaughton, Pat",0,"3,600",mil,v nor, 127-112,5:11,   0pt
+2019-12-11,PG,"Cook, Quinn",0,"3,500",lal,@ orl, 96-87,0,   
+2019-12-11,PG,"Goss, Nigel",0,"3,500",uta,@ min, 127-116,0,   
+2019-12-11,SG,"James, Justin",0,"3,500",sac,v okc, 94-93,0,   
+2019-12-11,PG,"Carter, Jevon",0,"3,500",pho,v mem, 108-115,0,   
+2019-12-11,PG,"Sumner, Edmond",0,"3,500",ind,v bos, 122-117,0,   
+2019-12-11,PG,"Rondo, Rajon",0,"5,100",lal,@ orl, 96-87,0,   
+2019-12-11,SG,"Luwawu, Timothe",0,"3,500",bkn,v cha, 108-113,0,   
+2019-12-11,SG,"Okobo, Elie",0,"3,500",pho,v mem, 108-115,0,   
+2019-12-11,PG,"Johnson, Tyler",0,"3,600",pho,v mem, 108-115,0,   
+2019-12-11,SG,"Hall, Devon",0,"3,500",okc,@ sac, 93-94,0,   
+2019-12-11,SG,"Watanabe, Yuta",0,"3,500",mem,@ pho, 115-108,0,   
+2019-12-11,SG,"Poole, Jordan",0,"3,700",gsw,v nyk, 122-124,0,   
+2019-12-11,SG,"Trier, Allonzo",0,"3,500",nyk,@ gsw, 124-122,0,   
+2019-12-11,SG,"Tucker, Talen",0,"3,500",lal,@ orl, 96-87,0,   
+2019-12-11,SG,"Monk, Malik",0,"3,800",cha,@ bkn, 113-108,0,   
+2019-12-11,PG,"Magette, Josh",0,"3,500",orl,v lal, 87-96,0,   
+2019-12-11,PG,"Exum, Dante",0,"3,500",uta,@ min, 127-116,0,   
+2019-12-11,SG,"Thomas, Matt",0,"3,500",tor,v lac, 92-112,0,   
+2019-12-11,SG,"Langford, Romeo",0,"3,500",bos,@ ind, 117-122,0,   
+2019-12-11,PG,"Jr, Dennis",0,"3,600",nyk,@ gsw, 124-122,0,   
+2019-12-11,PG,"Knight, Brandon",0,"3,500",cle,v hou, 110-116,0,   
+2019-12-11,PG,"III, Frank",0,"3,500",mil,v nor, 127-112,0,   
+2019-12-11,PG,"Irving, Kyrie",0,"9,700",bkn,v cha, 108-113,0,   
+2019-12-11,SG,"Reynolds, Cameron",0,"3,500",mil,v nor, 127-112,0,   
+2019-12-11,SG,"II, Brian",0,"3,500",ind,v bos, 122-117,0,   
+2019-12-11,SG,"Allen, Grayson",0,"3,800",mem,@ pho, 115-108,0,   
+2019-12-11,SG,"Bullock, Reggie",0,"3,900",nyk,@ gsw, 124-122,0,   
+2019-12-11,PG,"Wallace, Tyrone",0,"3,500",atl,@ chi, 102-136,0,   
+2019-12-11,SG,"Burton, Deonte",0,"3,500",okc,@ sac, 93-94,0,   
+2019-12-11,SG,"Roberson, Andre",0,"3,500",okc,@ sac, 93-94,0,   
+2019-12-11,PG,"Fultz, Markelle",0,"6,300",orl,v lal, 87-96,0,   
+2019-12-11,SG,"Oni, Miye",0,"3,500",uta,@ min, 127-116,0,   
+2019-12-11,SG,"Windler, Dylan",0,"3,500",cle,v hou, 110-116,0,   
+2019-12-11,SG,"Oladipo, Victor",0,"7,800",ind,v bos, 122-117,0,   
+2019-12-11,SG,"Jr, Zach",0,"3,500",lal,@ orl, 96-87,0,   
+2019-12-11,SG,"Brown, Charlie",0,"3,500",atl,@ chi, 102-136,0,   
+2019-12-11,SG,"Diallo, Hamidou",0,"4,000",okc,@ sac, 93-94,0,   
+2019-12-11,PG,"Fox, De",0,"7,700",sac,v okc, 94-93,0,   
+2019-12-11,SG,"Konchar, John",0,"3,500",mem,@ pho, 115-108,0,   
+2019-12-11,PG,"Foreman, Justin",0,"3,500",uta,@ min, 127-116,0,   
+2019-12-11,PG,"Gray, Josh",0,"3,500",nor,@ mil, 112-127,0,   
+2019-12-11,SG,"Long, Nazareth",0,"3,600",ind,v bos, 122-117,0,   
+2019-12-11,PG,"Lecque, Jalen",0,"3,500",pho,v mem, 108-115,0,   
+2019-12-11,PG,"Conley, Mike",0,"5,800",uta,@ min, 127-116,0,   
+2019-12-11,SG,"VanVleet, Fred",0,"7,400",tor,v lac, 92-112,0,   
+2019-12-11,SG,"Allen, Kadeem",0,"3,500",nyk,@ gsw, 124-122,0,   
+2019-12-11,PG,"Harper, Jared",0,"3,500",pho,v mem, 108-115,0,   
+2019-12-11,SG,"Ellington, Wayne",0,"3,500",nyk,@ gsw, 124-122,0,   
+2019-12-11,SG,"LeVert, Caris",0,"6,000",bkn,v cha, 108-113,0,   
+2019-12-11,PG,"Curry, Stephen",0,"3,500",gsw,v nyk, 122-124,0,   
+2019-12-11,PG,"McLaughlin, Jordan",0,"3,500",min,v uta, 116-127,0,   
+2019-12-11,SG,"Guy, Kyle",0,"3,500",sac,v okc, 94-93,0,   
+2019-12-11,SG,"Mokoka, Adam",0,"3,500",chi,v atl, 136-102,0,   
+2019-12-11,PG,"Shamet, Landry",0,"3,800",lac,@ tor, 112-92,0,   
+2019-12-11,SG,"Smart, Marcus",0,"5,100",bos,@ ind, 117-122,0,   
+2019-12-11,PG,"Goodwin, Brandon",0,"3,500",atl,@ chi, 102-136,0,   
+2019-12-11,SG,"Iguodala, Andre",0,"3,800",mem,@ pho, 115-108,0,   
+2019-12-11,PG,"Nowell, Jaylen",0,"3,500",min,v uta, 116-127,0,   
+2019-12-11,PG,"Ponds, Shamorie",0,"3,500",tor,v lac, 92-112,0,   
+2019-12-11,SG,"McGruder, Rodney",0,"3,600",lac,@ tor, 112-92,0,   
+2019-12-11,PG,"Simmons, Kobi",0,"3,500",cha,@ bkn, 113-108,0,   
+2019-12-11,PG,"Rivers, Austin",0,"4,800",hou,@ cle, 116-110,0,   
+2019-12-11,SG,"Ferguson, Terrance",0,"3,500",okc,@ sac, 93-94,0,   
+2019-12-11,PG,"Waters, Tremont",0,"3,600",bos,@ ind, 117-122,0,   
+2019-12-11,PG,"Ntilikina, Frank",-0.5,"3,700",nyk,@ gsw, 124-122,13:26,   2pt 1as 4to 1-3fg
+2019-12-11,SG,"McCaw, Patrick",-1,"3,500",tor,v lac, 92-112,9:47,   0pt 1to 0-2fg
+2019-12-11,SF,"Morris, Marcus",60.5,"6,000",nyk,@ gsw, 124-122,36:28,   36pt 10rb 3as 3st 1to 5trey 10-18fg 11-12ft
+2019-12-11,PF,"Green, Draymond",54,"7,000",gsw,v nyk, 122-124,39:29,   14pt 10rb 12as 4st 2to 1trey 5-11fg 3-4ft
+2019-12-11,SF,"James, LeBron",53.2,"10,900",lal,@ orl, 96-87,37:55,   25pt 11rb 10as 2st 6to 1trey 11-24fg 2-5ft
+2019-12-11,PF,"Davis, Anthony",49.4,"11,800",lal,@ orl, 96-87,36:36,   16pt 12rb 6as 2st 2bl 2to 1trey 6-20fg 3-4ft
+2019-12-11,PF,"Sabonis, Domantas",44.8,"9,000",ind,v bos, 122-117,34:50,   15pt 14rb 8as 1st 2to 5-11fg 5-6ft
+2019-12-11,PF,"Randle, Julius",43.1,"7,200",nyk,@ gsw, 124-122,38:08,   24pt 13rb 5as 4to 3trey 7-16fg 7-10ft
+2019-12-11,SF,"Oubre, Kelly",42.6,"7,200",pho,v mem, 108-115,37:48,   14pt 13rb 1st 4bl 2to 1trey 5-13fg 3-3ft
+2019-12-11,SF,"Siakam, Pascal",42.3,"8,700",tor,v lac, 92-112,35:13,   24pt 4rb 3as 1st 3bl 3to 1trey 9-20fg 5-5ft
+2019-12-11,PF,"Young, Thaddeus",41.8,"3,700",chi,v atl, 136-102,32:47,   15pt 9rb 6as 3st 2to 1trey 7-16fg
+2019-12-11,PF,"Leonard, Kawhi",41,"9,600",lac,@ tor, 112-92,32:28,   23pt 5rb 6as 2st 3to 2trey 8-14fg 5-5ft
+2019-12-11,PF,"Gordon, Aaron",39.8,"6,400",orl,v lal, 87-96,34:00,   14pt 14rb 4as 1st 1bl 3to 1trey 5-11fg 3-4ft
+2019-12-11,PF,"Allen, Jarrett",39,"7,600",bkn,v cha, 108-113,26:12,   21pt 10rb 2as 1bl 7-9fg 7-11ft
+2019-12-11,SF,"Brown, Jaylen",38.6,"6,700",bos,@ ind, 117-122,34:05,   18pt 8rb 8as 1st 4to 2trey 7-12fg 2-3ft
+2019-12-11,PF,"Jackson, Jaren",38.2,"7,300",mem,@ pho, 115-108,31:36,   24pt 6rb 4as 1bl 2to 3trey 10-18fg 1-2ft
+2019-12-11,SF,"Valentine, Denzel",38.1,"3,600",chi,v atl, 136-102,22:09,   10pt 3rb 5as 4st 2bl 1to 4-8fg 2-2ft
+2019-12-11,PF,"Chriss, Marquese",38,"3,500",gsw,v nyk, 122-124,24:02,   12pt 10rb 2as 1st 3bl 1to 4-8fg 4-6ft
+2019-12-11,SF,"Porter, Kevin",37.9,"4,000",cle,v hou, 110-116,28:57,   24pt 2rb 3as 3st 2to 6trey 9-15fg
+2019-12-11,PF,"Kaminsky, Frank",37.5,"4,500",pho,v mem, 108-115,25:48,   24pt 5rb 3as 1st 4trey 9-12fg 2-3ft
+2019-12-11,SF,"Ingles, Joe",37.5,"5,000",uta,@ min, 127-116,36:16,   23pt 5rb 5as 1st 2to 3trey 9-14fg 2-2ft
+2019-12-11,SF,"Isaac, Jonathan",36.6,"6,700",orl,v lal, 87-96,35:35,   19pt 8rb 1st 2bl 1to 2trey 6-14fg 5-5ft
+2019-12-11,PF,"Ilyasova, Ersan",36.3,"3,800",mil,v nor, 127-112,26:53,   18pt 9rb 3as 1st 2trey 8-10fg
+2019-12-11,PF,"Love, Kevin",36.2,"7,400",cle,v hou, 110-116,32:01,   17pt 11rb 2as 1st 1bl 3to 8-14fg 1-3ft
+2019-12-11,SF,"Ingram, Brandon",34.5,"8,800",nor,@ mil, 112-127,32:38,   25pt 10rb 1as 4to 3trey 9-22fg 4-4ft
+2019-12-11,SF,"Holiday, Justin",32.2,"3,700",ind,v bos, 122-117,32:18,   17pt 6rb 3st 1to 3trey 7-14fg
+2019-12-11,SF,"Crowder, Jae",31.9,"5,000",mem,@ pho, 115-108,31:53,   13pt 7rb 5as 2st 3to 2trey 4-11fg 3-5ft
+2019-12-11,PF,"Markkanen, Lauri",31.8,"6,400",chi,v atl, 136-102,23:22,   22pt 4rb 2as 1bl 1to 2trey 8-9fg 4-5ft
+2019-12-11,SF,"Burks, Alec",31,"6,400",gsw,v nyk, 122-124,33:18,   18pt 5rb 2as 2st 2to 1trey 6-14fg 5-5ft
+2019-12-11,PF,"Tatum, Jayson",30.7,"8,000",bos,@ ind, 117-122,37:05,   16pt 6rb 3as 2st 3to 2trey 4-13fg 6-6ft
+2019-12-11,PF,"Covington, Robert",29.4,"5,700",min,v uta, 116-127,30:15,   14pt 7rb 2as 2st 2to 3trey 5-13fg 1-2ft
+2019-12-11,PF,"Clarke, Brandon",28.4,"5,000",mem,@ pho, 115-108,21:57,   15pt 7rb 2bl 1to 2trey 5-6fg 3-5ft
+2019-12-11,SF,"Anunoby, OG",28.4,"5,600",tor,v lac, 92-112,34:38,   13pt 7rb 1st 2bl 2to 1trey 4-14fg 4-4ft
+2019-12-11,SF,"Gallinari, Danilo",28.1,"6,400",okc,@ sac, 93-94,33:15,   14pt 8rb 3as 1st 3to 3trey 5-13fg 1-2ft
+2019-12-11,SF,"George, Paul",27.5,"9,300",lac,@ tor, 112-92,33:24,   13pt 5rb 3as 1st 1bl 2to 2trey 3-14fg 5-5ft
+2019-12-11,SF,"III, Glenn",26.8,"4,600",gsw,v nyk, 122-124,35:55,   17pt 4rb 2as 1st 1to 2trey 6-14fg 3-4ft
+2019-12-11,SF,"Bridges, Miles",25.8,"5,100",cha,@ bkn, 113-108,35:38,   14pt 4rb 2as 1st 1bl 2to 3trey 4-16fg 3-6ft
+2019-12-11,SF,"Gilchrist, Michael",25.4,"3,500",cha,@ bkn, 113-108,19:52,   11pt 7rb 2as 1bl 1trey 4-9fg 2-2ft
+2019-12-11,SF,"Reddish, Cam",24.7,"3,900",atl,@ chi, 102-136,29:00,   16pt 6rb 1as 1bl 3to 3trey 4-11fg 5-8ft
+2019-12-11,PF,"Holmes, Richaun",24.4,"7,600",sac,v okc, 94-93,24:57,   10pt 7rb 2st 1bl 3to 5-7fg
+2019-12-11,SF,"Okogie, Josh",24,"4,300",min,v uta, 116-127,30:54,   13pt 5rb 1st 1bl 1to 3trey 3-8fg 4-4ft
+2019-12-11,PF,"Noel, Nerlens",23.8,"4,700",okc,@ sac, 93-94,19:52,   11pt 4rb 2st 1bl 1to 4-5fg 3-3ft
+2019-12-11,PF,"Parker, Jabari",23.4,"6,300",atl,@ chi, 102-136,21:08,   11pt 7rb 1st 1bl 2to 1trey 5-10fg
+2019-12-11,SF,"Harkless, Maurice",22.9,"4,200",lac,@ tor, 112-92,30:13,   14pt 7rb 1as 1st 4to 5-10fg 4-4ft
+2019-12-11,PF,"Patterson, Patrick",22.4,"3,500",lac,@ tor, 112-92,24:09,   11pt 7rb 2as 1trey 3-8fg 4-4ft
+2019-12-11,PF,"Washington, PJ",22.2,"6,000",cha,@ bkn, 113-108,37:20,   13pt 6rb 1bl 1to 2trey 4-6fg 3-4ft
+2019-12-11,SF,"Nader, Abdel",21.8,"3,900",okc,@ sac, 93-94,32:39,   15pt 4rb 1st 1to 5trey 5-9fg
+2019-12-11,PF,"Saric, Dario",20.5,"5,700",pho,v mem, 108-115,26:05,   7pt 5rb 5as 1trey 3-10fg
+2019-12-11,PF,"Bagley, Marvin",20.2,"7,000",sac,v okc, 94-93,23:03,   11pt 6rb 1bl 1to 5-13fg 1-1ft
+2019-12-11,SF,"Johnson, Cameron",19.5,"4,300",pho,v mem, 108-115,24:12,   11pt 5rb 1as 1st 2to 2trey 3-8fg 3-4ft
+2019-12-11,SF,"Warren, TJ",19.2,"5,200",ind,v bos, 122-117,29:39,   14pt 1rb 2as 1st 2to 2trey 5-9fg 2-4ft
+2019-12-11,PF,"Tucker, PJ",18.5,"5,600",hou,@ cle, 116-110,34:38,   8pt 5rb 1as 2st 3to 2trey 2-8fg 2-2ft
+2019-12-11,PF,"Birch, Khem",18.3,"4,400",orl,v lal, 87-96,24:00,   6pt 4rb 1as 2st 3-4fg
+2019-12-11,PF,"Theis, Daniel",18.2,"4,300",bos,@ ind, 117-122,26:47,   11pt 6rb 1trey 5-9fg
+2019-12-11,PF,"Neale, Royce",18,"3,600",uta,@ min, 127-116,30:53,   6pt 5rb 2as 1st 2trey 2-7fg
+2019-12-11,SF,"Williams, Kenrich",17.9,"4,000",nor,@ mil, 112-127,26:04,   0pt 7rb 5as 1bl 1to 0-5fg
+2019-12-11,SF,"Osman, Cedi",17.9,"4,300",cle,v hou, 110-116,19:03,   0pt 2rb 7as 1st 1bl 1to 0-4fg
+2019-12-11,SF,"Ariza, Trevor",17.5,"4,400",sac,v okc, 94-93,29:29,   5pt 5rb 1as 2st 1to 2-3fg 1-1ft
+2019-12-11,PF,"Ibaka, Serge",16.5,"5,400",tor,v lac, 92-112,19:41,   0pt 5rb 3as 2bl 0-8fg
+2019-12-11,SF,"Prince, Taurean",16.5,"6,300",bkn,v cha, 108-113,34:21,   6pt 5rb 3as 1st 3to 1trey 2-12fg 1-2ft
+2019-12-11,SF,"Harris, Joe",16.2,"5,500",bkn,v cha, 108-113,29:26,   9pt 6rb 2as 3to 1trey 4-11fg
+2019-12-11,PF,"Jefferson, Rondae",16.1,"4,100",tor,v lac, 92-112,13:24,   3pt 8rb 1as 1st 1to 1-4fg 1-2ft
+2019-12-11,SF,"Bogdanovic, Bojan",16.1,"6,300",uta,@ min, 127-116,34:45,   14pt 3rb 3as 6to 2trey 4-14fg 4-4ft
+2019-12-11,SF,"Iwundu, Wes",15.1,"3,500",orl,v lal, 87-96,16:59,   6pt 3rb 1as 2st 2to 3-6fg
+2019-12-11,PF,"Fernando, Bruno",14.8,"3,500",atl,@ chi, 102-136,13:15,   5pt 4rb 2as 1st 1to 1-3fg 3-3ft
+2019-12-11,PF,"Niang, Georges",14.4,"3,500",uta,@ min, 127-116,14:30,   9pt 2rb 1bl 3trey 3-3fg
+2019-12-11,PF,"Bjelica, Nemanja",14,"6,800",sac,v okc, 94-93,22:14,   10pt 5rb 2to 2trey 4-8fg
+2019-12-11,SF,"McDermott, Doug",14,"3,600",ind,v bos, 122-117,18:21,   8pt 5rb 3-11fg 2-4ft
+2019-12-11,SF,"Barnes, Harrison",13.5,"5,900",sac,v okc, 94-93,34:17,   5pt 5rb 3as 2to 2-9fg 1-2ft
+2019-12-11,PF,"Spellman, Omari",13.2,"3,700",gsw,v nyk, 122-124,15:51,   3pt 6rb 2as 1-4fg 1-1ft
+2019-12-11,SF,"Knox, Kevin",13.1,"3,600",nyk,@ gsw, 124-122,16:32,   2pt 3rb 1as 2bl 1-4fg
+2019-12-11,SF,"Hunter, De",12.9,"5,100",atl,@ chi, 102-136,23:54,   6pt 2rb 1as 1bl 2trey 2-9fg
+2019-12-11,SF,"Hayward, Gordon",12.7,"6,500",bos,@ ind, 117-122,24:40,   9pt 1rb 3as 2to 4-8fg 1-2ft
+2019-12-11,PF,"Bell, Jordan",12.6,"3,500",min,v uta, 116-127,13:34,   6pt 3rb 1bl 2-2fg 2-2ft
+2019-12-11,SF,"House, Danuel",12.1,"4,800",hou,@ cle, 116-110,26:22,   6pt 3rb 1as 1st 2to 2-7fg 2-2ft
+2019-12-11,PF,"Green, Jeff",11.7,"3,500",uta,@ min, 127-116,17:07,   10pt 1rb 1as 1to 2trey 3-6fg 2-2ft
+2019-12-11,PF,"Henson, John",11.7,"3,500",cle,v hou, 110-116,12:53,   6pt 1rb 3as 3-4fg
+2019-12-11,PF,"Nance, Larry",11.7,"5,500",cle,v hou, 110-116,17:35,   3pt 6rb 1as 1trey 1-2fg
+2019-12-11,SF,"Dudley, Jared",11.4,"3,500",lal,@ orl, 96-87,21:20,   9pt 2rb 3trey 3-5fg
+2019-12-11,PF,"Davis, Ed",10.1,"3,500",uta,@ min, 127-116,11:33,   2pt 3rb 1as 1bl 1-1fg 0-1ft
+2019-12-11,SF,"Carter, Vince",9.6,"3,600",atl,@ chi, 102-136,12:50,   4pt 3rb 1st 1to 1trey 1-5fg 1-2ft
+2019-12-11,PF,"Gibson, Taj",9.3,"3,600",nyk,@ gsw, 124-122,13:47,   0pt 4rb 1as 1bl 0-1fg
+2019-12-11,SF,"Culver, Jarrett",9.1,"4,900",min,v uta, 116-127,21:14,   4pt 3rb 1as 2-8fg 0-2ft
+2019-12-11,PF,"Gafford, Daniel",9,"3,800",chi,v atl, 136-102,10:26,   4pt 2as 1bl 1to 2-3fg
+2019-12-11,PF,"Boucher, Chris",8.6,"3,500",tor,v lac, 92-112,8:59,   5pt 3rb 1trey 2-5fg
+2019-12-11,SF,"Musa, Dzanan",8.4,"3,500",bkn,v cha, 108-113,16:01,   4pt 2rb 1st 1to 1trey 1-3fg 1-2ft
+2019-12-11,SF,"Hill, Solomon",8,"4,200",mem,@ pho, 115-108,17:08,   0pt 5rb 1st 1to 0-4fg
+2019-12-11,PF,"Paschall, Eric",7.7,"5,900",gsw,v nyk, 122-124,16:52,   5pt 1rb 1as 2-6fg 1-2ft
+2019-12-11,SF,"Bridges, Mikal",5.6,"4,500",pho,v mem, 108-115,20:45,   3pt 3rb 1to 1-2fg 1-2ft
+2019-12-11,SF,"Parsons, Chandler",4.4,"3,500",atl,@ chi, 102-136,7:59,   3pt 2rb 1to 1trey 1-2fg
+2019-12-11,PF,"Clark, Gary",4.2,"3,600",hou,@ cle, 116-110,10:33,   3pt 1rb 1trey 1-2fg
+2019-12-11,SF,"Ojeleye, Semi",4.2,"3,500",bos,@ ind, 117-122,23:59,   0pt 1rb 2as 0-1fg
+2019-12-11,SF,"Kabengele, Mfiondu",4.2,"3,500",lac,@ tor, 112-92,3:01,   3pt 1rb 1trey 1-1fg
+2019-12-11,PF,"Williams, Grant",3.8,"3,500",bos,@ ind, 117-122,7:41,   0pt 4rb 1to
+2019-12-11,SF,"Bazley, Darius",2.8,"3,500",okc,@ sac, 93-94,11:28,   0pt 4rb 2to 0-4fg
+2019-12-11,PF,"Kornet, Luke",2.4,"3,500",chi,v atl, 136-102,6:33,   0pt 2rb 0-2fg
+2019-12-11,PF,"Motley, Johnathan",2,"3,500",lac,@ tor, 112-92,3:01,   0pt 1st 1to
+2019-12-11,PF,"Wilson, DJ",1.7,"3,600",mil,v nor, 127-112,11:35,   0pt 1rb 1as 1to 0-2fg
+2019-12-11,PF,"Melli, Nicolo",1.7,"3,500",nor,@ mil, 112-127,7:11,   0pt 1rb 1as 1to 0-3fg
+2019-12-11,SF,"Sefolosha, Thabo",1.2,"3,500",hou,@ cle, 116-110,11:08,   0pt 1rb
+2019-12-11,PF,"Miller, Malcolm",0,"3,500",tor,v lac, 92-112,3:01,   0pt
+2019-12-11,SF,"Antetokounmpo, Thanasis",0,"3,500",mil,v nor, 127-112,0,   
+2019-12-11,SF,"Frazier, Melvin",0,"3,500",orl,v lal, 87-96,0,   
+2019-12-11,PF,"Leaf, TJ",0,"3,500",ind,v bos, 122-117,0,   
+2019-12-11,PF,"Kurucs, Rodions",0,"3,500",bkn,v cha, 108-113,0,   
+2019-12-11,PF,"Giles, Harry",0,"3,500",sac,v okc, 94-93,0,   
+2019-12-11,PF,"Vonleh, Noah",0,"3,500",min,v uta, 116-127,0,   
+2019-12-11,PF,"Swanigan, Caleb",0,"3,500",sac,v okc, 94-93,0,   
+2019-12-11,SF,"Johnson, BJ",0,"3,500",orl,v lal, 87-96,0,   
+2019-12-11,PF,"Jefferson, Amile",0,"3,500",orl,v lal, 87-96,0,   
+2019-12-11,PF,"Reid, Naz",0,"3,500",min,v uta, 116-127,0,   
+2019-12-11,SF,"McKinnie, Alfonzo",0,"3,500",cle,v hou, 110-116,0,   
+2019-12-11,PF,"Hartenstein, Isaiah",0,"3,500",hou,@ cle, 116-110,0,   
+2019-12-11,SF,"Moore, E",0,"3,600",nor,@ mil, 112-127,0,   
+2019-12-11,PF,"Muscala, Mike",0,"3,500",okc,@ sac, 93-94,0,   
+2019-12-11,SF,"Caboclo, Bruno",0,"3,500",mem,@ pho, 115-108,0,   
+2019-12-11,PF,"Diallo, Cheick",0,"3,500",pho,v mem, 108-115,0,   
+2019-12-11,PF,"Ellenson, Henry",0,"3,500",bkn,v cha, 108-113,0,   
+2019-12-11,PF,"Johnson, Alize",0,"3,500",ind,v bos, 122-117,0,   
+2019-12-11,PF,"Favors, Derrick",0,"6,600",nor,@ mil, 112-127,0,   
+2019-12-11,SF,"Brazdeikis, Ignas",0,"3,500",nyk,@ gsw, 124-122,0,   
+2019-12-11,PF,"Antetokounmpo, Kostas",0,"3,500",lal,@ orl, 96-87,0,   
+2019-12-11,SF,"Layman, Jake",0,"3,800",min,v uta, 116-127,0,   
+2019-12-11,SF,"Batum, Nicolas",0,"3,800",cha,@ bkn, 113-108,0,   
+2019-12-11,PF,"Bender, Dragan",0,"3,500",mil,v nor, 127-112,0,   
+2019-12-11,PF,"Gabriel, Wenyen",0,"3,500",sac,v okc, 94-93,0,   
+2019-12-11,SF,"Porter, Otto",0,"5,100",chi,v atl, 136-102,0,   
+2019-12-11,PF,"Hernandez, Dewan",0,"3,500",tor,v lac, 92-112,0,   
+2019-12-11,PF,"Rabb, Ivan",0,"3,500",nyk,@ gsw, 124-122,0,   
+2019-12-11,PF,"Aminu, Al",0,"3,800",orl,v lal, 87-96,0,   
+2019-12-11,PF,"Williamson, Zion",0,"3,500",nor,@ mil, 112-127,0,   
+2019-12-11,PF,"Smailagic, Alen",0,"3,500",gsw,v nyk, 122-124,0,   
+2019-12-11,PF,"Coffey, Amir",0,"3,500",lac,@ tor, 112-92,0,   
+2019-12-11,SF,"Johnson, Stanley",0,"3,500",tor,v lac, 92-112,0,   
+2019-12-11,SF,"Strus, Max",0,"3,500",chi,v atl, 136-102,0,   
+2019-12-11,SF,"Martin, Kelan",0,"3,500",min,v uta, 116-127,0,   
+2019-12-11,SF,"Sampson, JaKarr",0,"3,500",ind,v bos, 122-117,0,   
+2019-12-11,PF,"Morgan, Juwan",0,"3,500",uta,@ min, 127-116,0,   
+2019-12-11,SF,"Brantley, Jarrell",0,"3,500",uta,@ min, 127-116,0,   
+2019-12-11,SF,"Martin, Caleb",0,"3,500",cha,@ bkn, 113-108,0,   
+2019-12-11,PF,"Claxton, Nicolas",0,"3,500",bkn,v cha, 108-113,0,   
+2019-12-11,PF,"Kuzma, Kyle",0,"4,100",lal,@ orl, 96-87,0,   
+2019-12-11,SF,"Franks, Robert",0,"3,500",cha,@ bkn, 113-108,0,   
+2019-12-11,PF,"McDaniels, Jalen",0,"3,500",cha,@ bkn, 113-108,0,   
+2019-12-11,SF,"Antetokounmpo, Giannis",0,"12,000",mil,v nor, 127-112,0,   
+2019-12-11,PF,"Cook, Tyler",0,"3,500",cle,v hou, 110-116,0,   
+2019-12-11,SF,"Diop, Keita",0,"3,600",min,v uta, 116-127,0,   
+2019-12-11,SF,"Gordon, Eric",0,"4,000",hou,@ cle, 116-110,0,   
+2019-12-11,SF,"Brissett, Oshae",0,"3,500",tor,v lac, 92-112,0,   
+2019-12-11,SF,"Chandler, Wilson",0,"3,500",bkn,v cha, 108-113,0,   
+2019-12-11,SF,"Hutchison, Chandler",0,"3,600",chi,v atl, 136-102,0,   
+2019-12-11,SF,"Green, Gerald",0,"3,500",hou,@ cle, 116-110,0,   
+2019-12-11,PF,"Cheatham, Zylan",0,"3,500",nor,@ mil, 112-127,0,   
+2019-12-11,PF,"Williams, Marvin",0,"3,700",cha,@ bkn, 113-108,0,   
+2019-12-11,PF,"Collins, John",0,"3,500",atl,@ chi, 102-136,0,   
+2019-12-11,PF,"Wade, Dean",0,"3,500",cle,v hou, 110-116,0,   
+2019-12-11,SF,"Jeffries, DaQuan",0,"3,500",sac,v okc, 94-93,0,   
+2019-12-11,PF,"Green, JaMychal",0,"4,100",lac,@ tor, 112-92,0,   
+2019-12-11,SF,"Miller, Darius",0,"3,500",nor,@ mil, 112-127,0,   
+2019-12-11,SF,"Jackson, Josh",0,"3,500",mem,@ pho, 115-108,0,   
+2019-12-11,C,"Gobert, Rudy",52.7,"8,000",uta,@ min, 127-116,36:27,   20pt 16rb 3as 2st 2bl 3to 8-11fg 4-7ft
+2019-12-11,C,"Gasol, Marc",41.2,"5,600",tor,v lac, 92-112,31:02,   9pt 11rb 6as 3st 1bl 2to 1trey 4-8fg 0-2ft
+2019-12-11,C,"Capela, Clint",39.1,"8,800",hou,@ cle, 116-110,37:57,   10pt 13rb 1as 1st 3bl 5-6fg
+2019-12-11,C,"Towns, Karl",36.7,"11,100",min,v uta, 116-127,36:26,   21pt 11rb 3as 1st 5to 2trey 6-15fg 7-9ft
+2019-12-11,C,"Adams, Steven",35.2,"7,100",okc,@ sac, 93-94,28:08,   12pt 11rb 4as 2bl 2to 5-10fg 2-5ft
+2019-12-11,C,"Hayes, Jaxson",30.5,"5,000",nor,@ mil, 112-127,23:53,   12pt 5rb 1as 2st 2bl 1to 4-5fg 4-5ft
+2019-12-11,C,"Jordan, DeAndre",30.3,"5,400",bkn,v cha, 108-113,21:30,   9pt 14rb 1as 1bl 3-6fg 3-3ft
+2019-12-11,C,"Robinson, Mitchell",30.3,"7,300",nyk,@ gsw, 124-122,29:53,   9pt 9rb 1as 3bl 4-7fg 1-2ft
+2019-12-11,C,"Len, Alex",27.5,"4,700",atl,@ chi, 102-136,19:46,   17pt 5rb 3as 1trey 7-9fg 2-4ft
+2019-12-11,C,"Zubac, Ivica",25.1,"4,400",lac,@ tor, 112-92,15:39,   7pt 8rb 1as 1st 2bl 2to 3-6fg 1-2ft
+2019-12-11,C,"Zeller, Cody",24.7,"4,700",cha,@ bkn, 113-108,20:08,   10pt 6rb 1as 1st 1bl 3-7fg 4-4ft
+2019-12-11,C,"Jr, Wendell",24.5,"6,900",chi,v atl, 136-102,22:44,   11pt 10rb 1as 5-8fg 1-1ft
+2019-12-11,C,"Thompson, Tristan",24.4,"6,900",cle,v hou, 110-116,33:31,   11pt 7rb 2as 1st 1bl 4to 5-10fg 1-2ft
+2019-12-11,C,"Harrell, Montrezl",23.2,"7,400",lac,@ tor, 112-92,29:20,   10pt 6rb 4as 1bl 3to 3-9fg 4-4ft
+2019-12-11,C,"Turner, Myles",22.3,"6,300",ind,v bos, 122-117,24:21,   11pt 4rb 1as 2bl 1to 1trey 4-10fg 2-2ft
+2019-12-11,C,"Stein, Willie",22,"5,200",gsw,v nyk, 122-124,22:21,   7pt 5rb 3bl 3-7fg 1-2ft
+2019-12-11,C,"Portis, Bobby",20.6,"3,800",nyk,@ gsw, 124-122,24:12,   15pt 3rb 2as 1to 1trey 5-8fg 4-5ft
+2019-12-11,C,"Lopez, Brook",20.5,"5,200",mil,v nor, 127-112,24:45,   9pt 5rb 3as 1bl 2to 2trey 3-10fg 1-2ft
+2019-12-11,C,"Bamba, Mohamed",19.8,"4,500",orl,v lal, 87-96,18:48,   13pt 4rb 1bl 1to 1trey 5-9fg 2-2ft
+2019-12-11,C,"Baynes, Aron",19.7,"5,400",pho,v mem, 108-115,18:05,   12pt 6rb 1as 1to 3-10fg 6-7ft
+2019-12-11,C,"Kanter, Enes",18.7,"3,800",bos,@ ind, 117-122,13:35,   4pt 6rb 1as 2bl 2-5fg
+2019-12-11,C,"Valanciunas, Jonas",17.3,"8,500",mem,@ pho, 115-108,25:13,   6pt 9rb 1as 1to 3-9fg
+2019-12-11,C,"Biyombo, Bismack",15.7,"3,900",cha,@ bkn, 113-108,24:26,   4pt 6rb 1as 1bl 2-4fg
+2019-12-11,C,"Howard, Dwight",15.7,"4,300",lal,@ orl, 96-87,17:48,   2pt 6rb 1as 1st 1bl 1to 1-4fg 0-2ft
+2019-12-11,C,"Jones, Damian",15.6,"5,200",atl,@ chi, 102-136,13:55,   10pt 3rb 1bl 1to 5-6fg
+2019-12-11,C,"Lopez, Robin",15,"3,500",mil,v nor, 127-112,16:30,   8pt 5rb 1bl 2to 4-7fg
+2019-12-11,C,"Okafor, Jahlil",13.6,"4,100",nor,@ mil, 112-127,20:14,   2pt 3rb 6as 1to 1-3fg
+2019-12-11,C,"McGee, JaVale",12.8,"4,000",lal,@ orl, 96-87,13:59,   8pt 4rb 3-3fg 2-2ft
+2019-12-11,C,"Looney, Kevon",6.2,"3,600",gsw,v nyk, 122-124,5:20,   5pt 1rb 2-2fg 1-1ft
+2019-12-11,C,"Dieng, Gorgui",2.9,"3,500",min,v uta, 116-127,11:25,   0pt 2rb 1as 1to 0-2fg
+2019-12-11,C,"Bitadze, Goga",0,"3,500",ind,v bos, 122-117,2:01,   0pt
+2019-12-11,C,"Bradley, Tony",0,"3,500",uta,@ min, 127-116,0,   
+2019-12-11,C,"Poirier, Vincent",0,"3,500",bos,@ ind, 117-122,0,   
+2019-12-11,C,"Hernangomez, Guillermo",0,"3,500",cha,@ bkn, 113-108,0,   
+2019-12-11,C,"Zizic, Ante",0,"3,500",cle,v hou, 110-116,0,   
+2019-12-11,C,"Dedmon, Dewayne",0,"3,700",sac,v okc, 94-93,0,   
+2019-12-11,C,"Felicio, Cristiano",0,"3,500",chi,v atl, 136-102,0,   
+2019-12-11,C,"Chandler, Tyson",0,"3,500",hou,@ cle, 116-110,0,   
+2019-12-11,C,"Fall, Tacko",0,"3,500",bos,@ ind, 117-122,0,   
+2019-12-11,C,"Hilario, Nene",0,"3,500",hou,@ cle, 116-110,0,   
+2019-12-11,C,"Williams, Robert",0,"3,700",bos,@ ind, 117-122,0,   
+2019-12-11,C,"Vucevic, Nikola",0,"8,100",orl,v lal, 87-96,0,   
+2019-12-11,C,"Ayton, Deandre",0,"3,500",pho,v mem, 108-115,0,   
+2019-12-11,C,"Cousins, DeMarcus",0,"3,500",lal,@ orl, 96-87,0,   
+2019-12-11,C,"Patton, Justin",0,"3,500",okc,@ sac, 93-94,0,   

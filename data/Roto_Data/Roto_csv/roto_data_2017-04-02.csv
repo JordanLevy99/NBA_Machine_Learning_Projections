@@ -1,0 +1,342 @@
+Date,Position,"LastName, FirstName",FD PTS,Salary,Team,Opp Team,Score,Min,Statline
+2017-04-02,SG,"Antetokounmpo, Giannis",69.5,"10,100",mil,v dal, 105-109,39:32,   31pt 15rb 9as 4st 2bl 5to 10-18fg 11-12ft
+2017-04-02,PG,"Westbrook, Russell",68.6,"13,600",okc,v cha, 101-113,36:12,   40pt 13rb 10as 3st 8to 7trey 14-31fg 5-5ft
+2017-04-02,PG,"Ulis, Tyler",56.3,"6,400",pho,v hou, 116-123,45:13,   34pt 9rb 9as 1st 4to 3trey 15-22fg 1-1ft
+2017-04-02,PG,"Curry, Stephen",56.2,"10,000",gsw,v was, 139-115,35:33,   42pt 1rb 8as 1st 1to 9trey 15-22fg 3-3ft
+2017-04-02,PG,"Beverley, Patrick",49.1,"4,800",hou,@ pho, 123-116,35:02,   26pt 8rb 9as 1st 2to 4trey 11-19fg
+2017-04-02,PG,"Conley, Mike",45.6,"8,300",mem,@ lal, 103-108,35:44,   20pt 3rb 12as 1st 1bl 4trey 6-17fg 4-4ft
+2017-04-02,SG,"Gordon, Eric",44.7,"4,600",hou,@ pho, 123-116,37:05,   22pt 6rb 5as 1st 3bl 2trey 9-24fg 2-3ft
+2017-04-02,PG,"Walker, Kemba",42.6,"7,600",cha,@ okc, 113-101,33:54,   29pt 3rb 4as 4st 4to 6trey 10-20fg 3-4ft
+2017-04-02,PG,"Irving, Kyrie",40.5,"8,600",cle,v ind, 135-130,45:50,   23pt 5rb 7as 1st 1bl 3to 2trey 5-20fg 11-11ft
+2017-04-02,SG,"Booker, Devin",40.5,"8,000",pho,v hou, 116-123,39:29,   27pt 5rb 9as 1st 8to 1trey 7-22fg 12-12ft
+2017-04-02,PG,"Russell, D",37.7,"6,700",lal,v mem, 108-103,36:02,   28pt 6rb 5as 5to 3trey 9-17fg 7-7ft
+2017-04-02,PG,"Rondo, Rajon",37.3,"6,900",chi,@ nor, 117-110,33:44,   10pt 9rb 9as 3st 3to 5-14fg
+2017-04-02,PG,"Teague, Jeff",37.3,"7,000",ind,@ cle, 130-135,43:32,   17pt 4rb 11as 1st 3to 4trey 5-13fg 3-3ft
+2017-04-02,PG,"Wall, John",36.5,"10,400",was,@ gsw, 115-139,26:43,   15pt 5rb 11as 1st 3to 4-11fg 7-8ft
+2017-04-02,PG,"Mudiay, Emmanuel",35.3,"3,700",den,@ mia, 116-113,31:30,   17pt 4rb 9as 1bl 2to 4-9fg 9-10ft
+2017-04-02,PG,"Schroder, Dennis",35,"7,000",atl,@ bkn, 82-91,40:52,   16pt 5rb 8as 2st 1bl 5to 2trey 7-20fg
+2017-04-02,SG,"Batum, Nicolas",34.4,"6,300",cha,@ okc, 113-101,31:21,   9pt 7rb 8as 3st 1to 1trey 3-8fg 2-2ft
+2017-04-02,SG,"Allen, Tony",33.3,"4,100",mem,@ lal, 103-108,32:41,   13pt 9rb 3as 2st 1bl 1to 1trey 6-8fg
+2017-04-02,PG,"Thomas, Isaiah",31.4,"8,500",bos,@ nyk, 110-94,23:53,   19pt 2rb 6as 1st 1to 4trey 6-11fg 3-3ft
+2017-04-02,SG,"Smith, JR",31,"3,600",cle,v ind, 135-130,42:20,   18pt 5rb 2as 2st 6trey 6-12fg
+2017-04-02,SG,"Beal, Bradley",30.9,"7,500",was,@ gsw, 115-139,30:35,   20pt 2rb 5as 2st 3to 2trey 8-15fg 2-4ft
+2017-04-02,SG,"Thompson, Klay",30.7,"7,000",gsw,v was, 139-115,32:45,   23pt 1rb 3as 1st 1bl 2to 4trey 9-20fg 1-1ft
+2017-04-02,SG,"Oladipo, Victor",29.6,"5,900",okc,v cha, 101-113,33:29,   19pt 3rb 6as 1st 4to 2trey 6-14fg 5-5ft
+2017-04-02,PG,"Parker, Tony",29.3,"3,700",sas,v uta, 109-103,29:50,   21pt 4rb 5as 4to 7-15fg 7-9ft
+2017-04-02,PG,"Dragic, Goran",29.2,"7,800",mia,v den, 113-116,33:47,   22pt 1rb 6as 3to 1trey 8-15fg 5-6ft
+2017-04-02,SG,"Richardson, Josh",29.1,"4,700",mia,v den, 113-116,37:33,   17pt 3rb 1as 1st 3bl 1to 4trey 6-11fg 1-2ft
+2017-04-02,SG,"DeRozan, DeMar",28.7,"9,200",tor,v phi, 113-105,31:05,   17pt 1rb 9as 3to 6-11fg 5-5ft
+2017-04-02,PG,"Holiday, Jrue",28.2,"7,300",nor,v chi, 110-117,39:05,   17pt 1rb 6as 1bl 1to 2trey 5-12fg 5-5ft
+2017-04-02,PG,"Lin, Jeremy",28.2,"5,900",bkn,v atl, 91-82,31:19,   15pt 6rb 6as 3to 2trey 5-10fg 3-4ft
+2017-04-02,SG,"Lee, Courtney",28.1,"4,600",nyk,v bos, 94-110,30:19,   16pt 3rb 5as 1st 1to 1trey 5-10fg 5-5ft
+2017-04-02,SG,"Daniels, Troy",27.9,"3,500",mem,@ lal, 103-108,30:53,   20pt 2rb 3as 1st 1to 6trey 7-13fg
+2017-04-02,PG,"Livingston, Shaun",27.4,"3,500",gsw,v was, 139-115,20:46,   17pt 7rb 1bl 8-10fg 1-1ft
+2017-04-02,SG,"Williams, Louis",26.8,"4,600",hou,@ pho, 123-116,29:36,   23pt 4rb 2as 4to 2trey 7-14fg 7-8ft
+2017-04-02,PG,"Ferrell, Yogi",26.3,"4,600",dal,@ mil, 109-105,30:32,   13pt 4rb 5as 1st 1to 2trey 4-8fg 3-4ft
+2017-04-02,PG,"Johnson, Tyler",26.1,"5,600",mia,v den, 113-116,30:01,   15pt 3rb 5as 1bl 2to 3trey 4-13fg 4-5ft
+2017-04-02,SG,"Luwawu, Timothe",25.6,"3,900",phi,@ tor, 105-113,35:48,   23pt 3rb 1st 3to 3trey 7-15fg 6-6ft
+2017-04-02,PG,"Rozier, Terry",25.4,"3,500",bos,@ nyk, 110-94,24:09,   12pt 2rb 4as 3st 1to 1trey 4-6fg 3-5ft
+2017-04-02,PG,"Dellavedova, Matthew",24,"3,500",mil,v dal, 105-109,34:23,   14pt 6as 1st 1to 2trey 6-11fg
+2017-04-02,PG,"McConnell, TJ",23.7,"5,600",phi,@ tor, 105-113,35:20,   4pt 6rb 11as 1st 6to 1-7fg 2-2ft
+2017-04-02,PG,"Barea, Jose",23.4,"4,100",dal,@ mil, 109-105,23:07,   17pt 2rb 6as 5to 3trey 7-11fg
+2017-04-02,PG,"Joseph, Cory",23,"5,400",tor,v phi, 113-105,31:44,   9pt 5rb 6as 1st 3to 1trey 4-9fg 0-2ft
+2017-04-02,SG,"Smart, Marcus",22.9,"5,900",bos,@ nyk, 110-94,27:26,   14pt 2rb 5as 1st 3to 1trey 6-11fg 1-1ft
+2017-04-02,SG,"Stauskas, Nik",22.7,"3,800",phi,@ tor, 105-113,30:38,   14pt 1rb 5as 1bl 2to 2trey 4-10fg 4-4ft
+2017-04-02,SG,"Crawford, Jordan",21.5,"3,700",nor,v chi, 110-117,24:00,   15pt 3as 1st 1trey 5-11fg 4-4ft
+2017-04-02,PG,"Mack, Shelvin",21.2,"3,600",uta,@ sas, 103-109,25:21,   13pt 1rb 2as 2st 5-10fg 3-4ft
+2017-04-02,PG,"Jennings, Brandon",20.9,"4,100",was,@ gsw, 115-139,22:54,   9pt 7rb 3as 1to 1trey 3-8fg 2-2ft
+2017-04-02,PG,"Wright, Delon",18.9,"3,600",tor,v phi, 113-105,26:38,   4pt 2rb 5as 4st 3to 1-4fg 2-2ft
+2017-04-02,SG,"Henderson, Gerald",18.8,"3,500",phi,@ tor, 105-113,18:26,   12pt 4rb 2st 2to 2trey 5-9fg
+2017-04-02,SG,"Ellis, Monta",18.7,"4,500",ind,@ cle, 130-135,35:51,   7pt 6rb 3as 1trey 3-8fg
+2017-04-02,SG,"Kilpatrick, Sean",18.7,"3,700",bkn,v atl, 91-82,25:09,   4pt 11rb 1as 1-8fg 2-2ft
+2017-04-02,SG,"Harris, Gary",18.6,"6,100",den,@ mia, 116-113,36:46,   9pt 3rb 2as 2st 1to 3-10fg 3-4ft
+2017-04-02,SG,"Jr, Tim",17.7,"5,500",atl,@ bkn, 82-91,35:51,   14pt 6rb 1as 5to 1trey 5-10fg 3-4ft
+2017-04-02,SG,"Lamb, Jeremy",17.6,"4,500",cha,@ okc, 113-101,11:27,   13pt 3rb 1st 1to 1trey 5-7fg 2-2ft
+2017-04-02,PG,"Murray, Jamal",17.6,"3,700",den,@ mia, 116-113,27:55,   9pt 3rb 3st 1bl 3to 1trey 3-7fg 2-2ft
+2017-04-02,SG,"Matthews, Wes",17.2,"4,600",dal,@ mil, 109-105,34:07,   8pt 1rb 6as 1to 2trey 3-10fg
+2017-04-02,PG,"Harris, Devin",17.1,"3,500",dal,@ mil, 109-105,22:44,   6pt 3rb 3as 2st 1to 1-5fg 4-4ft
+2017-04-02,SG,"Vujacic, Sasha",17,"3,500",nyk,v bos, 94-110,25:05,   4pt 5rb 4as 1st 1to 1trey 1-10fg 1-2ft
+2017-04-02,PG,"Williams, Deron",17,"3,500",cle,v ind, 135-130,17:04,   9pt 6as 1to 2trey 3-5fg 1-2ft
+2017-04-02,PG,"Ennis, Tyler",16.9,"3,600",lal,v mem, 108-103,22:22,   11pt 2rb 1as 1st 1trey 4-9fg 2-2ft
+2017-04-02,SG,"Moore, E",16.9,"3,500",nor,v chi, 110-117,21:41,   6pt 2rb 3as 1st 1bl 1-6fg 4-4ft
+2017-04-02,SG,"Powell, Norman",16.4,"3,700",tor,v phi, 113-105,19:48,   10pt 2rb 4as 2to 3-8fg 4-4ft
+2017-04-02,PG,"Randle, Chasson",15.9,"3,500",nyk,v bos, 94-110,22:10,   10pt 2rb 3as 1st 3to 1trey 3-8fg 3-4ft
+2017-04-02,PG,"Exum, Dante",15.6,"3,500",uta,@ sas, 103-109,27:08,   7pt 3rb 2as 1bl 1trey 3-7fg
+2017-04-02,PG,"Williams, Michael",15.6,"3,500",chi,@ nor, 117-110,13:54,   2pt 3rb 6as 1st 1to 1-3fg
+2017-04-02,PG,"Dinwiddie, Spencer",15.4,"3,600",bkn,v atl, 91-82,21:50,   7pt 2rb 2st 1bl 1trey 1-4fg 4-5ft
+2017-04-02,PG,"Baker, Ron",15.1,"3,500",nyk,v bos, 94-110,28:32,   4pt 3rb 3as 2st 1to 2-5fg
+2017-04-02,SG,"Valentine, Denzel",15.1,"4,000",chi,@ nor, 117-110,26:26,   8pt 3rb 1as 1st 1bl 2to 2trey 3-6fg
+2017-04-02,SG,"Forbes, Bryn",14.9,"3,500",sas,v uta, 109-103,20:54,   8pt 2rb 3as 2trey 3-6fg
+2017-04-02,PG,"Clarkson, Jordan",14.6,"5,900",lal,v mem, 108-103,34:31,   7pt 3rb 4as 2to 1trey 3-12fg
+2017-04-02,SG,"Frazier, Tim",13.1,"3,500",nor,v chi, 110-117,21:29,   3pt 3rb 5as 1to 1trey 1-6fg
+2017-04-02,SG,"Foye, Randy",13.1,"3,500",bkn,v atl, 91-82,14:13,   3pt 3rb 3as 1st 1-3fg 1-1ft
+2017-04-02,SG,"LeVert, Caris",12.9,"4,000",bkn,v atl, 91-82,18:13,   9pt 2rb 1as 1trey 3-8fg 2-2ft
+2017-04-02,SG,"Brussino, Nicolas",12.1,"3,500",dal,@ mil, 109-105,17:12,   7pt 3rb 1as 1trey 2-4fg 2-2ft
+2017-04-02,SG,"Selden, Wayne",11.9,"3,500",mem,@ lal, 103-108,27:20,   5pt 2rb 3as 1st 2to 2-5fg 1-2ft
+2017-04-02,PG,"Roberts, Brian",11.2,"3,500",cha,@ okc, 113-101,14:06,   6pt 1rb 2as 1st 1to 3-6fg
+2017-04-02,SG,"Hood, Rodney",11.2,"4,000",uta,@ sas, 103-109,27:29,   5pt 1rb 2as 1st 1trey 2-9fg
+2017-04-02,SG,"Stephenson, Lance",11.1,"3,500",ind,@ cle, 130-135,18:06,   4pt 3rb 3as 1to 2-7fg
+2017-04-02,PG,"Whitehead, Isaiah",10.8,"3,500",bkn,v atl, 91-82,23:16,   6pt 4rb 2as 3to 2-4fg 2-2ft
+2017-04-02,PG,"Price, Ronnie",9.7,"3,500",pho,v hou, 116-123,11:18,   0pt 1rb 3as 2st 0-3fg
+2017-04-02,SG,"Holiday, Justin",9.7,"3,500",nyk,v bos, 94-110,28:01,   5pt 1rb 1as 1st 1trey 2-12fg
+2017-04-02,PG,"VanVleet, Fred",9.2,"3,500",tor,v phi, 113-105,12:00,   7pt 1rb 1st 1to 1trey 3-6fg
+2017-04-02,SG,"Satoransky, Tomas",8.5,"3,500",was,@ gsw, 115-139,15:48,   4pt 3as 2-4fg
+2017-04-02,SG,"Ellington, Wayne",8.2,"3,500",mia,v den, 113-116,13:27,   7pt 1rb 1trey 3-8fg
+2017-04-02,PG,"Terry, Jason",8,"3,500",mil,v dal, 105-109,20:12,   6pt 2as 1to 2trey 2-4fg
+2017-04-02,SG,"Shumpert, Iman",7.9,"3,500",cle,v ind, 135-130,23:29,   2pt 2rb 1as 1st 1bl 2to 0-1fg 2-2ft
+2017-04-02,SG,"McCaw, Patrick",5.7,"3,500",gsw,v was, 139-115,13:18,   4pt 1rb 1as 1to 1-3fg 2-2ft
+2017-04-02,SG,"Clark, Ian",5.6,"3,500",gsw,v was, 139-115,12:10,   3pt 3rb 1to 1trey 1-2fg
+2017-04-02,PG,"Baldwin, Wade",5.5,"3,500",mem,@ lal, 103-108,14:42,   2pt 1as 1st 1bl 2to 1-1fg
+2017-04-02,SG,"Vaughn, Rashad",5.5,"3,500",mil,v dal, 105-109,4:54,   2pt 1as 1st 1-2fg
+2017-04-02,PG,"Brooks, Aaron",5.4,"3,600",ind,@ cle, 130-135,14:28,   0pt 2rb 2as 1bl 2to 0-7fg
+2017-04-02,SG,"Nwaba, David",5.2,"3,600",lal,v mem, 108-103,15:03,   3pt 1rb 1st 1to 1-3fg 1-2ft
+2017-04-02,PG,"Christon, Semaj",5,"3,500",okc,v cha, 101-113,15:54,   2pt 2st 1to 1-2fg
+2017-04-02,PG,"Calderon, Jose",4.6,"3,500",atl,@ bkn, 82-91,16:42,   0pt 3rb 1st 1to 0-2fg
+2017-04-02,SG,"Abrines, Alex",1.4,"3,500",okc,v cha, 101-113,13:11,   0pt 2rb 1to 0-4fg
+2017-04-02,SG,"Green, Gerald",0.7,"3,500",bos,@ nyk, 110-94,6:12,   0pt 1rb 1as 2to 0-2fg
+2017-04-02,SG,"Cook, Quinn",0,"3,500",nor,v chi, 110-117,1:36,   0pt
+2017-04-02,SG,"Ginobili, Manu",0,"3,700",sas,v uta, 109-103,0,   
+2017-04-02,PG,"Brown, Bobby",0,"3,500",hou,@ pho, 123-116,0,   
+2017-04-02,PG,"Rodriguez, Sergio",0,"4,500",phi,@ tor, 105-113,0,   
+2017-04-02,SG,"Liggins, DeAndre",0,"3,500",cle,v ind, 135-130,0,   
+2017-04-02,PG,"Brogdon, Malcolm",0,"5,900",mil,v dal, 105-109,0,   
+2017-04-02,SG,"McDaniels, KJ",0,"3,500",bkn,v atl, 91-82,0,   
+2017-04-02,PG,"Canaan, Isaiah",0,"3,500",chi,@ nor, 117-110,0,   
+2017-04-02,SG,"Young, Nick",0,"3,700",lal,v mem, 108-103,0,   
+2017-04-02,PG,"Mills, Patty",0,"4,300",sas,v uta, 109-103,0,   
+2017-04-02,PG,"Cole, Norris",0,"3,500",okc,v cha, 101-113,0,   
+2017-04-02,PG,"Weber, Briante",0,"3,500",cha,@ okc, 113-101,0,   
+2017-04-02,PG,"Burke, Trey",0,"3,500",was,@ gsw, 115-139,0,   
+2017-04-02,SG,"Burks, Alec",0,"3,500",uta,@ sas, 103-109,0,   
+2017-04-02,SG,"Jones, James",0,"3,500",cle,v ind, 135-130,0,   
+2017-04-02,SG,"Waiters, Dion",0,"6,300",mia,v den, 113-116,0,   
+2017-04-02,PG,"Neto, Raul",0,"3,500",uta,@ sas, 103-109,0,   
+2017-04-02,SG,"Beasley, Malik",0,"3,500",den,@ mia, 116-113,0,   
+2017-04-02,PG,"Nelson, Jameer",0,"5,100",den,@ mia, 116-113,0,   
+2017-04-02,PG,"Grant, Jerian",0,"3,500",chi,@ nor, 117-110,0,   
+2017-04-02,SG,"Morrow, Anthony",0,"3,500",chi,@ nor, 117-110,0,   
+2017-04-02,SG,"Knight, Brandon",0,"3,600",pho,v hou, 116-123,0,   
+2017-04-02,SG,"Young, Joseph",0,"3,500",ind,@ cle, 130-135,0,   
+2017-04-02,SG,"Barbosa, Leandro",0,"3,600",pho,v hou, 116-123,0,   
+2017-04-02,SG,"Curry, Seth",0,"5,300",dal,@ mil, 109-105,0,   
+2017-04-02,PG,"Murray, Dejounte",0,"3,500",sas,v uta, 109-103,0,   
+2017-04-02,SG,"Harden, James",0,"12,100",hou,@ pho, 123-116,0,   
+2017-04-02,PG,"Felder, Kay",0,"3,500",cle,v ind, 135-130,0,   
+2017-04-02,SG,"McClellan, Sheldon",0,"3,500",was,@ gsw, 115-139,0,   
+2017-04-02,SG,"Harris, Joe",0,"3,500",bkn,v atl, 91-82,0,   
+2017-04-02,SG,"Bradley, Avery",0,"6,200",bos,@ nyk, 110-94,0,   
+2017-04-02,PG,"Payne, Cameron",0,"3,500",chi,@ nor, 117-110,0,   
+2017-04-02,SG,"Korver, Kyle",0,"3,700",cle,v ind, 135-130,0,   
+2017-04-02,PG,"Hill, George",0,"6,100",uta,@ sas, 103-109,0,   
+2017-04-02,PG,"Sessions, Ramon",0,"3,500",cha,@ okc, 113-101,0,   
+2017-04-02,PG,"Harrison, Andrew",0,"3,500",mem,@ lal, 103-108,0,   
+2017-04-02,PG,"Rose, Derrick",0,"6,200",nyk,v bos, 94-110,0,   
+2017-04-02,PG,"Lowry, Kyle",0,"8,300",tor,v phi, 113-105,0,   
+2017-04-02,SG,"Barton, Will",0,"6,100",den,@ mia, 116-113,0,   
+2017-04-02,PG,"Jackson, Demetrius",0,"3,500",bos,@ nyk, 110-94,0,   
+2017-04-02,SG,"Green, Danny",0,"3,800",sas,v uta, 109-103,0,   
+2017-04-02,PG,"Delaney, Malcolm",0,"3,500",atl,@ bkn, 82-91,0,   
+2017-04-02,PG,"Goodwin, Archie",-1.8,"3,600",bkn,v atl, 91-82,10:09,   0pt 1rb 3to 0-3fg
+2017-04-02,SF,"James, LeBron",81.7,"10,700",cle,v ind, 135-130,51:39,   41pt 16rb 11as 2st 1bl 1to 3trey 16-29fg 6-12ft
+2017-04-02,SF,"George, Paul",72.3,"8,900",ind,@ cle, 130-135,48:01,   43pt 9rb 9as 3st 1bl 3to 6trey 16-33fg 5-7ft
+2017-04-02,SF,"Butler, Jimmy",56.7,"9,900",chi,@ nor, 117-110,38:48,   39pt 6rb 5as 1st 1bl 1to 3trey 14-26fg 8-10ft
+2017-04-02,PF,"Davis, Anthony",51.2,"11,200",nor,v chi, 110-117,40:01,   30pt 11rb 2as 3st 1bl 3to 1trey 8-19fg 13-14ft
+2017-04-02,PF,"Ibaka, Serge",45.2,"5,600",tor,v phi, 113-105,28:03,   24pt 6rb 1st 6bl 11-17fg 2-2ft
+2017-04-02,PF,"Green, Draymond",44.9,"7,400",gsw,v was, 139-115,35:27,   11pt 12rb 13as 1st 1bl 4to 1trey 3-9fg 4-6ft
+2017-04-02,PF,"Jokic, Nikola",44.5,"10,000",den,@ mia, 116-113,35:11,   19pt 10rb 7as 2st 1to 9-16fg 1-1ft
+2017-04-02,SF,"Leonard, Kawhi",41.3,"9,400",sas,v uta, 109-103,35:53,   25pt 4rb 7as 2bl 3to 3trey 8-15fg 6-7ft
+2017-04-02,SF,"Miles, CJ",39.2,"3,600",ind,@ cle, 130-135,33:42,   27pt 6rb 2as 1st 5trey 8-13fg 6-6ft
+2017-04-02,SF,"Gallinari, Danilo",39,"6,600",den,@ mia, 116-113,37:06,   29pt 5rb 2as 1st 1to 3trey 11-19fg 4-4ft
+2017-04-02,PF,"Nance, Larry",37.3,"3,900",lal,v mem, 108-103,40:12,   12pt 14rb 1as 3st 1bl 1to 1trey 4-8fg 3-4ft
+2017-04-02,SF,"Chandler, Wilson",36.8,"6,700",den,@ mia, 116-113,31:02,   19pt 9rb 2as 2bl 1trey 8-13fg 2-2ft
+2017-04-02,PF,"Randle, Julius",34.2,"6,600",lal,v mem, 108-103,35:49,   18pt 11rb 1st 1bl 1to 1trey 6-12fg 5-6ft
+2017-04-02,PF,"Portis, Bobby",34.2,"4,000",chi,@ nor, 117-110,31:01,   21pt 11rb 3trey 9-15fg
+2017-04-02,SF,"Williams, Troy",32.5,"3,500",hou,@ pho, 123-116,38:35,   21pt 5rb 3as 1st 1to 6trey 7-12fg 1-2ft
+2017-04-02,SF,"Barnes, Harrison",32.4,"5,500",dal,@ mil, 109-105,38:54,   31pt 2rb 1st 3to 3trey 9-13fg 10-10ft
+2017-04-02,PF,"Dudley, Jared",32.3,"3,800",pho,v hou, 116-123,33:46,   15pt 9rb 1as 3st 1to 3trey 4-14fg 4-4ft
+2017-04-02,PF,"Love, Kevin",31.9,"7,300",cle,v ind, 135-130,37:28,   20pt 12rb 1as 4to 3trey 8-12fg 1-2ft
+2017-04-02,SF,"Ennis, James",31.6,"3,600",mem,@ lal, 103-108,36:39,   14pt 8rb 4as 1st 1bl 2to 2trey 5-10fg 2-2ft
+2017-04-02,PF,"Len, Alex",30.4,"4,500",pho,v hou, 116-123,27:53,   10pt 12rb 4bl 2to 2-6fg 6-6ft
+2017-04-02,PF,"Young, Thaddeus",29.8,"4,500",ind,@ cle, 130-135,28:31,   19pt 9rb 9-12fg 1-1ft
+2017-04-02,SF,"Bogdanovic, Bojan",29.7,"3,600",was,@ gsw, 115-139,28:40,   20pt 6rb 1as 2st 3to 4trey 6-11fg 4-4ft
+2017-04-02,SF,"Anderson, Kyle",28,"3,500",sas,v uta, 109-103,32:13,   6pt 10rb 4as 3st 2to 1-3fg 4-4ft
+2017-04-02,SF,"Prince, Taurean",28,"4,200",atl,@ bkn, 82-91,36:08,   13pt 5rb 2as 2st 1bl 1trey 5-12fg 2-5ft
+2017-04-02,SF,"Porter, Otto",27.7,"5,300",was,@ gsw, 115-139,23:04,   13pt 6rb 1as 2st 1bl 2trey 5-10fg 1-1ft
+2017-04-02,PF,"Robinson, Thomas",27.5,"3,500",lal,v mem, 108-103,19:59,   12pt 10rb 1as 2st 2to 5-9fg 2-5ft
+2017-04-02,SF,"Middleton, Khris",27,"6,200",mil,v dal, 105-109,37:06,   13pt 5rb 4as 1st 1trey 5-15fg 2-2ft
+2017-04-02,SF,"Gilchrist, Michael",26.7,"4,600",cha,@ okc, 113-101,35:58,   16pt 6rb 1as 2st 2to 5-8fg 6-6ft
+2017-04-02,PF,"Nowitzki, Dirk",26.5,"6,100",dal,@ mil, 109-105,25:50,   17pt 5rb 1as 1bl 3trey 7-11fg
+2017-04-02,SF,"Hayward, Gordon",25.6,"7,700",uta,@ sas, 103-109,35:41,   16pt 3rb 4as 1st 2to 1trey 6-19fg 3-5ft
+2017-04-02,PF,"Kaminsky, Frank",25.4,"5,400",cha,@ okc, 113-101,25:40,   18pt 2rb 2st 1bl 1to 3trey 5-9fg 5-6ft
+2017-04-02,SF,"Jefferson, Rondae",25,"5,000",bkn,v atl, 91-82,26:59,   11pt 5rb 2as 3st 1bl 3to 2trey 4-8fg 1-2ft
+2017-04-02,SF,"Roberson, Andre",23.7,"4,100",okc,v cha, 101-113,36:57,   12pt 6rb 1as 1st 1bl 1to 6-7fg
+2017-04-02,SF,"McGruder, Rodney",23.2,"3,500",mia,v den, 113-116,26:55,   11pt 6rb 4as 1to 1trey 4-7fg 2-2ft
+2017-04-02,SF,"Jones, Derrick",23.1,"3,500",pho,v hou, 116-123,33:51,   10pt 8rb 1as 1st 1bl 2to 5-8fg
+2017-04-02,PF,"Chriss, Marquese",22.7,"5,000",pho,v hou, 116-123,27:44,   9pt 6rb 1as 4bl 3to 4-10fg 1-4ft
+2017-04-02,PF,"Diaw, Boris",22.6,"3,600",uta,@ sas, 103-109,19:17,   19pt 3rb 2as 3to 1trey 9-9fg
+2017-04-02,SF,"Simmons, Jonathon",22.2,"3,500",sas,v uta, 109-103,33:37,   17pt 1rb 2as 1st 1to 1trey 7-14fg 2-2ft
+2017-04-02,PF,"Booker, Trevor",21.9,"4,000",bkn,v atl, 91-82,22:10,   7pt 7rb 1as 3st 1to 1trey 3-9fg
+2017-04-02,PF,"Millsap, Paul",21.8,"7,300",atl,@ bkn, 82-91,25:43,   14pt 4rb 2as 1trey 4-14fg 5-6ft
+2017-04-02,PF,"Morris, Markieff",21.3,"5,500",was,@ gsw, 115-139,23:30,   13pt 4rb 1as 1st 1bl 2to 1trey 6-11fg
+2017-04-02,PF,"Randolph, Zach",20.7,"5,600",mem,@ lal, 103-108,30:06,   13pt 6rb 1as 1st 3to 6-16fg 1-3ft
+2017-04-02,PF,"Faried, Kenneth",20.6,"5,100",den,@ mia, 116-113,23:01,   8pt 3rb 2as 2st 1bl 4-9fg
+2017-04-02,PF,"Bender, Dragan",20.4,"3,500",pho,v hou, 116-123,14:09,   9pt 7rb 2bl 1to 1trey 4-9fg 0-2ft
+2017-04-02,PF,"Saric, Dario",20.1,"7,200",phi,@ tor, 105-113,23:47,   16pt 3rb 1as 1st 3to 1trey 5-13fg 5-6ft
+2017-04-02,SF,"Johnson, Joe",20.1,"4,100",uta,@ sas, 103-109,28:43,   13pt 3rb 3as 1to 3trey 5-10fg
+2017-04-02,SF,"Ingles, Joe",19.8,"4,400",uta,@ sas, 103-109,28:21,   8pt 4rb 4as 2st 3to 2trey 3-8fg
+2017-04-02,PF,"West, David",19.6,"4,000",gsw,v was, 139-115,17:38,   10pt 3rb 2as 1st 2bl 3to 3-4fg 4-4ft
+2017-04-02,PF,"Johnson, James",19.6,"6,300",mia,v den, 113-116,28:40,   9pt 3rb 6as 2to 1trey 4-8fg
+2017-04-02,SF,"Iguodala, Andre",19.4,"5,000",gsw,v was, 139-115,26:26,   9pt 2rb 4as 1st 1bl 2to 1trey 3-5fg 2-2ft
+2017-04-02,SF,"Bertans, Davis",19.3,"3,500",sas,v uta, 109-103,33:54,   11pt 4rb 1as 1st 3trey 4-8fg
+2017-04-02,PF,"Frye, Channing",19.2,"3,700",cle,v ind, 135-130,18:48,   10pt 6rb 1bl 2trey 4-7fg
+2017-04-02,SF,"Ingram, Brandon",19.1,"4,500",lal,v mem, 108-103,23:15,   13pt 3rb 1as 1st 1to 6-11fg 1-1ft
+2017-04-02,SF,"Brown, Jaylen",18.9,"3,800",bos,@ nyk, 110-94,26:48,   16pt 2rb 1as 1to 2trey 5-6fg 4-4ft
+2017-04-02,SF,"Bazemore, Kent",18.7,"4,600",atl,@ bkn, 82-91,15:40,   3pt 6rb 3as 3st 2to 1-6fg 1-2ft
+2017-04-02,PF,"Williams, Marvin",18.7,"6,400",cha,@ okc, 113-101,31:15,   4pt 6rb 1as 1st 3bl 2to 1-6fg 2-2ft
+2017-04-02,SF,"Zipser, Paul",18.3,"3,700",chi,@ nor, 117-110,31:21,   6pt 4rb 3as 1st 1bl 1to 2-5fg 2-2ft
+2017-04-02,SF,"Anderson, Justin",18.1,"3,600",phi,@ tor, 105-113,23:48,   6pt 3rb 3as 2st 1trey 2-4fg 1-2ft
+2017-04-02,PF,"Mirotic, Nikola",17.8,"5,500",chi,@ nor, 117-110,16:46,   8pt 4rb 3bl 1to 2trey 3-9fg
+2017-04-02,PF,"Porzingis, Kristaps",17.2,"7,200",nyk,v bos, 94-110,27:35,   14pt 1rb 1st 6-10fg 2-4ft
+2017-04-02,SF,"Carroll, DeMarre",17,"3,800",tor,v phi, 113-105,22:45,   10pt 5rb 1st 1to 2trey 4-11fg
+2017-04-02,PF,"Jerebko, Jonas",16.8,"3,500",bos,@ nyk, 110-94,21:57,   3pt 9rb 2as 1-6fg 1-2ft
+2017-04-02,PF,"Holmes, Richaun",16.4,"5,800",phi,@ tor, 105-113,22:52,   4pt 7rb 2as 1bl 1to 2-5fg
+2017-04-02,SF,"Belinelli, Marco",14.8,"4,100",cha,@ okc, 113-101,17:14,   7pt 4rb 2as 1st 2to 2-5fg 3-3ft
+2017-04-02,SF,"Snell, Tony",14.7,"3,800",mil,v dal, 105-109,33:21,   12pt 1rb 1as 1st 2to 4trey 4-8fg
+2017-04-02,SF,"Grant, Jerami",14.1,"3,500",okc,v cha, 101-113,22:39,   8pt 3rb 1as 1bl 1to 2trey 3-3fg
+2017-04-02,SF,"Crowder, Jae",14,"5,900",bos,@ nyk, 110-94,27:52,   8pt 5rb 1st 2to 1trey 2-7fg 3-5ft
+2017-04-02,SF,"Babbitt, Luke",13.9,"3,500",mia,v den, 113-116,12:36,   8pt 2rb 1as 1st 2trey 3-4fg
+2017-04-02,SF,"Hill, Solomon",13.8,"4,200",nor,v chi, 110-117,36:09,   4pt 4rb 2as 1st 2-7fg
+2017-04-02,SF,"Kuzminskas, Mindaugas",13.7,"3,500",nyk,v bos, 94-110,15:56,   11pt 1rb 1as 3trey 4-7fg
+2017-04-02,PF,"Gibson, Taj",13.3,"4,000",okc,v cha, 101-113,13:10,   4pt 4rb 1as 1st 2bl 3to 2-3fg
+2017-04-02,SF,"Cunningham, Dante",12.2,"3,600",nor,v chi, 110-117,14:04,   9pt 1rb 1st 3trey 3-4fg
+2017-04-02,SF,"Brewer, Corey",10.7,"3,500",lal,v mem, 108-103,12:47,   4pt 1rb 1as 2st 2-4fg
+2017-04-02,PF,"Muscala, Mike",10.6,"3,500",atl,@ bkn, 82-91,11:44,   7pt 3rb 1trey 3-4fg
+2017-04-02,SF,"Oubre, Kelly",10.4,"3,700",was,@ gsw, 115-139,29:29,   6pt 2rb 1bl 2-11fg 2-4ft
+2017-04-02,PF,"Harrell, Montrezl",10.1,"3,900",hou,@ pho, 123-116,12:14,   3pt 3rb 1as 1st 1-5fg 1-2ft
+2017-04-02,PF,"Ilyasova, Ersan",10,"5,000",atl,@ bkn, 82-91,20:18,   4pt 2as 1st 1bl 1to 1trey 1-5fg 1-2ft
+2017-04-02,PF,"Allen, Lavoy",9.8,"3,600",ind,@ cle, 130-135,16:07,   5pt 4rb 2-2fg 1-1ft
+2017-04-02,PF,"Johnson, Amir",9.6,"4,000",bos,@ nyk, 110-94,20:00,   9pt 3rb 3to 1trey 4-5fg
+2017-04-02,SF,"Barnes, Matt",9.4,"3,600",gsw,v was, 139-115,20:00,   2pt 2rb 2as 1bl 0-3fg 2-2ft
+2017-04-02,PF,"Kanter, Enes",9.2,"5,700",okc,v cha, 101-113,17:14,   9pt 1rb 1to 4-9fg 1-2ft
+2017-04-02,PF,"Patterson, Patrick",8.4,"3,500",tor,v phi, 113-105,17:10,   6pt 2rb 2trey 2-4fg
+2017-04-02,PF,"White, Okaro",7.1,"3,500",mia,v den, 113-116,9:01,   0pt 3rb 1as 1bl 0-1fg
+2017-04-02,SF,"Young, James",6.4,"3,500",bos,@ nyk, 110-94,7:39,   0pt 2rb 1st 1bl 0-1fg
+2017-04-02,PF,"Sabonis, Domantas",6.2,"3,500",okc,v cha, 101-113,12:46,   5pt 1rb 1trey 2-5fg
+2017-04-02,PF,"Acy, Quincy",5,"3,500",bkn,v atl, 91-82,16:10,   0pt 5rb 1to 0-4fg
+2017-04-02,SF,"Teletovic, Mirza",4.5,"3,500",mil,v dal, 105-109,6:33,   3pt 1as 1trey 1-3fg
+2017-04-02,SF,"Beasley, Michael",4.2,"5,200",mil,v dal, 105-109,7:16,   2pt 1rb 1bl 1to 1-3fg
+2017-04-02,SF,"Smith, Dorian",4.1,"3,500",dal,@ mil, 109-105,16:23,   0pt 3rb 1as 1to 0-4fg
+2017-04-02,PF,"dour, Maurice",4,"3,500",nyk,v bos, 94-110,14:22,   2pt 1st 1-5fg
+2017-04-02,SF,"Dunleavy, Mike",2.7,"3,500",atl,@ bkn, 82-91,11:37,   0pt 1rb 1as 0-1fg
+2017-04-02,SF,"Jefferson, Richard",2.7,"3,500",cle,v ind, 135-130,10:47,   0pt 1rb 1as 0-2fg
+2017-04-02,SF,"McDermott, Doug",2.4,"3,500",okc,v cha, 101-113,12:23,   0pt 2rb 0-1fg
+2017-04-02,PF,"Powell, Dwight",2.2,"3,500",dal,@ mil, 109-105,4:15,   2pt 1rb 1to 1-2fg
+2017-04-02,SF,"Dekker, Sam",1.4,"3,500",hou,@ pho, 123-116,19:29,   0pt 2rb 1to
+2017-04-02,PF,"McAdoo, James",1.4,"3,500",gsw,v was, 139-115,3:51,   0pt 2rb 1to
+2017-04-02,PF,"Ochefu, Daniel",1.2,"3,500",was,@ gsw, 115-139,2:07,   0pt 1rb 0-2fg
+2017-04-02,PF,"Hernangomez, Juan",0,"3,700",den,@ mia, 116-113,4:50,   0pt
+2017-04-02,PF,"Siakam, Pascal",0,"3,500",tor,v phi, 113-105,3:15,   0pt
+2017-04-02,PF,"Seraphin, Kevin",0,"3,500",ind,@ cle, 130-135,4:25,   0pt 0-2fg
+2017-04-02,PF,"Collison, Nick",0,"3,500",okc,v cha, 101-113,0,   
+2017-04-02,SF,"Carter, Vince",0,"3,900",mem,@ lal, 103-108,0,   
+2017-04-02,PF,"Looney, Kevon",0,"3,500",gsw,v was, 139-115,0,   
+2017-04-02,SF,"Covington, Robert",0,"6,900",phi,@ tor, 105-113,0,   
+2017-04-02,PF,"Lyles, Trey",0,"3,500",uta,@ sas, 103-109,0,   
+2017-04-02,SF,"Eddie, Jarell",0,"3,500",pho,v hou, 116-123,0,   
+2017-04-02,PF,"Davis, Deyonta",0,"3,500",mem,@ lal, 103-108,0,   
+2017-04-02,PF,"Aldridge, LaMarcus",0,"7,200",sas,v uta, 109-103,0,   
+2017-04-02,SF,"Bembry, DeAndre",0,"3,500",atl,@ bkn, 82-91,0,   
+2017-04-02,PF,"Humphries, Kris",0,"3,500",atl,@ bkn, 82-91,0,   
+2017-04-02,SF,"Ariza, Trevor",0,"5,800",hou,@ pho, 123-116,0,   
+2017-04-02,SF,"Peace, Metta",0,"3,500",lal,v mem, 108-103,0,   
+2017-04-02,PF,"Motiejunas, Donatas",0,"3,500",nor,v chi, 110-117,0,   
+2017-04-02,SF,"Miller, Mike",0,"3,500",den,@ mia, 116-113,0,   
+2017-04-02,PF,"Bolomboy, Joel",0,"3,500",uta,@ sas, 103-109,0,   
+2017-04-02,PF,"Williams, Derrick",0,"3,500",cle,v ind, 135-130,0,   
+2017-04-02,SF,"Graham, Treveon",0,"3,500",cha,@ okc, 113-101,0,   
+2017-04-02,PF,"Diallo, Cheick",0,"3,500",nor,v chi, 110-117,0,   
+2017-04-02,PF,"Lee, David",0,"4,200",sas,v uta, 109-103,0,   
+2017-04-02,PF,"Haslem, Udonis",0,"3,500",mia,v den, 113-116,0,   
+2017-04-02,PF,"Smith, Jason",0,"3,900",was,@ gsw, 115-139,0,   
+2017-04-02,PF,"Green, JaMychal",0,"4,100",mem,@ lal, 103-108,0,   
+2017-04-02,SF,"Deng, Luol",0,"3,500",lal,v mem, 108-103,0,   
+2017-04-02,SF,"Kelly, Ryan",0,"3,500",atl,@ bkn, 82-91,0,   
+2017-04-02,PF,"McCullough, Chris",0,"3,500",was,@ gsw, 115-139,0,   
+2017-04-02,SF,"Thomas, Lance",0,"4,100",nyk,v bos, 94-110,0,   
+2017-04-02,SF,"Durant, Kevin",0,"10,100",gsw,v was, 139-115,0,   
+2017-04-02,SF,"Anthony, Carmelo",0,"6,700",nyk,v bos, 94-110,0,   
+2017-04-02,SF,"Warren, TJ",0,"6,600",pho,v hou, 116-123,0,   
+2017-04-02,SF,"Sefolosha, Thabo",0,"3,800",atl,@ bkn, 82-91,0,   
+2017-04-02,SF,"Parsons, Chandler",0,"3,500",mem,@ lal, 103-108,0,   
+2017-04-02,PF,"Anderson, Ryan",0,"4,200",hou,@ pho, 123-116,0,   
+2017-04-02,SF,"Tucker, PJ",0,"4,100",tor,v phi, 113-105,0,   
+2017-04-02,PF,"Mickey, Jordan",0,"3,500",bos,@ nyk, 110-94,0,   
+2017-04-02,SF,"III, Glenn",0,"3,500",ind,@ cle, 130-135,0,   
+2017-04-02,PF,"Arthur, Darrell",0,"3,500",den,@ mia, 116-113,0,   
+2017-04-02,PF,"Nicholson, Andrew",0,"3,500",bkn,v atl, 91-82,0,   
+2017-04-02,PF,"Henson, John",0,"3,900",mil,v dal, 105-109,0,   
+2017-04-02,SF,"Singler, Kyle",0,"3,500",okc,v cha, 101-113,0,   
+2017-04-02,SF,"Huestis, Josh",0,"3,500",okc,v cha, 101-113,0,   
+2017-04-02,SF,"Niang, Georges",0,"3,500",ind,@ cle, 130-135,0,   
+2017-04-02,PF,"Favors, Derrick",0,"5,000",uta,@ sas, 103-109,0,   
+2017-04-02,PF,"Wiltjer, Kyle",-1,"3,500",hou,@ pho, 123-116,4:37,   0pt 1to 0-1fg
+2017-04-02,C,"Gobert, Rudy",54.3,"9,000",uta,@ sas, 103-109,40:32,   19pt 14rb 5as 6bl 1to 9-15fg 1-2ft
+2017-04-02,C,"Lopez, Brook",51.5,"7,000",bkn,v atl, 91-82,30:32,   29pt 5rb 5as 2st 5bl 5to 3trey 12-21fg 2-2ft
+2017-04-02,C,"Cousins, DeMarcus",47.1,"9,600",nor,v chi, 110-117,41:55,   26pt 18rb 3as 1bl 7to 2trey 8-16fg 8-8ft
+2017-04-02,C,"Whiteside, Hassan",38.4,"8,400",mia,v den, 113-116,33:13,   16pt 12rb 2as 3bl 1to 6-12fg 4-6ft
+2017-04-02,C,"Gasol, Pau",31.9,"5,700",sas,v uta, 109-103,28:18,   13pt 12rb 3as 1bl 2to 1trey 6-12fg
+2017-04-02,C,"Valanciunas, Jonas",30.1,"5,500",tor,v phi, 113-105,27:35,   14pt 8rb 1as 2st 1bl 1to 7-9fg
+2017-04-02,C,"Hilario, Nene",25,"4,600",hou,@ pho, 123-116,23:15,   17pt 5rb 2st 2to 7-11fg 3-6ft
+2017-04-02,C,"Poeltl, Jakob",25,"3,500",tor,v phi, 113-105,19:57,   12pt 5rb 2st 2bl 1to 5-6fg 2-4ft
+2017-04-02,C,"Capela, Clint",24.9,"5,500",hou,@ pho, 123-116,24:45,   8pt 12rb 3as 1st 4to 4-11fg
+2017-04-02,C,"Dedmon, Dewayne",24.5,"3,600",sas,v uta, 109-103,22:42,   8pt 5rb 1as 2st 3bl 1to 4-4fg
+2017-04-02,C,"McGee, JaVale",24.2,"3,500",gsw,v was, 139-115,8:25,   10pt 6rb 1st 3bl 1to 4-6fg 2-3ft
+2017-04-02,C,"Olynyk, Kelly",23.8,"4,000",bos,@ nyk, 110-94,19:01,   12pt 4rb 2as 1st 2bl 2to 1trey 5-7fg 1-3ft
+2017-04-02,C,"Quinn, Kyle",23.8,"3,800",nyk,v bos, 94-110,17:18,   11pt 9rb 2bl 2to 2-7fg 7-7ft
+2017-04-02,C,"Horford, Al",22.9,"7,100",bos,@ nyk, 110-94,26:04,   14pt 7rb 1as 1to 1trey 6-9fg 1-1ft
+2017-04-02,C,"Thompson, Tristan",22.8,"5,000",cle,v ind, 135-130,42:35,   12pt 9rb 1st 2to 5-7fg 2-4ft
+2017-04-02,C,"Hernangomez, Guillermo",22.1,"5,100",nyk,v bos, 94-110,19:01,   12pt 3rb 3as 2st 2to 6-9fg
+2017-04-02,C,"Lauvergne, Joffrey",22,"3,500",chi,@ nor, 117-110,21:40,   15pt 5rb 2as 2to 3trey 5-7fg 2-2ft
+2017-04-02,C,"Zeller, Cody",21.8,"4,900",cha,@ okc, 113-101,27:35,   11pt 4rb 2as 1st 1bl 1to 3-7fg 5-7ft
+2017-04-02,C,"Wright, Brandan",21.6,"3,600",mem,@ lal, 103-108,31:55,   16pt 3rb 2as 1bl 3to 7-10fg 2-3ft
+2017-04-02,C,"Long, Shawn",21.5,"3,700",phi,@ tor, 105-113,18:25,   9pt 5rb 1as 1st 2bl 1to 2trey 3-5fg 1-2ft
+2017-04-02,C,"Howard, Dwight",21.2,"7,600",atl,@ bkn, 82-91,25:25,   11pt 11rb 1bl 5to 4-6fg 3-4ft
+2017-04-02,C,"Reed, Willie",19.4,"3,700",mia,v den, 113-116,14:47,   8pt 7rb 1st 1bl 1to 4-7fg
+2017-04-02,C,"Turner, Myles",18.6,"6,500",ind,@ cle, 130-135,47:17,   8pt 3rb 2as 1st 1bl 3-8fg 2-2ft
+2017-04-02,C,"Noel, Nerlens",18.6,"5,900",dal,@ mil, 109-105,19:17,   6pt 3rb 2as 3st 3-4fg
+2017-04-02,C,"Mahinmi, Ian",17.9,"3,800",was,@ gsw, 115-139,21:17,   8pt 2rb 3as 2st 1to 4-4fg
+2017-04-02,C,"Monroe, Greg",16.7,"6,000",mil,v dal, 105-109,23:52,   6pt 6rb 1as 1st 2-2fg 2-4ft
+2017-04-02,C,"Pachulia, Zaza",16.5,"3,800",gsw,v was, 139-115,13:42,   8pt 5rb 1as 1st 1to 3-5fg 2-2ft
+2017-04-02,C,"Lopez, Robin",12.8,"4,900",chi,@ nor, 117-110,26:20,   8pt 4rb 3-7fg 2-4ft
+2017-04-02,C,"Plumlee, Marshall",12.8,"3,500",nyk,v bos, 94-110,11:41,   5pt 4rb 2st 1to 1-2fg 3-3ft
+2017-04-02,C,"Adams, Steven",12.4,"4,800",okc,v cha, 101-113,26:05,   2pt 7rb 2st 1bl 4to 1-5fg
+2017-04-02,C,"Maker, Thon",12.2,"3,500",mil,v dal, 105-109,19:53,   11pt 1rb 1trey 5-7fg
+2017-04-02,C,"Plumlee, Mason",11.9,"5,400",den,@ mia, 116-113,12:39,   6pt 2rb 1as 1bl 2-4fg 2-4ft
+2017-04-02,C,"Gortat, Marcin",11.6,"4,700",was,@ gsw, 115-139,15:54,   7pt 3rb 1bl 1to 3-5fg 1-2ft
+2017-04-02,C,"Withey, Jeff",9.8,"3,500",uta,@ sas, 103-109,7:29,   3pt 4rb 1bl 1-2fg 1-2ft
+2017-04-02,C,"Splitter, Tiago",8.9,"3,500",phi,@ tor, 105-113,6:43,   6pt 2rb 1as 1to 3-4fg
+2017-04-02,C,"Williams, Alan",6.8,"4,700",pho,v hou, 116-123,6:37,   2pt 4rb 1bl 2to 1-6fg
+2017-04-02,C,"Mejri, Salah",5.6,"3,500",dal,@ mil, 109-105,7:39,   2pt 3rb 1-1fg
+2017-04-02,C,"Zeller, Tyler",4.4,"3,500",bos,@ nyk, 110-94,8:58,   3pt 2rb 1to 1-1fg 1-2ft
+2017-04-02,C,"Plumlee, Miles",4.2,"3,500",cha,@ okc, 113-101,11:30,   0pt 1rb 2st 1to 0-1fg
+2017-04-02,C,"Hawes, Spencer",2.6,"3,500",mil,v dal, 105-109,4:15,   0pt 3rb 1to 0-1fg
+2017-04-02,C,"Anthony, Joel",0,"3,500",sas,v uta, 109-103,2:40,   0pt
+2017-04-02,C,"Hamilton, Justin",0,"3,500",bkn,v atl, 91-82,0,   
+2017-04-02,C,"Felicio, Cristiano",0,"3,500",chi,@ nor, 117-110,0,   
+2017-04-02,C,"Chandler, Tyson",0,"4,000",pho,v hou, 116-123,0,   
+2017-04-02,C,"Okafor, Jahlil",0,"5,000",phi,@ tor, 105-113,0,   
+2017-04-02,C,"Sanders, Larry",0,"4,000",cle,v ind, 135-130,0,   
+2017-04-02,C,"Nogueira, Lucas",0,"3,500",tor,v phi, 113-105,0,   
+2017-04-02,C,"Jefferson, Al",0,"3,600",ind,@ cle, 130-135,0,   
+2017-04-02,C,"Christmas, Rakeem",0,"3,500",ind,@ cle, 130-135,0,   
+2017-04-02,C,"Ajinca, Alexis",0,"3,500",nor,v chi, 110-117,0,   
+2017-04-02,C,"Hibbert, Roy",0,"3,500",den,@ mia, 116-113,0,   
+2017-04-02,C,"Hammons, AJ",0,"3,500",dal,@ mil, 109-105,0,   
+2017-04-02,C,"Gasol, Marc",0,"7,600",mem,@ lal, 103-108,0,   
+2017-04-02,C,"Jones, Damian",0,"3,500",gsw,v was, 139-115,0,   
+2017-04-02,C,"Zubac, Ivica",0,"4,100",lal,v mem, 108-103,0,   
+2017-04-02,C,"Onuaku, Chinanu",0,"3,500",hou,@ pho, 123-116,0,   
+2017-04-02,C,"Black, Tarik",0,"3,700",lal,v mem, 108-103,0,   
+2017-04-02,NA,"Poythress, Alex",18.1,N/A,phi,@ tor, 105-113,24:13,   11pt 3rb 1as 1bl 4-8fg 3-3ft
+2017-04-02,NA,"Taylor, Isaiah",8.2,N/A,hou,@ pho, 123-116,15:22,   3pt 1rb 1st 1bl 1-3fg 1-2ft
+2017-04-02,NA,"Payton, Gary",4.2,N/A,mil,v dal, 105-109,8:43,   5pt 1rb 2to 1trey 2-3fg

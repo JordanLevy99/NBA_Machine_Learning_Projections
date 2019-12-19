@@ -1,0 +1,318 @@
+Date,Position,"LastName, FirstName",FD PTS,Salary,Team,Opp Team,Score,Min,Statline
+2016-11-16,SG,"Antetokounmpo, Giannis",56.5,"9,600",mil,@ atl, 100-107,40:16,   26pt 15rb 7as 1st 2bl 4to 11-22fg 4-6ft
+2016-11-16,PG,"Conley, Mike",50,"6,900",mem,@ lac, 111-107,37:49,   30pt 5rb 8as 3st 4to 7trey 9-12fg 5-6ft
+2016-11-16,PG,"Westbrook, Russell",49.9,"11,500",okc,v hou, 105-103,36:06,   30pt 7rb 9as 2st 6to 2trey 9-20fg 10-11ft
+2016-11-16,SG,"Oladipo, Victor",49.5,"5,100",okc,v hou, 105-103,40:14,   29pt 10rb 5as 2st 3to 5trey 12-18fg
+2016-11-16,PG,"Curry, Stephen",48.1,"9,000",gsw,@ tor, 127-121,37:22,   35pt 3rb 7as 1st 3to 3trey 10-19fg 12-13ft
+2016-11-16,SG,"DeRozan, DeMar",44.2,"9,200",tor,v gsw, 121-127,37:57,   34pt 6rb 4as 1st 5to 1trey 8-18fg 17-17ft
+2016-11-16,SG,"Knight, Brandon",43.8,"4,400",pho,@ den, 104-120,28:08,   32pt 4rb 4as 1st 1to 3trey 12-20fg 5-7ft
+2016-11-16,SG,"Harden, James",40.9,"11,500",hou,@ okc, 103-105,36:44,   13pt 7rb 13as 3st 6to 1trey 4-16fg 4-7ft
+2016-11-16,PG,"Wall, John",40.8,"8,900",was,@ phi, 102-109,23:56,   27pt 4rb 6as 1st 2to 1trey 8-19fg 10-12ft
+2016-11-16,PG,"Lowry, Kyle",39.5,"8,000",tor,v gsw, 121-127,37:34,   24pt 5rb 5as 3st 4to 3trey 6-17fg 9-12ft
+2016-11-16,PG,"Thomas, Isaiah",38.8,"8,300",bos,v dal, 90-83,33:09,   30pt 4rb 6as 5to 3trey 7-18fg 13-16ft
+2016-11-16,PG,"Teague, Jeff",38.8,"6,300",ind,v cle, 103-93,35:24,   20pt 4rb 8as 1st 1bl 2to 2trey 7-12fg 4-4ft
+2016-11-16,PG,"Irving, Kyrie",36.9,"7,400",cle,@ ind, 93-103,31:39,   24pt 2rb 7as 1st 2to 1trey 10-20fg 3-4ft
+2016-11-16,PG,"Mudiay, Emmanuel",34,"5,600",den,v pho, 120-104,37:40,   15pt 5rb 6as 2st 7-17fg 1-1ft
+2016-11-16,SG,"Redick, JJ",33.2,"4,300",lac,v mem, 107-111,30:10,   29pt 1rb 1st 1bl 1to 7trey 9-17fg 4-5ft
+2016-11-16,SG,"Bradley, Avery",32.1,"7,000",bos,v dal, 90-83,34:19,   18pt 13rb 1as 3to 2trey 8-19fg 0-1ft
+2016-11-16,SG,"Korver, Kyle",31.7,"3,600",atl,v mil, 107-100,26:51,   11pt 6rb 5as 1st 2bl 2trey 3-9fg 3-3ft
+2016-11-16,SG,"Ellis, Monta",31.2,"5,500",ind,v cle, 103-93,34:30,   7pt 6rb 4as 1st 5bl 1to 1trey 3-6fg
+2016-11-16,SG,"Pope, Kentavious",30.3,"4,800",det,@ nyk, 102-105,37:23,   21pt 4rb 3as 3trey 9-22fg
+2016-11-16,SG,"Booker, Devin",29.8,"6,500",pho,@ den, 104-120,37:28,   24pt 4rb 2as 1st 4to 2trey 10-18fg 2-3ft
+2016-11-16,PG,"Smith, Ishmael",29.4,"5,300",det,@ nyk, 102-105,35:04,   14pt 2rb 8as 2st 3to 1trey 6-7fg 1-2ft
+2016-11-16,SG,"Matthews, Wes",28.6,"4,600",dal,@ bos, 83-90,37:33,   22pt 3rb 2st 1to 6trey 7-15fg 2-3ft
+2016-11-16,PG,"Paul, Chris",28.4,"9,300",lac,v mem, 107-111,33:45,   9pt 2rb 6as 5st 2to 1trey 3-11fg 2-4ft
+2016-11-16,PG,"Parker, Tony",28.1,"4,400",sas,@ sac, 110-105,25:47,   14pt 3rb 7as 1st 2to 7-10fg
+2016-11-16,PG,"Rodriguez, Sergio",26.8,"5,000",phi,v was, 109-102,28:06,   7pt 4rb 12as 3to 2-4fg 3-4ft
+2016-11-16,PG,"Schroder, Dennis",26.6,"6,100",atl,v mil, 107-100,30:51,   12pt 3rb 8as 1st 3to 2trey 3-8fg 4-4ft
+2016-11-16,PG,"Rose, Derrick",26.5,"5,700",nyk,v det, 105-102,34:19,   15pt 5rb 3as 1bl 1to 7-15fg 1-2ft
+2016-11-16,PG,"Collison, Darren",25.8,"5,900",sac,v sas, 105-110,29:33,   10pt 4rb 6as 2st 2to 4-7fg 2-2ft
+2016-11-16,SG,"Gordon, Eric",25,"5,200",hou,@ okc, 103-105,38:33,   13pt 5rb 4as 1bl 2to 3trey 5-20fg
+2016-11-16,PG,"Payton, Elfrid",24.8,"5,800",orl,v nor, 89-82,29:35,   5pt 4rb 4as 3st 2bl 1to 2-9fg 1-2ft
+2016-11-16,SG,"Moore, E",23.6,"4,500",nor,@ orl, 82-89,31:49,   14pt 3rb 4as 2st 4to 6-16fg 2-2ft
+2016-11-16,SG,"Thompson, Klay",23.3,"5,800",gsw,@ tor, 127-121,31:30,   15pt 4rb 1as 1bl 3trey 4-15fg 4-4ft
+2016-11-16,SG,"Fournier, Evan",22.7,"5,600",orl,v nor, 89-82,33:47,   16pt 1rb 3as 1st 1to 2trey 5-13fg 4-6ft
+2016-11-16,PG,"Dellavedova, Matthew",22.7,"4,300",mil,@ atl, 100-107,26:52,   8pt 1rb 7as 1st 1bl 1to 2trey 3-9fg
+2016-11-16,PG,"Galloway, Langston",22.4,"3,900",nor,@ orl, 82-89,20:48,   15pt 2rb 2as 1st 3trey 6-12fg 0-1ft
+2016-11-16,PG,"Smart, Marcus",22.4,"5,700",bos,v dal, 90-83,35:50,   4pt 7rb 4as 2st 1bl 2to 1-6fg 2-4ft
+2016-11-16,SG,"Henderson, Gerald",21.7,"4,000",phi,v was, 109-102,28:42,   14pt 1rb 3as 1bl 6-11fg 2-2ft
+2016-11-16,PG,"Joseph, Cory",21.4,"3,500",tor,v gsw, 121-127,21:35,   14pt 2rb 2as 1st 4-7fg 6-7ft
+2016-11-16,PG,"Barea, Jose",21.4,"5,800",dal,@ bos, 83-90,28:13,   9pt 2rb 6as 1st 1to 1trey 4-11fg
+2016-11-16,SG,"Thornton, Marcus",20.4,"3,600",was,@ phi, 102-109,36:59,   10pt 2rb 6as 1to 2trey 4-13fg
+2016-11-16,SG,"Lee, Courtney",20.3,"3,600",nyk,v det, 105-102,28:34,   5pt 4rb 3as 3st 1trey 2-12fg
+2016-11-16,SG,"Green, Danny",20.3,"4,000",sas,@ sac, 110-105,27:46,   9pt 4rb 3as 1st 3trey 3-7fg
+2016-11-16,SG,"Stauskas, Nik",20.2,"3,600",phi,v was, 109-102,24:30,   15pt 1rb 2as 1st 1to 2trey 6-8fg 1-2ft
+2016-11-16,SG,"Hield, Buddy",19.5,"3,900",nor,@ orl, 82-89,20:04,   8pt 5rb 5as 2to 1trey 3-7fg 1-1ft
+2016-11-16,PG,"Nelson, Jameer",19.2,"3,800",den,v pho, 120-104,33:52,   17pt 1rb 2as 2to 1trey 8-12fg
+2016-11-16,PG,"Bledsoe, Eric",19.1,"7,500",pho,@ den, 104-120,34:05,   8pt 3rb 5as 3st 6to 2-4fg 4-6ft
+2016-11-16,SG,"Jr, Tim",18.7,"3,600",atl,v mil, 107-100,21:09,   13pt 1rb 3as 1trey 4-7fg 4-6ft
+2016-11-16,SG,"Crawford, Jamal",18.7,"4,200",lac,v mem, 107-111,26:34,   15pt 1rb 3as 2to 1trey 6-12fg 2-2ft
+2016-11-16,SG,"McLemore, Ben",17.6,"3,500",sac,v sas, 105-110,26:19,   14pt 3rb 1bl 2to 2trey 6-10fg
+2016-11-16,PG,"Watson, CJ",17.5,"3,500",orl,v nor, 89-82,15:56,   5pt 5rb 3as 1st 1trey 1-2fg 2-2ft
+2016-11-16,SG,"Thompson, Hollis",17.2,"3,500",phi,v was, 109-102,23:03,   11pt 1rb 2as 1st 1trey 5-8fg 0-1ft
+2016-11-16,SG,"Holiday, Justin",17,"3,700",nyk,v det, 105-102,23:53,   9pt 5rb 1bl 1trey 3-7fg 2-2ft
+2016-11-16,PG,"Ennis, Tyler",16.4,"3,500",hou,@ okc, 103-105,11:16,   9pt 2rb 2as 1st 1trey 4-5fg
+2016-11-16,SG,"Barbosa, Leandro",15.7,"3,500",pho,@ den, 104-120,18:06,   12pt 1rb 1as 1st 1to 6-8fg
+2016-11-16,SG,"Curry, Seth",14.8,"4,200",dal,@ bos, 83-90,32:16,   6pt 4rb 4as 2to 3-7fg
+2016-11-16,SG,"McCaw, Patrick",14.4,"3,500",gsw,@ tor, 127-121,20:30,   5pt 2rb 2as 1st 1bl 1trey 2-3fg
+2016-11-16,PG,"Brooks, Aaron",14,"3,500",ind,v cle, 103-93,11:12,   9pt 2as 1st 1trey 4-7fg
+2016-11-16,PG,"Augustin, DJ",13.7,"3,500",orl,v nor, 89-82,18:25,   11pt 1rb 1as 1st 2to 1trey 4-10fg 2-2ft
+2016-11-16,PG,"Felder, Kay",13.6,"3,500",cle,@ ind, 93-103,13:23,   9pt 3rb 2as 2to 2-4fg 5-6ft
+2016-11-16,PG,"Harrison, Andrew",13.1,"3,500",mem,@ lac, 111-107,25:43,   5pt 3rb 3as 1bl 2to 1trey 2-4fg
+2016-11-16,PG,"Livingston, Shaun",13.1,"3,500",gsw,@ tor, 127-121,18:21,   3pt 3rb 3as 1st 1-1fg 1-1ft
+2016-11-16,PG,"Jennings, Brandon",12.9,"4,000",nyk,v det, 105-102,16:41,   0pt 2rb 7as 1st 2to 0-4fg
+2016-11-16,SG,"McClellan, Sheldon",12.9,"3,500",was,@ phi, 102-109,20:28,   6pt 2rb 1as 2st 1to 2-7fg 2-2ft
+2016-11-16,PG,"Temple, Garrett",12.8,"3,500",sac,v sas, 105-110,18:01,   7pt 4rb 2as 2to 1trey 3-4fg
+2016-11-16,PG,"Felton, Raymond",12.3,"3,500",lac,v mem, 107-111,14:16,   4pt 4rb 1as 1bl 2-5fg
+2016-11-16,PG,"Murray, Jamal",11.7,"3,700",den,v pho, 120-104,20:08,   9pt 1rb 1as 3trey 3-8fg
+2016-11-16,SG,"Liggins, DeAndre",10.9,"3,500",cle,@ ind, 93-103,27:00,   4pt 2rb 1as 2st 1to 1-2fg 2-2ft
+2016-11-16,SG,"Afflalo, Arron",10.9,"3,700",sac,v sas, 105-110,21:41,   7pt 2rb 1as 1trey 3-8fg
+2016-11-16,SG,"Green, Gerald",10.9,"3,500",bos,v dal, 90-83,7:29,   2pt 2rb 3as 1st 1-4fg
+2016-11-16,PG,"Delaney, Malcolm",10.8,"3,600",atl,v mil, 107-100,17:09,   4pt 4rb 2as 1st 3to 2-5fg
+2016-11-16,SG,"Satoransky, Tomas",10.7,"3,700",was,@ phi, 102-109,22:49,   7pt 1rb 3as 2to 3-4fg 1-4ft
+2016-11-16,PG,"McConnell, TJ",10.6,"3,700",phi,v was, 109-102,19:54,   2pt 3rb 4as 1st 3to 1-2fg
+2016-11-16,SG,"Abrines, Alex",10.5,"3,500",okc,v hou, 105-103,14:30,   7pt 1as 1st 2trey 2-4fg 1-1ft
+2016-11-16,PG,"Frazier, Tim",10.1,"5,400",nor,@ orl, 82-89,27:40,   4pt 3rb 3as 1bl 4to 1-7fg 2-2ft
+2016-11-16,SG,"McRae, Jordan",10,"3,500",cle,@ ind, 93-103,23:46,   9pt 1bl 1to 2trey 3-12fg 1-2ft
+2016-11-16,PG,"Mills, Patty",9.9,"4,100",sas,@ sac, 110-105,19:02,   5pt 2rb 3as 2to 1trey 2-4fg
+2016-11-16,PG,"Rozier, Terry",9.6,"3,600",bos,v dal, 90-83,21:31,   5pt 3rb 2bl 3to 1trey 2-4fg
+2016-11-16,SG,"Ginobili, Manu",9.2,"3,500",sas,@ sac, 110-105,15:36,   2pt 1rb 2as 2st 1to 1-5fg
+2016-11-16,PG,"Brogdon, Malcolm",8.7,"3,700",mil,@ atl, 100-107,21:08,   4pt 1rb 3as 1to 2-6fg
+2016-11-16,PG,"Udrih, Beno",8.5,"3,600",det,@ nyk, 102-105,12:56,   7pt 1as 3-7fg 1-1ft
+2016-11-16,PG,"Rivers, Austin",7.2,"3,600",lac,v mem, 107-111,18:00,   2pt 1rb 1st 1bl 1-4fg
+2016-11-16,SG,"Shumpert, Iman",5.6,"3,900",cle,@ ind, 93-103,28:20,   2pt 3rb 2as 3to 1-6fg
+2016-11-16,PG,"Christon, Semaj",4.5,"3,500",okc,v hou, 105-103,14:18,   5pt 1as 2to 1trey 2-4fg
+2016-11-16,PG,"Lawson, Ty",4.4,"3,800",sac,v sas, 105-110,19:31,   3pt 2rb 1to 1trey 1-2fg
+2016-11-16,SG,"Vaughn, Rashad",3.2,"3,800",mil,@ atl, 100-107,13:58,   0pt 1rb 1st 0-6fg
+2016-11-16,SG,"Powell, Norman",3.2,"4,000",tor,v gsw, 121-127,11:20,   3pt 1rb 1to 1trey 1-2fg
+2016-11-16,SG,"Jones, James",3,"3,500",cle,@ ind, 93-103,1:24,   3pt 1trey 1-1fg
+2016-11-16,PG,"Burke, Trey",2,"3,500",was,@ phi, 102-109,5:29,   2pt 1-5fg
+2016-11-16,PG,"Goodwin, Archie",2,"3,600",nor,@ orl, 82-89,4:27,   0pt 1bl
+2016-11-16,SG,"Murray, Dejounte",1.7,"3,500",sas,@ sac, 110-105,3:11,   0pt 1rb 1as 1to 0-2fg
+2016-11-16,SG,"Brussino, Nicolas",0,"3,500",dal,@ bos, 83-90,00:22,   0pt
+2016-11-16,PG,"Williams, Deron",0,"6,300",dal,@ bos, 83-90,9:34,   0pt 0-3fg
+2016-11-16,SG,"Forbes, Bryn",0,"3,500",sas,@ sac, 110-105,3:01,   0pt 0-2fg
+2016-11-16,SG,"Beasley, Malik",0,"3,500",den,v pho, 120-104,00:46,   0pt
+2016-11-16,PG,"Terry, Jason",0,"3,500",mil,@ atl, 100-107,8:48,   0pt 0-2fg
+2016-11-16,SG,"Morrow, Anthony",0,"3,500",okc,v hou, 105-103,1:26,   0pt 0-1fg
+2016-11-16,SG,"Young, Joseph",0,"3,500",ind,v cle, 103-93,1:24,   0pt 0-1fg
+2016-11-16,PG,"Baker, Ron",0,"3,500",nyk,v det, 105-102,0,   
+2016-11-16,PG,"Holiday, Jrue",0,"7,900",nor,@ orl, 82-89,0,   
+2016-11-16,PG,"Baldwin, Wade",0,"3,500",mem,@ lac, 111-107,0,   
+2016-11-16,PG,"Brown, Bobby",0,"3,500",hou,@ okc, 103-105,0,   
+2016-11-16,SG,"Bullock, Reggie",0,"3,500",det,@ nyk, 102-105,0,   
+2016-11-16,PG,"Ulis, Tyler",0,"3,500",pho,@ den, 104-120,0,   
+2016-11-16,SG,"McDaniels, KJ",0,"3,500",hou,@ okc, 103-105,0,   
+2016-11-16,SG,"Vujacic, Sasha",0,"3,500",nyk,v det, 105-102,0,   
+2016-11-16,PG,"VanVleet, Fred",0,"3,500",tor,v gsw, 121-127,0,   
+2016-11-16,SG,"Hilliard, Darrun",0,"3,500",det,@ nyk, 102-105,0,   
+2016-11-16,SG,"Wilcox, CJ",0,"3,500",orl,v nor, 89-82,0,   
+2016-11-16,SG,"Clark, Ian",0,"3,500",gsw,@ tor, 127-121,0,   
+2016-11-16,SG,"Beal, Bradley",0,"5,300",was,@ phi, 102-109,0,   
+2016-11-16,SG,"Daniels, Troy",0,"3,500",mem,@ lac, 111-107,0,   
+2016-11-16,SG,"Anderson, Alan",0,"3,500",lac,v mem, 107-111,0,   
+2016-11-16,SG,"Hezonja, Mario",0,"3,500",orl,v nor, 89-82,0,   
+2016-11-16,SG,"Richardson, Malachi",0,"3,500",sac,v sas, 105-110,0,   
+2016-11-16,PG,"Laprovittola, Nicolas",0,"3,500",sas,@ sac, 110-105,0,   
+2016-11-16,SG,"Stuckey, Rodney",0,"3,500",ind,v cle, 103-93,0,   
+2016-11-16,SG,"Jenkins, John",0,"3,500",pho,@ den, 104-120,0,   
+2016-11-16,SG,"Allen, Tony",0,"4,000",mem,@ lac, 111-107,0,   
+2016-11-16,SG,"Smith, JR",0,"4,300",cle,@ ind, 93-103,0,   
+2016-11-16,SG,"Gbinije, Michael",0,"3,500",det,@ nyk, 102-105,0,   
+2016-11-16,PG,"Beverley, Patrick",0,"4,600",hou,@ okc, 103-105,0,   
+2016-11-16,SG,"Barton, Will",0,"5,300",den,v pho, 120-104,0,   
+2016-11-16,SG,"Evans, Tyreke",0,"6,900",nor,@ orl, 82-89,0,   
+2016-11-16,PG,"Harris, Devin",0,"3,600",dal,@ bos, 83-90,0,   
+2016-11-16,SG,"Harris, Gary",0,"4,500",den,v pho, 120-104,0,   
+2016-11-16,PF,"Porzingis, Kristaps",50.9,"6,900",nyk,v det, 105-102,40:01,   35pt 7rb 3as 1st 1bl 1to 3trey 13-22fg 6-7ft
+2016-11-16,SF,"Chandler, Wilson",50.7,"5,200",den,v pho, 120-104,35:03,   28pt 11rb 5as 1st 1bl 2to 2trey 11-22fg 4-4ft
+2016-11-16,SF,"Durant, Kevin",47.8,"9,600",gsw,@ tor, 127-121,35:53,   30pt 9rb 6as 1st 4to 3trey 11-21fg 5-6ft
+2016-11-16,PF,"Love, Kevin",45.7,"7,500",cle,@ ind, 93-103,33:25,   27pt 16rb 1as 2to 4trey 11-23fg 1-4ft
+2016-11-16,PF,"Griffin, Blake",45.1,"8,700",lac,v mem, 107-111,37:57,   25pt 8rb 3as 1st 2bl 8-15fg 9-12ft
+2016-11-16,SF,"George, Paul",44.7,"8,500",ind,v cle, 103-93,36:44,   21pt 11rb 5as 2st 1bl 3to 3trey 8-18fg 2-2ft
+2016-11-16,PF,"Faried, Kenneth",44,"6,000",den,v pho, 120-104,25:49,   20pt 15rb 4st 1bl 4to 8-12fg 4-5ft
+2016-11-16,SF,"Porter, Otto",42.1,"6,300",was,@ phi, 102-109,41:04,   15pt 13rb 1as 4st 1bl 2trey 5-17fg 3-4ft
+2016-11-16,PF,"Parker, Jabari",42.1,"6,400",mil,@ atl, 100-107,35:04,   23pt 8rb 3as 3st 1to 10-20fg 3-3ft
+2016-11-16,PF,"Jones, Terrence",40.8,"4,500",nor,@ orl, 82-89,37:31,   26pt 9rb 2as 1bl 1to 2trey 9-20fg 6-7ft
+2016-11-16,PF,"Millsap, Paul",39.1,"7,400",atl,v mil, 107-100,38:18,   21pt 8rb 3as 2st 1bl 2to 1trey 8-11fg 4-4ft
+2016-11-16,SF,"Leonard, Kawhi",37.7,"8,500",sas,@ sac, 110-105,32:02,   20pt 6rb 1as 4st 1bl 1to 4trey 7-14fg 2-2ft
+2016-11-16,PF,"Aldridge, LaMarcus",37.2,"7,000",sas,@ sac, 110-105,33:20,   21pt 6rb 2as 2st 2bl 2to 1trey 8-16fg 4-4ft
+2016-11-16,SF,"Barnes, Harrison",33.9,"6,000",dal,@ bos, 83-90,40:57,   28pt 2rb 1as 2st 2to 12-24fg 4-5ft
+2016-11-16,PF,"Green, Draymond",33.9,"8,300",gsw,@ tor, 127-121,34:54,   11pt 7rb 5as 2st 3bl 3to 1trey 5-13fg
+2016-11-16,PF,"Harris, Tobias",33.5,"6,000",det,@ nyk, 102-105,38:46,   19pt 10rb 1as 1st 1to 1trey 6-13fg 6-6ft
+2016-11-16,SF,"Anthony, Carmelo",32.5,"7,900",nyk,v det, 105-102,36:55,   22pt 5rb 3as 1st 2to 4trey 9-17fg
+2016-11-16,PF,"Leuer, Jon",32.3,"4,500",det,@ nyk, 102-105,27:18,   17pt 9rb 3as 1st 2to 2trey 7-11fg 1-1ft
+2016-11-16,SF,"Ariza, Trevor",30.9,"5,300",hou,@ okc, 103-105,36:44,   11pt 7rb 3as 4st 1to 2trey 4-11fg 1-1ft
+2016-11-16,SF,"Gallinari, Danilo",30,"5,900",den,v pho, 120-104,38:03,   18pt 5rb 2as 1st 1bl 1to 1trey 4-13fg 9-9ft
+2016-11-16,SF,"Iguodala, Andre",27.6,"3,700",gsw,@ tor, 127-121,25:06,   10pt 3rb 6as 2st 1bl 1to 2trey 4-4fg
+2016-11-16,PF,"Randolph, Zach",26.9,"5,400",mem,@ lac, 111-107,26:27,   18pt 7rb 1as 1to 7-13fg 4-4ft
+2016-11-16,PF,"Young, Thaddeus",26.9,"5,200",ind,v cle, 103-93,37:04,   16pt 7rb 1as 1st 1to 1trey 7-14fg 1-2ft
+2016-11-16,PF,"Muscala, Mike",25.5,"4,000",atl,v mil, 107-100,33:23,   16pt 5rb 3as 1bl 3to 1trey 6-11fg 3-4ft
+2016-11-16,PF,"Saric, Dario",24.9,"4,100",phi,v was, 109-102,26:13,   13pt 12rb 1as 4to 1trey 5-13fg 2-3ft
+2016-11-16,SF,"Snell, Tony",24.3,"3,500",mil,@ atl, 100-107,30:46,   11pt 4rb 3as 2st 2trey 4-10fg 1-2ft
+2016-11-16,PF,"Johnson, Amir",24.2,"4,200",bos,v dal, 90-83,29:00,   8pt 6rb 4as 2st 1to 3-4fg 2-2ft
+2016-11-16,PF,"Ibaka, Serge",24.1,"5,700",orl,v nor, 89-82,29:33,   16pt 8rb 1as 3to 2trey 7-13fg
+2016-11-16,PF,"Morris, Markieff",23.8,"5,900",was,@ phi, 102-109,30:55,   19pt 4rb 1st 2to 3trey 7-15fg 2-2ft
+2016-11-16,SF,"Cunningham, Dante",23.8,"3,500",nor,@ orl, 82-89,32:32,   7pt 9rb 2st 2bl 2to 1trey 3-9fg
+2016-11-16,SF,"Barnes, Matt",22.4,"3,800",sac,v sas, 105-110,28:01,   15pt 2rb 2as 1st 1bl 2to 2trey 6-9fg 1-2ft
+2016-11-16,SF,"Gordon, Aaron",22.3,"5,200",orl,v nor, 89-82,26:09,   10pt 4rb 3as 1st 1bl 1to 1trey 4-11fg 1-3ft
+2016-11-16,PF,"Kanter, Enes",21.9,"5,000",okc,v hou, 105-103,14:31,   8pt 7rb 1as 2bl 3-6fg 2-2ft
+2016-11-16,PF,"Siakam, Pascal",21.8,"3,500",tor,v gsw, 121-127,29:45,   10pt 9rb 1st 1to 5-10fg
+2016-11-16,SF,"Roberson, Andre",21.4,"3,800",okc,v hou, 105-103,31:54,   4pt 7rb 4as 1st 1bl 1to 2-11fg
+2016-11-16,PF,"Holmes, Richaun",20.6,"3,700",phi,v was, 109-102,19:28,   8pt 3rb 2as 3st 2trey 3-3fg
+2016-11-16,PF,"Ilyasova, Ersan",19.8,"3,900",phi,v was, 109-102,26:20,   16pt 4rb 1to 4trey 5-10fg 2-2ft
+2016-11-16,SF,"Carter, Vince",19.6,"4,400",mem,@ lac, 111-107,26:34,   12pt 3rb 2as 1st 1to 2trey 5-10fg
+2016-11-16,SF,"Bazemore, Kent",19.5,"4,800",atl,v mil, 107-100,30:11,   12pt 5rb 3as 3to 3trey 4-10fg 1-2ft
+2016-11-16,SF,"Prince, Taurean",19.5,"3,500",atl,v mil, 107-100,19:08,   8pt 5rb 1as 1st 2bl 2to 2-5fg 4-4ft
+2016-11-16,SF,"Gay, Rudy",19.1,"7,400",sac,v sas, 105-110,32:15,   11pt 3rb 3as 1bl 2to 1trey 3-11fg 4-4ft
+2016-11-16,SF,"Teletovic, Mirza",18.8,"3,500",mil,@ atl, 100-107,25:47,   14pt 4rb 1st 2to 4trey 5-10fg
+2016-11-16,SF,"Ross, Terrence",18.6,"3,500",tor,v gsw, 121-127,21:38,   11pt 3rb 1st 1bl 2trey 2-8fg 5-5ft
+2016-11-16,SF,"Bertans, Davis",17.9,"3,500",sas,@ sac, 110-105,17:07,   7pt 2rb 3as 2bl 2trey 2-5fg 1-2ft
+2016-11-16,PF,"Anderson, Ryan",17.6,"5,000",hou,@ okc, 103-105,33:01,   14pt 3rb 4trey 5-13fg
+2016-11-16,PF,"Powell, Dwight",17.6,"4,000",dal,@ bos, 83-90,29:25,   3pt 8rb 2st 1bl 1to 1-8fg 1-2ft
+2016-11-16,PF,"Frye, Channing",17,"3,900",cle,@ ind, 93-103,27:27,   8pt 5rb 2as 2bl 4to 2trey 3-9fg
+2016-11-16,SF,"Dekker, Sam",16.4,"3,500",hou,@ okc, 103-105,18:45,   10pt 2rb 2as 1st 1to 2trey 4-5fg
+2016-11-16,PF,"Stein, Willie",15.8,"3,500",sac,v sas, 105-110,13:03,   11pt 4rb 1st 2to 3-5fg 5-7ft
+2016-11-16,SF,"Carroll, DeMarre",15.6,"3,700",tor,v gsw, 121-127,24:05,   8pt 3rb 2as 1st 1to 2trey 3-7fg
+2016-11-16,SF,"Grant, Jerami",15.1,"3,700",okc,v hou, 105-103,18:47,   8pt 3rb 1as 1bl 2trey 3-6fg
+2016-11-16,SF,"Rudez, Damjan",14.6,"3,500",orl,v nor, 89-82,14:31,   11pt 3rb 3trey 4-5fg
+2016-11-16,SF,"Ennis, James",14.6,"4,000",mem,@ lac, 111-107,31:02,   10pt 3rb 2as 2to 1trey 2-8fg 5-6ft
+2016-11-16,SF,"Morris, Marcus",14.6,"5,300",det,@ nyk, 102-105,36:49,   7pt 3rb 2as 1st 1to 1trey 3-9fg
+2016-11-16,PF,"Jokic, Nikola",14.4,"4,400",den,v pho, 120-104,19:19,   10pt 2rb 2as 1to 3-4fg 4-5ft
+2016-11-16,PF,"West, David",13.9,"3,500",gsw,@ tor, 127-121,16:09,   6pt 2rb 1as 1st 1bl 3-4fg
+2016-11-16,PF,"Humphries, Kris",13.9,"3,700",atl,v mil, 107-100,14:48,   6pt 2rb 1as 2bl 2-4fg 2-2ft
+2016-11-16,PF,"Jerebko, Jonas",13.4,"3,500",bos,v dal, 90-83,23:39,   5pt 7rb 1trey 2-3fg
+2016-11-16,SF,"Moute, Luc",13.4,"3,700",lac,v mem, 107-111,21:25,   4pt 2rb 4st 1to 0-5fg 4-6ft
+2016-11-16,PF,"Green, JaMychal",13,"4,000",mem,@ lac, 111-107,21:46,   4pt 10rb 3to 2-4fg
+2016-11-16,PF,"Sabonis, Domantas",12.6,"3,500",okc,v hou, 105-103,28:04,   8pt 3rb 2as 2to 4-5fg
+2016-11-16,SF,"Covington, Robert",12.4,"4,600",phi,v was, 109-102,23:22,   4pt 7rb 2as 3to 1-7fg 2-4ft
+2016-11-16,SF,"Warren, TJ",12.2,"6,300",pho,@ den, 104-120,18:14,   8pt 1rb 2st 1to 2trey 2-11fg 2-2ft
+2016-11-16,SF,"Anderson, Justin",12.1,"3,800",dal,@ bos, 83-90,21:22,   4pt 3rb 1as 1st 1bl 1to 2-3fg
+2016-11-16,PF,"Lee, David",12.1,"3,500",sas,@ sac, 110-105,11:00,   4pt 3rb 3as 1st 2to 2-4fg
+2016-11-16,SF,"Miles, CJ",12,"4,600",ind,v cle, 103-93,23:22,   10pt 1st 2trey 4-7fg
+2016-11-16,SF,"Jefferson, Richard",11.1,"3,500",cle,@ ind, 93-103,19:52,   5pt 3rb 1as 1bl 1to 1trey 2-6fg
+2016-11-16,SF,"Brewer, Corey",10.4,"3,500",hou,@ okc, 103-105,16:57,   9pt 2rb 1to 1trey 4-6fg
+2016-11-16,PF,"Patterson, Patrick",10.3,"4,000",tor,v gsw, 121-127,24:57,   5pt 4rb 1as 1to 1trey 2-7fg
+2016-11-16,SF,"Tucker, PJ",10.1,"4,000",pho,@ den, 104-120,20:38,   0pt 8rb 1as 1to 0-5fg
+2016-11-16,SF,"Parsons, Chandler",9.9,"5,100",mem,@ lac, 111-107,14:17,   4pt 2rb 1as 1bl 2-6fg
+2016-11-16,SF,"Smith, Dorian",8.6,"3,500",dal,@ bos, 83-90,15:33,   5pt 3rb 1trey 2-5fg
+2016-11-16,SF,"Hill, Solomon",7.7,"3,700",nor,@ orl, 82-89,20:23,   2pt 1rb 3as 1bl 2to 0-2fg 2-2ft
+2016-11-16,PF,"Speights, Marreese",7.4,"3,800",lac,v mem, 107-111,13:32,   5pt 2rb 2-5fg 1-1ft
+2016-11-16,PF,"Dudley, Jared",7.4,"4,000",pho,@ den, 104-120,22:37,   6pt 2rb 1to 1trey 2-4fg 1-2ft
+2016-11-16,SF,"Brown, Jaylen",6.6,"3,600",bos,v dal, 90-83,11:30,   4pt 3rb 1st 3to 2-3fg
+2016-11-16,PF,"Bass, Brandon",6.5,"3,500",lac,v mem, 107-111,9:28,   6pt 1as 1to 2-2fg 2-2ft
+2016-11-16,PF,"Hernangomez, Juan",5.6,"3,600",den,v pho, 120-104,9:57,   3pt 3rb 1to 1trey 1-1fg
+2016-11-16,SF,"Williams, Troy",5.5,"3,700",mem,@ lac, 111-107,8:40,   2pt 1as 1st 1-1fg
+2016-11-16,SF,"Johnson, Stanley",5.2,"3,500",det,@ nyk, 102-105,10:37,   2pt 1rb 1st 1-2fg
+2016-11-16,PF,"dour, Maurice",5.2,"3,500",nyk,v det, 105-102,8:36,   4pt 1rb 2-3fg
+2016-11-16,PF,"Seraphin, Kevin",5,"3,600",ind,v cle, 103-93,8:12,   4pt 1bl 1to 2-3fg
+2016-11-16,SF,"Simmons, Jonathon",5,"3,500",sas,@ sac, 110-105,17:44,   2pt 2as 2-2ft
+2016-11-16,PF,"Allen, Lavoy",4.9,"3,500",ind,v cle, 103-93,9:32,   2pt 2rb 1as 1to 1-2fg
+2016-11-16,PF,"Davis, Deyonta",3.6,"3,500",mem,@ lac, 111-107,8:01,   0pt 3rb 0-2fg
+2016-11-16,PF,"Chriss, Marquese",3.2,"3,500",pho,@ den, 104-120,11:58,   2pt 1rb 1-1fg 0-1ft
+2016-11-16,SF,"Green, Jeff",2.9,"3,600",orl,v nor, 89-82,20:25,   0pt 2rb 1as 1to 0-9fg
+2016-11-16,SF,"Niang, Georges",2.7,"3,500",ind,v cle, 103-93,1:24,   0pt 1rb 1as 0-1fg
+2016-11-16,SF,"Kuzminskas, Mindaugas",2.4,"3,500",nyk,v det, 105-102,6:46,   0pt 2rb 0-1fg
+2016-11-16,SF,"Oubre, Kelly",2,"3,500",was,@ phi, 102-109,3:49,   2pt 1-2fg
+2016-11-16,SF,"Anderson, Kyle",2,"3,500",sas,@ sac, 110-105,3:01,   2pt 1-2fg
+2016-11-16,PF,"Nicholson, Andrew",2,"3,500",was,@ phi, 102-109,12:32,   2pt 1-1fg
+2016-11-16,PF,"Smith, Jason",2,"3,500",was,@ phi, 102-109,3:00,   2pt 1-2fg
+2016-11-16,PF,"Bender, Dragan",1.5,"3,500",pho,@ den, 104-120,2:26,   0pt 1as 0-1fg
+2016-11-16,PF,"Martin, Jarell",1.2,"3,500",mem,@ lac, 111-107,2:24,   0pt 1rb 0-1fg
+2016-11-16,PF,"Collison, Nick",0,"3,500",okc,v hou, 105-103,3:07,   0pt
+2016-11-16,SF,"III, Glenn",0,"3,500",ind,v cle, 103-93,1:24,   0pt
+2016-11-16,SF,"Young, James",0,"3,600",bos,v dal, 90-83,6:39,   0pt 0-1fg
+2016-11-16,SF,"James, LeBron",0,"9,900",cle,@ ind, 93-103,0,   
+2016-11-16,PF,"Tolliver, Anthony",0,"3,500",sac,v sas, 105-110,0,   
+2016-11-16,PF,"Ochefu, Daniel",0,"3,500",was,@ phi, 102-109,0,   
+2016-11-16,PF,"Acy, Quincy",0,"3,500",dal,@ bos, 83-90,0,   
+2016-11-16,SF,"Sefolosha, Thabo",0,"4,600",atl,v mil, 107-100,0,   
+2016-11-16,SF,"Dunleavy, Mike",0,"3,500",cle,@ ind, 93-103,0,   
+2016-11-16,PF,"Casspi, Omri",0,"3,500",sac,v sas, 105-110,0,   
+2016-11-16,PF,"Looney, Kevon",0,"3,500",gsw,@ tor, 127-121,0,   
+2016-11-16,PF,"Mickey, Jordan",0,"3,500",bos,v dal, 90-83,0,   
+2016-11-16,SF,"Bembry, DeAndre",0,"3,500",atl,v mil, 107-100,0,   
+2016-11-16,PF,"Harrell, Montrezl",0,"3,500",hou,@ okc, 103-105,0,   
+2016-11-16,PF,"Davis, Anthony",0,"11,400",nor,@ orl, 82-89,0,   
+2016-11-16,SF,"Miller, Mike",0,"3,500",den,v pho, 120-104,0,   
+2016-11-16,PF,"Arthur, Darrell",0,"3,500",den,v pho, 120-104,0,   
+2016-11-16,SF,"Caboclo, Bruno",0,"3,500",tor,v gsw, 121-127,0,   
+2016-11-16,SF,"Pierce, Paul",0,"3,500",lac,v mem, 107-111,0,   
+2016-11-16,SF,"Singler, Kyle",0,"3,500",okc,v hou, 105-103,0,   
+2016-11-16,PF,"Ellenson, Henry",0,"3,500",det,@ nyk, 102-105,0,   
+2016-11-16,PF,"Maker, Thon",0,"3,500",mil,@ atl, 100-107,0,   
+2016-11-16,SF,"Thomas, Lance",0,"3,500",nyk,v det, 105-102,0,   
+2016-11-16,PF,"Wiltjer, Kyle",0,"3,500",hou,@ okc, 103-105,0,   
+2016-11-16,SF,"Novak, Steve",0,"3,500",mil,@ atl, 100-107,0,   
+2016-11-16,PF,"Nowitzki, Dirk",0,"6,500",dal,@ bos, 83-90,0,   
+2016-11-16,SF,"Scott, Mike",0,"3,500",atl,v mil, 107-100,0,   
+2016-11-16,SF,"Johnson, Wesley",0,"3,500",lac,v mem, 107-111,0,   
+2016-11-16,PF,"Onuaku, Arinze",0,"3,500",orl,v nor, 89-82,0,   
+2016-11-16,PF,"McAdoo, James",0,"3,500",gsw,@ tor, 127-121,0,   
+2016-11-16,PF,"Johnson, Brice",0,"3,500",lac,v mem, 107-111,0,   
+2016-11-16,PF,"Noel, Nerlens",0,"6,800",phi,v was, 109-102,0,   
+2016-11-16,PF,"Diallo, Cheick",0,"3,500",nor,@ orl, 82-89,0,   
+2016-11-16,SF,"House, Danuel",0,"3,500",was,@ phi, 102-109,0,   
+2016-11-16,SF,"Crowder, Jae",0,"5,900",bos,v dal, 90-83,0,   
+2016-11-16,SF,"Jones, Derrick",0,"3,500",pho,@ den, 104-120,0,   
+2016-11-16,SF,"Huestis, Josh",0,"3,500",okc,v hou, 105-103,0,   
+2016-11-16,PF,"Labissiere, Skal",0,"3,500",sac,v sas, 105-110,0,   
+2016-11-16,SF,"Beasley, Michael",-2,"3,700",mil,@ atl, 100-107,4:17,   0pt 2to 0-2fg
+2016-11-16,C,"Cousins, DeMarcus",54.4,"9,600",sac,v sas, 105-110,36:32,   26pt 17rb 6as 1st 3to 1trey 7-16fg 11-14ft
+2016-11-16,C,"Gasol, Marc",42.2,"6,900",mem,@ lac, 111-107,37:17,   26pt 6rb 6as 1st 2to 4trey 10-21fg 2-3ft
+2016-11-16,C,"Gasol, Pau",41.8,"6,000",sas,@ sac, 110-105,31:23,   24pt 9rb 2as 2bl 10-17fg 4-7ft
+2016-11-16,C,"Noah, Joakim",36.5,"4,500",nyk,v det, 105-102,25:07,   7pt 15rb 3as 1st 3bl 1to 3-7fg 1-6ft
+2016-11-16,C,"Capela, Clint",35.8,"5,000",hou,@ okc, 103-105,27:31,   13pt 14rb 3bl 5-8fg 3-4ft
+2016-11-16,C,"Vucevic, Nikola",31.8,"6,500",orl,v nor, 89-82,27:07,   10pt 14rb 3bl 1to 5-12fg 0-2ft
+2016-11-16,C,"Jordan, DeAndre",31.3,"6,800",lac,v mem, 107-111,34:53,   8pt 14rb 1as 1st 2bl 1to 4-5fg 0-2ft
+2016-11-16,C,"Turner, Myles",30.6,"6,100",ind,v cle, 103-93,32:45,   12pt 8rb 1st 4bl 1to 6-11fg 0-3ft
+2016-11-16,C,"Drummond, Andre",26.3,"8,100",det,@ nyk, 102-105,29:15,   15pt 9rb 1as 1bl 3to 7-13fg 1-2ft
+2016-11-16,C,"Okafor, Jahlil",26,"4,600",phi,v was, 109-102,20:22,   19pt 5rb 2as 2to 8-11fg 3-4ft
+2016-11-16,C,"Gortat, Marcin",25.3,"6,400",was,@ phi, 102-109,38:59,   10pt 14rb 1as 3to 5-6fg 0-1ft
+2016-11-16,C,"Bogut, Andrew",23.4,"4,300",dal,@ bos, 83-90,24:45,   6pt 7rb 4as 1st 1bl 1to 3-7fg
+2016-11-16,C,"Thompson, Tristan",22.9,"4,600",cle,@ ind, 93-103,27:33,   2pt 12rb 3as 1bl 1-2fg 0-2ft
+2016-11-16,C,"Quinn, Kyle",21,"3,500",nyk,v det, 105-102,15:12,   6pt 5rb 2as 1st 3bl 2to 2-3fg 2-2ft
+2016-11-16,C,"Valanciunas, Jonas",20.6,"5,800",tor,v gsw, 121-127,18:19,   12pt 8rb 1to 6-6fg
+2016-11-16,C,"Adams, Steven",18.7,"5,100",okc,v hou, 105-103,33:29,   6pt 6rb 1as 3bl 2to 3-7fg
+2016-11-16,C,"Ajinca, Alexis",18.2,"3,500",nor,@ orl, 82-89,25:09,   6pt 6rb 3bl 1to 2-8fg 2-2ft
+2016-11-16,C,"Henson, John",16.4,"4,000",mil,@ atl, 100-107,20:18,   7pt 7rb 2as 2to 2-5fg 3-4ft
+2016-11-16,C,"Biyombo, Bismack",16.1,"4,200",orl,v nor, 89-82,24:32,   5pt 8rb 1as 1bl 2to 2-4fg 1-2ft
+2016-11-16,C,"Hilario, Nene",15.5,"3,500",hou,@ okc, 103-105,20:29,   11pt 5rb 1as 1st 5to 5-8fg 1-2ft
+2016-11-16,C,"Chandler, Tyson",15,"4,800",pho,@ den, 104-120,20:45,   5pt 5rb 2bl 2-2fg 1-2ft
+2016-11-16,C,"Len, Alex",12.8,"5,500",pho,@ den, 104-120,21:28,   7pt 4rb 1bl 1to 2-4fg 3-4ft
+2016-11-16,C,"Olynyk, Kelly",12.8,"3,900",bos,v dal, 90-83,28:30,   10pt 4rb 2to 5-8fg
+2016-11-16,C,"Nurkic, Jusuf",12.2,"5,000",den,v pho, 120-104,15:03,   0pt 6rb 4as 1bl 3to 0-4fg
+2016-11-16,C,"Pachulia, Zaza",11.2,"3,500",gsw,@ tor, 127-121,15:53,   8pt 1rb 2as 1to 2-3fg 4-4ft
+2016-11-16,C,"Asik, Omer",11,"3,500",nor,@ orl, 82-89,19:37,   0pt 10rb 1to 0-1fg 0-2ft
+2016-11-16,C,"Nogueira, Lucas",9,"4,600",tor,v gsw, 121-127,12:50,   0pt 5rb 2as
+2016-11-16,C,"Zeller, Tyler",8.8,"3,700",bos,v dal, 90-83,8:24,   4pt 4rb 2-6fg
+2016-11-16,C,"Koufos, Kosta",8.5,"3,500",sac,v sas, 105-110,15:04,   1pt 5rb 1as 0-4fg 1-2ft
+2016-11-16,C,"Monroe, Greg",7.6,"5,500",mil,@ atl, 100-107,7:22,   4pt 3rb 1-4fg 2-2ft
+2016-11-16,C,"Plumlee, Miles",5.6,"3,500",mil,@ atl, 100-107,5:24,   3pt 3rb 1to 1-2fg 1-1ft
+2016-11-16,C,"McGee, JaVale",5.2,"3,500",gsw,@ tor, 127-121,4:22,   4pt 1rb 2-4fg
+2016-11-16,C,"Williams, Alan",4.4,"3,500",pho,@ den, 104-120,4:07,   0pt 2rb 1bl 0-1fg 0-2ft
+2016-11-16,C,"Andersen, Chris",4,"3,500",cle,@ ind, 93-103,6:11,   0pt 5rb 2to 0-1fg
+2016-11-16,C,"Lauvergne, Joffrey",3.2,"3,500",okc,v hou, 105-103,3:34,   0pt 1rb 1st 0-2fg
+2016-11-16,C,"Jefferson, Al",3.2,"3,700",ind,v cle, 103-93,7:03,   2pt 1rb 1-4fg
+2016-11-16,C,"Hernangomez, Guillermo",3.2,"3,500",nyk,v det, 105-102,3:56,   2pt 1rb 1-2fg
+2016-11-16,C,"Baynes, Aron",2.4,"3,700",det,@ nyk, 102-105,11:52,   0pt 2rb 0-1fg
+2016-11-16,C,"Marjanovic, Boban",0,"3,500",det,@ nyk, 102-105,0,   
+2016-11-16,C,"Mejri, Salah",0,"3,500",dal,@ bos, 83-90,0,   
+2016-11-16,C,"Zimmerman, Stephen",0,"3,500",orl,v nor, 89-82,0,   
+2016-11-16,C,"Howard, Dwight",0,"7,900",atl,v mil, 107-100,0,   
+2016-11-16,C,"Poeltl, Jakob",0,"3,500",tor,v gsw, 121-127,0,   
+2016-11-16,C,"Varejao, Anderson",0,"3,500",gsw,@ tor, 127-121,0,   
+2016-11-16,C,"Embiid, Joel",0,"5,600",phi,v was, 109-102,0,   
+2016-11-16,C,"Hammons, AJ",0,"3,500",dal,@ bos, 83-90,0,   
+2016-11-16,C,"Stone, Diamond",0,"3,500",lac,v mem, 107-111,0,   
+2016-11-16,C,"Papagiannis, Georgios",0,"3,500",sac,v sas, 105-110,0,   
+2016-11-16,C,"Jones, Damian",0,"3,500",gsw,@ tor, 127-121,0,   
+2016-11-16,C,"Plumlee, Marshall",0,"3,500",nyk,v det, 105-102,0,   
+2016-11-16,C,"Christmas, Rakeem",0,"3,500",ind,v cle, 103-93,0,   
+2016-11-16,C,"Splitter, Tiago",0,"3,500",atl,v mil, 107-100,0,   
+2016-11-16,C,"Wright, Brandan",0,"3,500",mem,@ lac, 111-107,0,   
+2016-11-16,C,"Onuaku, Chinanu",0,"3,500",hou,@ okc, 103-105,0,   
+2016-11-16,C,"Horford, Al",0,"6,700",bos,v dal, 90-83,0,   
+2016-11-16,C,"Dedmon, Dewayne",0,"3,500",sas,@ sac, 110-105,0,   
+2016-11-16,NA,"Kelly, Ryan",4,N/A,atl,v mil, 107-100,8:12,   4pt 1-2fg 2-2ft
+2016-11-16,NA,"Gee, Alonzo",1.5,N/A,den,v pho, 120-104,4:20,   0pt 1as

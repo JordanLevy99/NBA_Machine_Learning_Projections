@@ -1,0 +1,358 @@
+Date,Position,"LastName, FirstName",FD PTS,Salary,Team,Opp Team,Score,Min,Statline
+2019-10-30,SG,"Harden, James",75.1,"11,000",hou,@ was, 159-158,37:30,   59pt 3rb 9as 1st 4to 6trey 18-32fg 17-18ft
+2019-10-30,SG,"Beal, Bradley",69.2,"9,500",was,v hou, 158-159,40:30,   46pt 6rb 8as 3st 5to 7trey 14-20fg 11-12ft
+2019-10-30,PG,"Brogdon, Malcolm",57.1,"8,200",ind,@ bkn, 118-108,32:28,   21pt 8rb 13as 3st 2to 1trey 7-19fg 6-6ft
+2019-10-30,PG,"Lillard, Damian",55.9,"9,900",por,@ okc, 102-99,38:12,   23pt 7rb 13as 2st 1to 4trey 7-19fg 5-6ft
+2019-10-30,PG,"Westbrook, Russell",52,"10,600",hou,@ was, 159-158,34:41,   17pt 10rb 12as 2st 1bl 4to 1trey 7-16fg 2-4ft
+2019-10-30,PG,"Irving, Kyrie",50.4,"10,200",bkn,v ind, 108-118,30:58,   28pt 7rb 6as 1st 1bl 1to 2trey 11-20fg 4-5ft
+2019-10-30,PG,"Rozier, Terry",48,"7,000",cha,@ sac, 118-111,34:53,   22pt 5rb 6as 3st 2bl 4to 3trey 7-15fg 5-7ft
+2019-10-30,PG,"Walker, Kemba",45.2,"8,400",bos,v mil, 116-105,38:08,   32pt 6rb 6as 3to 4trey 7-19fg 14-15ft
+2019-10-30,PG,"Fox, De",43.4,"8,100",sac,v cha, 111-118,36:16,   16pt 7rb 10as 2st 1bl 5to 1trey 6-16fg 3-3ft
+2019-10-30,SG,"Booker, Devin",43.3,"8,500",pho,@ gsw, 121-110,35:56,   31pt 4rb 5as 1st 3to 6trey 10-21fg 5-5ft
+2019-10-30,PG,"Lowry, Kyle",42,"8,000",tor,v det, 125-113,37:47,   20pt 5rb 8as 2st 2to 2trey 7-13fg 4-5ft
+2019-10-30,PG,"Conley, Mike",41.7,"6,300",uta,v lac, 110-96,32:00,   29pt 1rb 5as 2st 2to 5trey 11-17fg 2-2ft
+2019-10-30,PG,"Simmons, Ben",39.1,"9,500",phi,v min, 117-95,32:48,   16pt 3rb 7as 3st 2bl 6to 7-13fg 2-4ft
+2019-10-30,SG,"Mitchell, Donovan",37,"8,300",uta,v lac, 110-96,34:59,   24pt 5rb 2as 2st 2to 10-17fg 4-4ft
+2019-10-30,SG,"Middleton, Khris",36.7,"7,500",mil,@ bos, 105-116,33:53,   26pt 6rb 3as 1to 3trey 10-15fg 3-3ft
+2019-10-30,PG,"Paul, Chris",36.5,"7,000",okc,v por, 99-102,31:26,   21pt 5rb 5as 2st 4to 1trey 5-10fg 10-11ft
+2019-10-30,SG,"Smart, Marcus",35.8,"5,200",bos,v mil, 116-105,38:49,   19pt 4rb 6as 1st 5trey 7-16fg
+2019-10-30,SG,"Lamb, Jeremy",34.4,"5,900",ind,@ bkn, 118-108,34:10,   25pt 7rb 1st 2to 3trey 11-19fg 0-2ft
+2019-10-30,SG,"Hield, Buddy",34.2,"6,700",sac,v cha, 111-118,37:40,   23pt 1rb 4as 2st 2to 7trey 8-22fg
+2019-10-30,SG,"Wiggins, Andrew",33,"6,700",min,@ phi, 95-117,33:00,   19pt 5rb 2as 1st 1bl 1to 1trey 6-16fg 6-6ft
+2019-10-30,SG,"VanVleet, Fred",32.7,"7,000",tor,v det, 125-113,30:18,   13pt 1rb 11as 1st 1to 1trey 5-9fg 2-2ft
+2019-10-30,PG,"Thomas, Isaiah",32.4,"4,700",was,v hou, 158-159,24:21,   17pt 2rb 10as 1st 5to 2trey 6-11fg 3-3ft
+2019-10-30,PG,"Dinwiddie, Spencer",31.9,"5,800",bkn,v ind, 108-118,26:42,   20pt 2rb 7as 1st 4to 1trey 7-17fg 5-6ft
+2019-10-30,SG,"Diallo, Hamidou",31.5,"3,600",okc,v por, 99-102,19:57,   12pt 10rb 1as 2st 5-9fg 2-4ft
+2019-10-30,SG,"McCollum, CJ",30.3,"6,900",por,@ okc, 102-99,35:49,   22pt 4rb 3as 1st 1bl 7to 5trey 7-22fg 3-4ft
+2019-10-30,PG,"Rubio, Ricky",30.1,"6,500",pho,@ gsw, 121-110,33:02,   14pt 3rb 7as 1st 1to 2trey 4-8fg 4-4ft
+2019-10-30,SG,"Russell, D",29.4,"8,400",gsw,v pho, 110-121,29:48,   15pt 7rb 6as 3to 1trey 5-12fg 4-8ft
+2019-10-30,PG,"Curry, Stephen",29,"9,600",gsw,v pho, 110-121,21:09,   9pt 5rb 6as 1st 2bl 4to 1trey 3-11fg 2-2ft
+2019-10-30,SG,"Rose, Derrick",29,"6,200",det,@ tor, 113-125,20:32,   16pt 10as 2to 7-12fg 2-2ft
+2019-10-30,SG,"Williams, Louis",28.6,"7,000",lac,@ uta, 96-110,27:31,   24pt 3rb 4as 5to 1trey 9-17fg 5-7ft
+2019-10-30,SG,"Graham, Devonte",28.5,"5,700",cha,@ sac, 118-111,30:38,   12pt 5rb 9as 3to 2trey 4-7fg 2-2ft
+2019-10-30,SG,"Richardson, Josh",27.3,"6,000",phi,v min, 117-95,31:26,   12pt 4rb 1as 4st 3to 2trey 4-10fg 2-4ft
+2019-10-30,SG,"Powell, Norman",26.2,"4,100",tor,v det, 125-113,28:39,   19pt 1rb 2st 3trey 7-10fg 2-3ft
+2019-10-30,SG,"Alexander, Shai",26.1,"8,000",okc,v por, 99-102,35:47,   13pt 8rb 3as 1st 4to 3-13fg 7-10ft
+2019-10-30,SG,"Bogdanovic, Bogdan",24.9,"5,300",sac,v cha, 111-118,25:36,   12pt 2rb 5as 1st 2trey 4-14fg 2-3ft
+2019-10-30,SG,"Monk, Malik",24.8,"4,000",cha,@ sac, 118-111,20:26,   18pt 4rb 2as 1to 4trey 7-12fg
+2019-10-30,SG,"Schroder, Dennis",24.8,"5,800",okc,v por, 99-102,27:54,   17pt 4rb 2as 1st 3to 6-17fg 5-6ft
+2019-10-30,SG,"Fournier, Evan",24.1,"5,600",orl,v nyk, 95-83,28:09,   14pt 3rb 3as 1st 1to 2trey 5-12fg 2-2ft
+2019-10-30,PG,"Mudiay, Emmanuel",24.1,"3,600",uta,v lac, 110-96,16:00,   8pt 3rb 5as 1st 1bl 1to 4-9fg
+2019-10-30,SG,"Clarkson, Jordan",23,"4,500",cle,v chi, 117-111,25:54,   17pt 4as 1trey 4-6fg 8-9ft
+2019-10-30,SG,"LeVert, Caris",22.7,"7,000",bkn,v ind, 108-118,32:58,   15pt 6rb 3as 4to 2trey 6-18fg 1-2ft
+2019-10-30,SG,"Galloway, Langston",21.7,"3,500",det,@ tor, 113-125,26:29,   17pt 1rb 1as 1st 1to 3trey 3-7fg 8-8ft
+2019-10-30,PG,"Satoransky, Tomas",21.4,"4,600",chi,@ cle, 111-117,27:15,   8pt 2rb 8as 1to 2trey 2-5fg 2-2ft
+2019-10-30,PG,"Dunn, Kris",21.2,"4,000",chi,@ cle, 111-117,20:45,   8pt 1rb 4as 2st 4-7fg
+2019-10-30,SG,"LaVine, Zach",21,"8,000",chi,@ cle, 111-117,31:54,   16pt 2as 1st 1to 4trey 6-14fg
+2019-10-30,PG,"Bowman, Ky",20.7,"3,500",gsw,v pho, 110-121,12:00,   10pt 1rb 1as 3st 1to 1trey 2-4fg 5-5ft
+2019-10-30,PG,"Teague, Jeff",20.7,"6,100",min,@ phi, 95-117,24:35,   15pt 1rb 5as 3to 2trey 6-13fg 1-2ft
+2019-10-30,PG,"Hill, George",20,"4,800",mil,@ bos, 105-116,20:13,   12pt 5rb 2as 1to 2trey 5-9fg
+2019-10-30,PG,"Sexton, Collin",19.4,"5,400",cle,v chi, 117-111,28:16,   18pt 2rb 2as 4to 1trey 7-12fg 3-4ft
+2019-10-30,SG,"Korkmaz, Furkan",19,"3,500",phi,v min, 117-95,21:27,   17pt 2as 1to 3trey 5-10fg 4-5ft
+2019-10-30,PG,"Bledsoe, Eric",18.5,"6,600",mil,@ bos, 105-116,27:47,   7pt 5rb 5as 2to 1trey 3-8fg 0-3ft
+2019-10-30,PG,"Ntilikina, Frank",17.8,"3,500",nyk,@ orl, 83-95,29:17,   7pt 4rb 4as 1trey 3-8fg
+2019-10-30,PG,"Napier, Shabazz",17.5,"4,000",min,@ phi, 95-117,24:48,   13pt 1as 2st 3to 2trey 4-9fg 3-3ft
+2019-10-30,SG,"Mann, Terance",17.1,"3,500",lac,@ uta, 96-110,10:00,   4pt 3rb 5as 1st 1to 2-3fg
+2019-10-30,PG,"Augustin, DJ",16.7,"4,500",orl,v nyk, 95-83,27:52,   5pt 1rb 7as 1trey 2-6fg
+2019-10-30,PG,"Frazier, Tim",16.7,"3,500",det,@ tor, 113-125,21:48,   7pt 1rb 5as 1st 2to 1trey 3-8fg
+2019-10-30,PG,"White, Coby",16.7,"4,500",chi,@ cle, 111-117,20:31,   8pt 1rb 1as 2st 2trey 3-12fg
+2019-10-30,PG,"Rivers, Austin",16.7,"3,500",hou,@ was, 159-158,19:50,   11pt 1rb 3as 3trey 4-6fg
+2019-10-30,SG,"Graham, Treveon",15.8,"3,900",min,@ phi, 95-117,21:00,   6pt 4rb 2st 1to 1-5fg 4-4ft
+2019-10-30,SG,"Poole, Jordan",15.6,"3,700",gsw,v pho, 110-121,21:05,   9pt 3rb 2as 2trey 2-8fg 3-3ft
+2019-10-30,PG,"Beverley, Patrick",12.6,"5,100",lac,@ uta, 96-110,25:23,   8pt 3rb 1st 2to 4-13fg
+2019-10-30,SG,"Barrett, RJ",12.4,"7,200",nyk,@ orl, 83-95,30:45,   9pt 2rb 2as 2to 1trey 4-11fg 0-2ft
+2019-10-30,PG,"Williams, Michael",12.3,"3,500",orl,v nyk, 95-83,7:55,   3pt 4rb 1as 1st 1trey 1-2fg
+2019-10-30,PG,"Simons, Anfernee",12.1,"3,500",por,@ okc, 102-99,15:32,   7pt 3rb 1as 1trey 3-6fg
+2019-10-30,SG,"McCaw, Patrick",11.6,"3,500",tor,v det, 125-113,23:00,   5pt 3rb 2as 1st 3to 1trey 2-3fg
+2019-10-30,SG,"Bacon, Dwayne",11.4,"4,800",cha,@ sac, 118-111,24:49,   3pt 2rb 2as 2st 3to 1trey 1-8fg
+2019-10-30,SG,"Matthews, Wes",11.1,"4,100",mil,@ bos, 105-116,30:05,   3pt 3rb 3as 1trey 1-8fg
+2019-10-30,PG,"Robinson, Jerome",10.9,"3,500",lac,@ uta, 96-110,18:42,   9pt 2rb 3as 5to 1trey 4-7fg
+2019-10-30,PG,"Fultz, Markelle",10.7,"4,800",orl,v nyk, 95-83,20:08,   7pt 1rb 1as 1st 2to 3-6fg 1-2ft
+2019-10-30,PG,"Smith, Ishmael",10.7,"5,200",was,v hou, 158-159,23:17,   6pt 1rb 3as 1to 3-6fg 0-2ft
+2019-10-30,PG,"Garland, Darius",10.7,"4,400",cle,v chi, 117-111,25:17,   9pt 1rb 3as 4to 1trey 4-11fg
+2019-10-30,SG,"Ferguson, Terrance",10.6,"3,500",okc,v por, 99-102,34:35,   2pt 3rb 1st 1bl 1to 1-4fg
+2019-10-30,SG,"Brown, Bruce",10.2,"3,600",det,@ tor, 113-125,21:10,   1pt 6rb 2st 4to 0-3fg 1-2ft
+2019-10-30,SG,"Snell, Tony",10.2,"3,600",det,@ tor, 113-125,18:49,   6pt 1rb 2as 2trey 2-7fg
+2019-10-30,SG,"Korver, Kyle",10,"3,500",mil,@ bos, 105-116,16:22,   9pt 1st 2to 2trey 3-6fg 1-2ft
+2019-10-30,PG,"McConnell, TJ",9.5,"3,600",ind,@ bkn, 118-108,12:23,   2pt 3as 1st 0-4fg 2-2ft
+2019-10-30,PG,"Shamet, Landry",9.2,"4,100",lac,@ uta, 96-110,32:54,   5pt 1rb 2as 1st 3to 1-7fg 3-3ft
+2019-10-30,SG,"Mykhailiuk, Sviatoslav",9.2,"3,500",det,@ tor, 113-125,8:34,   9pt 1rb 1to 3trey 3-4fg
+2019-10-30,PG,"Carter, Jevon",8.9,"4,000",pho,@ gsw, 121-110,14:58,   0pt 2rb 3as 1st 1to 0-3fg
+2019-10-30,PG,"Joseph, Cory",8.2,"3,500",sac,v cha, 111-118,11:44,   5pt 1rb 2as 1to 1trey 2-5fg
+2019-10-30,SG,"Connaughton, Pat",7.5,"3,800",mil,@ bos, 105-116,21:19,   6pt 1as 2trey 2-8fg
+2019-10-30,SG,"Temple, Garrett",6.7,"3,500",bkn,v ind, 108-118,15:09,   4pt 1rb 1as 1-2fg 2-3ft
+2019-10-30,SG,"Dotson, Damyean",6.4,"3,500",nyk,@ orl, 83-95,13:04,   2pt 2rb 2as 1to 2-3ft
+2019-10-30,SG,"Ross, Terrence",6.2,"4,300",orl,v nyk, 95-83,22:19,   2pt 1rb 2as 1-10fg
+2019-10-30,PG,"Holiday, Aaron",6.2,"3,500",ind,@ bkn, 118-108,16:01,   3pt 1rb 2as 1to 1trey 1-6fg
+2019-10-30,SG,"Lee, Damion",6.1,"3,900",gsw,v pho, 110-121,11:06,   3pt 3rb 1as 2to 1trey 1-4fg
+2019-10-30,SG,"McLemore, Ben",6,"3,500",hou,@ was, 159-158,7:46,   3pt 1st 1trey 1-1fg
+2019-10-30,SG,"Pinson, Theo",5.7,"3,500",bkn,v ind, 108-118,1:14,   0pt 1rb 1as 1st
+2019-10-30,PG,"Johnson, Tyler",4.9,"3,500",pho,@ gsw, 121-110,12:10,   2pt 2rb 1as 1to 1-3fg
+2019-10-30,SG,"Nwaba, David",4.8,"3,500",bkn,v ind, 108-118,10:09,   2pt 4rb 2to 1-3fg
+2019-10-30,PG,"Dellavedova, Matthew",4.7,"3,500",cle,v chi, 117-111,13:32,   0pt 1rb 1as 1st 1to 0-1fg
+2019-10-30,SG,"Ellington, Wayne",4.4,"3,500",nyk,@ orl, 83-95,19:10,   2pt 2rb 1-8fg 0-1ft
+2019-10-30,PG,"Arcidiacono, Ryan",3.5,"3,500",chi,@ cle, 111-117,16:06,   2pt 1as 0-2fg 2-2ft
+2019-10-30,SG,"Martin, Cody",3,"3,500",cha,@ sac, 118-111,4:51,   0pt 1st
+2019-10-30,SG,"Okobo, Elie",1.5,"3,500",pho,@ gsw, 121-110,2:08,   0pt 1as 0-1fg
+2019-10-30,PG,"Wanamaker, Brad",1.2,"3,500",bos,v mil, 116-105,5:38,   0pt 1rb 0-1fg
+2019-10-30,PG,"Neto, Raul",1.2,"3,500",phi,v min, 117-95,2:16,   0pt 1rb 0-1fg
+2019-10-30,SG,"McGruder, Rodney",1.2,"3,500",lac,@ uta, 96-110,17:56,   0pt 1rb 0-3fg
+2019-10-30,PG,"Edwards, Carsen",1,"3,500",bos,v mil, 116-105,3:39,   1pt 1-2ft
+2019-10-30,SG,"Green, Javonte",0,"3,500",bos,v mil, 116-105,00:25,   0pt
+2019-10-30,PG,"Jr, Derrick",0,"3,500",lac,@ uta, 96-110,1:22,   0pt
+2019-10-30,SG,"Jr, Gary",0,"3,500",por,@ okc, 102-99,4:10,   0pt
+2019-10-30,SG,"Davis, Terence",0,"3,600",tor,v det, 125-113,1:15,   0pt
+2019-10-30,SG,"Thomas, Matt",0,"3,500",tor,v det, 125-113,1:15,   0pt
+2019-10-30,SG,"Langford, Romeo",0,"3,500",bos,v mil, 116-105,00:14,   0pt
+2019-10-30,PG,"Clemons, Chris",0,"3,500",hou,@ was, 159-158,0,   
+2019-10-30,SG,"Burton, Deonte",0,"3,500",okc,v por, 99-102,0,   
+2019-10-30,SG,"James, Justin",0,"3,500",sac,v cha, 111-118,0,   
+2019-10-30,SG,"Hall, Devon",0,"3,500",okc,v por, 99-102,0,   
+2019-10-30,PG,"Burke, Trey",0,"3,800",phi,v min, 117-95,0,   
+2019-10-30,SG,"Trier, Allonzo",0,"3,500",nyk,@ orl, 83-95,0,   
+2019-10-30,PG,"Harrison, Shaquille",0,"3,500",chi,@ cle, 111-117,0,   
+2019-10-30,SG,"Thomas, Khyri",0,"3,500",det,@ tor, 113-125,0,   
+2019-10-30,PG,"Robinson, Justin",0,"3,500",was,v hou, 158-159,0,   
+2019-10-30,SG,"McRae, Jordan",0,"3,700",was,v hou, 158-159,0,   
+2019-10-30,SG,"DiVincenzo, Donte",0,"3,500",mil,@ bos, 105-116,0,   
+2019-10-30,SG,"Brown, Sterling",0,"3,500",mil,@ bos, 105-116,0,   
+2019-10-30,PG,"Ferrell, Yogi",0,"3,500",sac,v cha, 111-118,0,   
+2019-10-30,PG,"Knight, Brandon",0,"3,600",cle,v chi, 117-111,0,   
+2019-10-30,SG,"III, Jacob",0,"3,500",gsw,v pho, 110-121,0,   
+2019-10-30,PG,"III, Frank",0,"3,500",mil,@ bos, 105-116,0,   
+2019-10-30,PG,"Jackson, Reggie",0,"5,000",det,@ tor, 113-125,0,   
+2019-10-30,SG,"Reynolds, Cameron",0,"3,500",mil,@ bos, 105-116,0,   
+2019-10-30,SG,"II, Brian",0,"3,600",ind,@ bkn, 118-108,0,   
+2019-10-30,PG,"Milton, Shake",0,"3,500",phi,v min, 117-95,0,   
+2019-10-30,SG,"Bullock, Reggie",0,"3,800",nyk,@ orl, 83-95,0,   
+2019-10-30,SG,"Roberson, Andre",0,"3,500",okc,v por, 99-102,0,   
+2019-10-30,SG,"Windler, Dylan",0,"3,500",cle,v chi, 117-111,0,   
+2019-10-30,SG,"Oladipo, Victor",0,"3,500",ind,@ bkn, 118-108,0,   
+2019-10-30,PG,"Sumner, Edmond",0,"3,700",ind,@ bkn, 118-108,0,   
+2019-10-30,SG,"Luwawu, Timothe",0,"3,500",bkn,v ind, 108-118,0,   
+2019-10-30,PG,"Foreman, Justin",0,"3,500",uta,v lac, 110-96,0,   
+2019-10-30,SG,"Long, Nazareth",0,"3,500",ind,@ bkn, 118-108,0,   
+2019-10-30,SG,"Allen, Kadeem",0,"3,500",nyk,@ orl, 83-95,0,   
+2019-10-30,PG,"Harper, Jared",0,"3,500",pho,@ gsw, 121-110,0,   
+2019-10-30,SG,"Smith, Zhaire",0,"3,500",phi,v min, 117-95,0,   
+2019-10-30,PG,"Payton, Elfrid",0,"5,400",nyk,@ orl, 83-95,0,   
+2019-10-30,PG,"McLaughlin, Jordan",0,"3,500",min,@ phi, 95-117,0,   
+2019-10-30,PG,"Magette, Josh",0,"3,500",orl,v nyk, 95-83,0,   
+2019-10-30,PG,"Bone, Jordan",0,"3,500",det,@ tor, 113-125,0,   
+2019-10-30,SG,"Guy, Kyle",0,"3,600",sac,v cha, 111-118,0,   
+2019-10-30,SG,"Mokoka, Adam",0,"3,500",chi,@ cle, 111-117,0,   
+2019-10-30,PG,"Chiozza, Chris",0,"3,500",was,v hou, 158-159,0,   
+2019-10-30,SG,"Jerome, Ty",0,"3,700",pho,@ gsw, 121-110,0,   
+2019-10-30,SG,"Dort, Luguentz",0,"3,500",okc,v por, 99-102,0,   
+2019-10-30,PG,"Exum, Dante",0,"3,700",uta,v lac, 110-96,0,   
+2019-10-30,PG,"Ponds, Shamorie",0,"3,500",tor,v det, 125-113,0,   
+2019-10-30,SG,"Brown, Jaylen",0,"5,700",bos,v mil, 116-105,0,   
+2019-10-30,SG,"Mathews, Garrison",0,"3,500",was,v hou, 158-159,0,   
+2019-10-30,PG,"Simmons, Kobi",0,"3,500",cha,@ sac, 118-111,0,   
+2019-10-30,SG,"Shayok, Marial",0,"3,500",phi,v min, 117-95,0,   
+2019-10-30,PG,"Jr, Dennis",0,"3,900",nyk,@ orl, 83-95,0,   
+2019-10-30,PG,"Waters, Tremont",0,"3,500",bos,v mil, 116-105,0,   
+2019-10-30,PG,"Goss, Nigel",-1,"3,500",uta,v lac, 110-96,1:22,   0pt 1to
+2019-10-30,SF,"Antetokounmpo, Giannis",52.3,"11,600",mil,@ bos, 105-116,34:38,   22pt 14rb 5as 1st 2bl 3to 8-13fg 6-10ft
+2019-10-30,PF,"Love, Kevin",50,"8,600",cle,v chi, 117-111,31:12,   17pt 20rb 6as 1st 3to 1trey 6-10fg 4-5ft
+2019-10-30,PF,"Saric, Dario",48.3,"4,700",pho,@ gsw, 121-110,31:23,   16pt 9rb 5as 5st 1to 2trey 7-15fg
+2019-10-30,SF,"Siakam, Pascal",47.5,"8,600",tor,v det, 125-113,30:16,   30pt 5rb 5as 2st 2to 3trey 13-21fg 1-1ft
+2019-10-30,SF,"Hayward, Gordon",47.5,"6,600",bos,v mil, 116-105,37:43,   21pt 10rb 7as 1st 1bl 2to 3trey 9-17fg
+2019-10-30,PF,"Sabonis, Domantas",44.6,"8,400",ind,@ bkn, 118-108,36:21,   29pt 8rb 4as 1bl 3to 2trey 11-18fg 5-6ft
+2019-10-30,PF,"Holmes, Richaun",41.8,"5,900",sac,v cha, 111-118,35:17,   17pt 9rb 2as 2st 3bl 4to 8-10fg 1-2ft
+2019-10-30,SF,"Barnes, Harrison",39.9,"5,100",sac,v cha, 111-118,40:28,   22pt 7rb 1as 3st 1to 1trey 10-18fg 1-2ft
+2019-10-30,PF,"Randle, Julius",38.5,"8,200",nyk,@ orl, 83-95,36:40,   16pt 10rb 7as 1bl 3to 7-13fg 2-3ft
+2019-10-30,PF,"Noel, Nerlens",37.8,"3,800",okc,v por, 99-102,28:27,   15pt 14rb 2as 1st 1bl 3to 6-7fg 3-4ft
+2019-10-30,PF,"Washington, PJ",37.1,"6,400",cha,@ sac, 118-111,35:50,   23pt 8rb 3as 2trey 10-13fg 1-2ft
+2019-10-30,PF,"Horford, Al",36.2,"6,700",phi,v min, 117-95,33:45,   12pt 16rb 4as 1to 1trey 5-12fg 1-2ft
+2019-10-30,PF,"Gordon, Aaron",35.7,"6,900",orl,v nyk, 95-83,28:10,   15pt 11rb 1as 1st 1bl 3trey 6-13fg
+2019-10-30,PF,"Tatum, Jayson",34.8,"7,700",bos,v mil, 116-105,38:35,   25pt 4rb 2as 1bl 1to 4trey 10-22fg 1-2ft
+2019-10-30,PF,"Green, JaMychal",34.6,"3,600",lac,@ uta, 96-110,27:24,   23pt 8rb 1bl 1to 5trey 8-11fg 2-2ft
+2019-10-30,SF,"House, Danuel",33.9,"4,200",hou,@ was, 159-158,28:38,   16pt 7rb 1as 2st 1bl 1to 4trey 5-9fg 2-2ft
+2019-10-30,SF,"Warren, TJ",33.1,"5,900",ind,@ bkn, 118-108,33:55,   20pt 3rb 1as 3st 1to 8-16fg 4-4ft
+2019-10-30,PF,"Markkanen, Lauri",33.1,"7,900",chi,@ cle, 111-117,27:27,   16pt 8rb 3as 1bl 2trey 4-12fg 6-8ft
+2019-10-30,PF,"Paschall, Eric",32.6,"3,700",gsw,v pho, 110-121,37:33,   20pt 3rb 1st 2bl 7-9fg 6-6ft
+2019-10-30,PF,"Ibaka, Serge",32.2,"6,200",tor,v det, 125-113,31:59,   19pt 6rb 2as 2st 3to 1trey 9-15fg
+2019-10-30,SF,"Harris, Tobias",31.8,"7,200",phi,v min, 117-95,33:40,   18pt 9rb 2as 1st 3to 1trey 7-15fg 3-3ft
+2019-10-30,SF,"Isaac, Jonathan",31.4,"6,500",orl,v nyk, 95-83,31:40,   10pt 7rb 4as 3bl 2to 4-6fg 2-2ft
+2019-10-30,PF,"Tucker, PJ",30,"5,600",hou,@ was, 159-158,33:11,   9pt 5rb 4as 3st 1trey 3-7fg 2-2ft
+2019-10-30,SF,"Thybulle, Matisse",29.7,"3,800",phi,v min, 117-95,20:57,   9pt 1rb 3as 4st 2bl 3to 1trey 2-5fg 4-4ft
+2019-10-30,PF,"Hachimura, Rui",28,"5,900",was,v hou, 158-159,35:31,   23pt 5rb 1to 3trey 9-15fg 2-2ft
+2019-10-30,SF,"Ingles, Joe",27.9,"5,100",uta,v lac, 110-96,31:03,   10pt 2rb 7as 2st 1to 2trey 4-8fg
+2019-10-30,SF,"Bertans, Davis",27.6,"4,000",was,v hou, 158-159,26:57,   21pt 3rb 2as 6trey 7-10fg 1-1ft
+2019-10-30,SF,"Morris, Marcus",27,"5,200",nyk,@ orl, 83-95,31:19,   9pt 5rb 1st 4bl 3to 1trey 2-11fg 4-5ft
+2019-10-30,SF,"Anunoby, OG",26.6,"6,100",tor,v det, 125-113,36:41,   13pt 8rb 2st 2to 1trey 6-10fg
+2019-10-30,SF,"Bridges, Miles",25.8,"5,700",cha,@ sac, 118-111,33:58,   17pt 4rb 2as 1st 1bl 5to 3trey 7-11fg
+2019-10-30,SF,"Porter, Otto",25.5,"5,200",chi,@ cle, 111-117,27:29,   15pt 5rb 3as 1trey 5-10fg 4-5ft
+2019-10-30,PF,"Theis, Daniel",25.3,"3,700",bos,v mil, 116-105,27:59,   11pt 9rb 1as 1bl 1to 1trey 5-8fg
+2019-10-30,SF,"Osman, Cedi",25.3,"4,500",cle,v chi, 117-111,30:44,   12pt 4rb 3as 1st 1bl 2to 4trey 4-6fg
+2019-10-30,SF,"III, Glenn",24.9,"4,400",gsw,v pho, 110-121,31:03,   17pt 2rb 1as 1st 1bl 2to 1trey 6-10fg 4-4ft
+2019-10-30,PF,"Young, Thaddeus",24.5,"4,600",chi,@ cle, 111-117,22:39,   14pt 5rb 1as 1st 2trey 6-14fg
+2019-10-30,SF,"Ennis, James",23.7,"3,500",phi,v min, 117-95,18:48,   8pt 11rb 1as 1bl 2to 3-7fg 2-2ft
+2019-10-30,PF,"Allen, Jarrett",23.1,"6,100",bkn,v ind, 108-118,21:40,   8pt 8rb 1as 2bl 2to 3-5fg 2-3ft
+2019-10-30,SF,"Morris, Markieff",23,"4,600",det,@ tor, 113-125,32:08,   16pt 5rb 2as 2to 2trey 7-13fg
+2019-10-30,SF,"Gallinari, Danilo",22.7,"6,800",okc,v por, 99-102,30:30,   15pt 6rb 1as 1to 3trey 5-15fg 2-2ft
+2019-10-30,PF,"Tolliver, Anthony",22.5,"3,700",por,@ okc, 102-99,25:56,   6pt 5rb 1as 1st 2bl 2trey 2-5fg
+2019-10-30,PF,"Aminu, Al",22.1,"4,300",orl,v nyk, 95-83,25:47,   9pt 8rb 1as 1bl 1to 2trey 3-9fg 1-2ft
+2019-10-30,PF,"Green, Jeff",21.2,"3,500",uta,v lac, 110-96,19:28,   8pt 1rb 3st 1bl 2trey 3-8fg
+2019-10-30,SF,"Okogie, Josh",20.7,"4,400",min,@ phi, 95-117,21:26,   3pt 6rb 1as 3st 1bl 3to 0-2fg 3-6ft
+2019-10-30,SF,"Hood, Rodney",20.6,"4,300",por,@ okc, 102-99,33:31,   9pt 3rb 2st 1bl 1to 2trey 3-10fg 1-2ft
+2019-10-30,PF,"Covington, Robert",20.6,"6,000",min,@ phi, 95-117,25:51,   7pt 3rb 1st 3bl 2to 1trey 2-7fg 2-2ft
+2019-10-30,SF,"Oubre, Kelly",20.4,"6,900",pho,@ gsw, 121-110,32:34,   11pt 7rb 1bl 2to 1trey 5-10fg
+2019-10-30,SF,"Prince, Taurean",20.4,"5,500",bkn,v ind, 108-118,27:11,   8pt 2rb 2as 2st 1bl 2to 2trey 3-10fg
+2019-10-30,SF,"Nance, Larry",20,"6,500",cle,v chi, 117-111,29:47,   12pt 5rb 2as 1to 1trey 3-9fg 5-6ft
+2019-10-30,PF,"Kornet, Luke",19.4,"3,500",chi,@ cle, 111-117,18:44,   9pt 2rb 2as 2bl 1to 1trey 4-6fg
+2019-10-30,PF,"Labissiere, Skal",19.3,"3,600",por,@ okc, 102-99,21:02,   7pt 4rb 1as 1st 2bl 3to 2-5fg 3-4ft
+2019-10-30,SF,"Bazemore, Kent",19,"4,900",por,@ okc, 102-99,20:48,   14pt 5rb 1to 3trey 5-9fg 1-2ft
+2019-10-30,SF,"Porter, Kevin",18.8,"3,500",cle,v chi, 117-111,20:17,   9pt 4rb 2as 1bl 1to 1trey 2-4fg 4-4ft
+2019-10-30,SF,"Knox, Kevin",18.6,"3,900",nyk,@ orl, 83-95,22:30,   10pt 3rb 2as 1bl 1to 2trey 3-10fg 2-2ft
+2019-10-30,PF,"Davis, Ed",18.3,"3,500",uta,v lac, 110-96,14:00,   4pt 9rb 1as 1bl 1to 2-3fg
+2019-10-30,PF,"Williams, Marvin",18.1,"3,500",cha,@ sac, 118-111,19:42,   11pt 3rb 1as 1st 1to 1trey 4-4fg 2-3ft
+2019-10-30,PF,"Green, Draymond",18,"8,000",gsw,v pho, 110-121,23:45,   4pt 5rb 4as 1st 1to 2-8fg 0-2ft
+2019-10-30,SF,"Holiday, Justin",17.9,"3,800",ind,@ bkn, 118-108,24:22,   5pt 7rb 1as 1st 1trey 2-4fg
+2019-10-30,PF,"Bjelica, Nemanja",17.8,"4,900",sac,v cha, 111-118,24:48,   11pt 4rb 1st 1to 1trey 5-6fg
+2019-10-30,SF,"Bogdanovic, Bojan",17.8,"6,400",uta,v lac, 110-96,30:41,   14pt 4rb 2as 4to 2trey 5-11fg 2-2ft
+2019-10-30,SF,"Gordon, Eric",16.7,"4,500",hou,@ was, 159-158,30:29,   15pt 1rb 1as 1to 5trey 5-13fg
+2019-10-30,SF,"Jr, Troy",16.6,"3,500",was,v hou, 158-159,16:43,   14pt 3rb 1to 2trey 5-7fg 2-2ft
+2019-10-30,SF,"Johnson, Cameron",14.8,"3,500",pho,@ gsw, 121-110,14:23,   12pt 4rb 2to 2trey 5-6fg
+2019-10-30,SF,"Kennard, Luke",13.7,"5,100",det,@ tor, 113-125,26:38,   3pt 1rb 7as 1to 1trey 1-6fg
+2019-10-30,PF,"Ilyasova, Ersan",13.4,"3,600",mil,@ bos, 105-116,15:19,   7pt 7rb 2to 1trey 3-4fg
+2019-10-30,SF,"Ariza, Trevor",13.2,"3,700",sac,v cha, 111-118,21:02,   3pt 6rb 2as 1trey 1-4fg
+2019-10-30,SF,"Layman, Jake",12.6,"3,700",min,@ phi, 95-117,23:34,   6pt 3rb 1st 3-6fg
+2019-10-30,SF,"Harris, Joe",12.4,"4,700",bkn,v ind, 108-118,29:56,   13pt 2rb 3to 3trey 5-9fg 0-1ft
+2019-10-30,SF,"Bridges, Mikal",12.2,"3,700",pho,@ gsw, 121-110,15:26,   3pt 1rb 2as 2st 1to 1-3fg 1-1ft
+2019-10-30,PF,"Spellman, Omari",12.2,"4,200",gsw,v pho, 110-121,22:23,   4pt 6rb 1st 2to 0-5fg 4-4ft
+2019-10-30,SF,"Ojeleye, Semi",12,"3,500",bos,v mil, 116-105,19:50,   3pt 5rb 1st 1-3fg 1-2ft
+2019-10-30,PF,"Scott, Mike",11,"3,500",phi,v min, 117-95,17:38,   4pt 5rb 2as 2to 2-3fg
+2019-10-30,SF,"McDermott, Doug",10.8,"3,500",ind,@ bkn, 118-108,32:07,   6pt 4rb 2trey 2-4fg
+2019-10-30,SF,"Bonga, Isaac",10.6,"4,300",was,v hou, 158-159,24:41,   6pt 3rb 2as 2to 3-4fg
+2019-10-30,SF,"Burks, Alec",10.2,"4,000",gsw,v pho, 110-121,17:49,   7pt 1rb 2as 1to 1trey 3-6fg
+2019-10-30,PF,"Kurucs, Rodions",9.8,"3,500",bkn,v ind, 108-118,20:13,   2pt 4rb 1st 1-2fg 0-2ft
+2019-10-30,PF,"Patterson, Patrick",9.6,"3,600",lac,@ uta, 96-110,28:58,   3pt 3rb 2as 1trey 1-4fg
+2019-10-30,SF,"Culver, Jarrett",9.5,"3,500",min,@ phi, 95-117,15:48,   6pt 1as 1st 1to 1trey 2-8fg 1-4ft
+2019-10-30,SF,"Sefolosha, Thabo",9.1,"3,500",hou,@ was, 159-158,10:24,   3pt 3rb 1as 1bl 2to 1trey 1-3fg
+2019-10-30,PF,"Muscala, Mike",9.1,"3,500",okc,v por, 99-102,18:48,   4pt 3rb 1as 2-9fg
+2019-10-30,PF,"Neale, Royce",8.3,"4,300",uta,v lac, 110-96,23:43,   0pt 4rb 1as 1st 1to
+2019-10-30,PF,"Wood, Christian",8.2,"4,700",det,@ tor, 113-125,15:52,   9pt 1rb 2to 1trey 2-4fg 4-7ft
+2019-10-30,PF,"Kaminsky, Frank",7.4,"5,700",pho,@ gsw, 121-110,17:51,   4pt 2rb 2as 2to 0-6fg 4-6ft
+2019-10-30,SF,"Harkless, Maurice",7.4,"4,300",lac,@ uta, 96-110,17:03,   2pt 2rb 2as 1-3fg
+2019-10-30,PF,"Gibson, Taj",7.2,"3,500",nyk,@ orl, 83-95,8:44,   4pt 1rb 1bl 1to 2-4fg
+2019-10-30,SF,"Hezonja, Mario",7.2,"4,100",por,@ okc, 102-99,20:13,   2pt 6rb 2to 1-1fg
+2019-10-30,PF,"Bell, Jordan",6.8,"3,600",min,@ phi, 95-117,12:15,   5pt 4rb 3to 2-4fg 1-1ft
+2019-10-30,PF,"Williams, Grant",5.4,"3,500",bos,v mil, 116-105,15:19,   2pt 2rb 1st 2to 1-4fg
+2019-10-30,PF,"Gabriel, Wenyen",5.2,"3,500",sac,v cha, 111-118,2:56,   2pt 1rb 1bl 1to 0-1fg 2-2ft
+2019-10-30,PF,"Bolden, Jonah",5,"3,500",phi,v min, 117-95,2:16,   2pt 1st 1-1fg
+2019-10-30,PF,"Vonleh, Noah",4.9,"3,600",min,@ phi, 95-117,15:04,   2pt 2rb 1as 1to 1-4fg
+2019-10-30,PF,"Anderson, Ryan",4.2,"3,500",hou,@ was, 159-158,4:08,   3pt 1rb 1trey 1-2fg
+2019-10-30,PF,"Diallo, Cheick",3,"3,500",pho,@ gsw, 121-110,2:08,   4pt 1to 2-2fg
+2019-10-30,SF,"Bazley, Darius",0.4,"3,500",okc,v por, 99-102,12:36,   0pt 2rb 2to
+2019-10-30,SF,"Musa, Dzanan",0,"3,500",bkn,v ind, 108-118,1:14,   0pt
+2019-10-30,PF,"Kidd, Stanton",0,"3,500",uta,v lac, 110-96,1:22,   0pt
+2019-10-30,PF,"Niang, Georges",0,"3,500",uta,v lac, 110-96,1:22,   0pt
+2019-10-30,SF,"Kabengele, Mfiondu",0,"3,500",lac,@ uta, 96-110,1:22,   0pt 0-1fg
+2019-10-30,SF,"Frazier, Melvin",0,"3,500",orl,v nyk, 95-83,0,   
+2019-10-30,PF,"Leaf, TJ",0,"3,500",ind,@ bkn, 118-108,0,   
+2019-10-30,PF,"Jefferson, Rondae",0,"4,200",tor,v det, 125-113,0,   
+2019-10-30,PF,"Wilson, DJ",0,"3,500",mil,@ bos, 105-116,0,   
+2019-10-30,PF,"Gafford, Daniel",0,"3,600",chi,@ cle, 111-117,0,   
+2019-10-30,SF,"Johnson, Stanley",0,"3,600",tor,v det, 125-113,0,   
+2019-10-30,SF,"Valentine, Denzel",0,"3,600",chi,@ cle, 111-117,0,   
+2019-10-30,PF,"Swanigan, Caleb",0,"3,500",sac,v cha, 111-118,0,   
+2019-10-30,SF,"Little, Nassir",0,"3,500",por,@ okc, 102-99,0,   
+2019-10-30,SF,"Sampson, JaKarr",0,"3,500",ind,@ bkn, 118-108,0,   
+2019-10-30,PF,"Birch, Khem",0,"3,500",orl,v nyk, 95-83,0,   
+2019-10-30,SF,"Martin, Caleb",0,"3,500",cha,@ sac, 118-111,0,   
+2019-10-30,SF,"McKinnie, Alfonzo",0,"3,600",cle,v chi, 117-111,0,   
+2019-10-30,PF,"Clark, Gary",0,"3,500",hou,@ was, 159-158,0,   
+2019-10-30,PF,"Collins, Zach",0,"4,700",por,@ okc, 102-99,0,   
+2019-10-30,PF,"Cook, Tyler",0,"3,500",cle,v chi, 117-111,0,   
+2019-10-30,SF,"Chandler, Wilson",0,"3,500",bkn,v ind, 108-118,0,   
+2019-10-30,PF,"Chriss, Marquese",0,"3,800",gsw,v pho, 110-121,0,   
+2019-10-30,SF,"Iwundu, Wes",0,"3,500",orl,v nyk, 95-83,0,   
+2019-10-30,SF,"Gilchrist, Michael",0,"3,500",cha,@ sac, 118-111,0,   
+2019-10-30,PF,"Johnson, Alize",0,"3,500",ind,@ bkn, 118-108,0,   
+2019-10-30,SF,"Nader, Abdel",0,"3,500",okc,v por, 99-102,0,   
+2019-10-30,SF,"Brazdeikis, Ignas",0,"3,500",nyk,@ orl, 83-95,0,   
+2019-10-30,SF,"King, Louis",0,"3,500",det,@ tor, 113-125,0,   
+2019-10-30,SF,"Antetokounmpo, Thanasis",0,"3,500",mil,@ bos, 105-116,0,   
+2019-10-30,PF,"Giles, Harry",0,"4,000",sac,v cha, 111-118,0,   
+2019-10-30,PF,"Bagley, Marvin",0,"7,900",sac,v cha, 111-118,0,   
+2019-10-30,SF,"Batum, Nicolas",0,"3,500",cha,@ sac, 118-111,0,   
+2019-10-30,PF,"Bender, Dragan",0,"3,600",mil,@ bos, 105-116,0,   
+2019-10-30,PF,"Hernandez, Dewan",0,"3,500",tor,v det, 125-113,0,   
+2019-10-30,PF,"Rabb, Ivan",0,"3,500",nyk,@ orl, 83-95,0,   
+2019-10-30,PF,"Smailagic, Alen",0,"3,500",gsw,v pho, 110-121,0,   
+2019-10-30,PF,"Coffey, Amir",0,"3,500",lac,@ uta, 96-110,0,   
+2019-10-30,SF,"Strus, Max",0,"3,500",chi,@ cle, 111-117,0,   
+2019-10-30,SF,"Leonard, Kawhi",0,"10,300",lac,@ uta, 96-110,0,   
+2019-10-30,PF,"Griffin, Blake",0,"8,900",det,@ tor, 113-125,0,   
+2019-10-30,SF,"Martin, Kelan",0,"3,500",min,@ phi, 95-117,0,   
+2019-10-30,PF,"Jefferson, Amile",0,"3,500",orl,v nyk, 95-83,0,   
+2019-10-30,SF,"Brantley, Jarrell",0,"3,500",uta,v lac, 110-96,0,   
+2019-10-30,PF,"Hartenstein, Isaiah",0,"3,500",hou,@ was, 159-158,0,   
+2019-10-30,PF,"Claxton, Nicolas",0,"3,500",bkn,v ind, 108-118,0,   
+2019-10-30,PF,"Pelle, Norvel",0,"3,500",phi,v min, 117-95,0,   
+2019-10-30,PF,"McDaniels, Jalen",0,"3,500",cha,@ sac, 118-111,0,   
+2019-10-30,SF,"Franks, Robert",0,"3,500",cha,@ sac, 118-111,0,   
+2019-10-30,SF,"Brissett, Oshae",0,"3,500",tor,v det, 125-113,0,   
+2019-10-30,SF,"Schofield, Admiral",0,"3,500",was,v hou, 158-159,0,   
+2019-10-30,PF,"Motley, Johnathan",0,"3,500",lac,@ uta, 96-110,0,   
+2019-10-30,SF,"Miles, CJ",0,"3,700",was,v hou, 158-159,0,   
+2019-10-30,SF,"Hutchison, Chandler",0,"3,500",chi,@ cle, 111-117,0,   
+2019-10-30,SF,"Green, Gerald",0,"3,500",hou,@ was, 159-158,0,   
+2019-10-30,PF,"Henson, John",0,"3,600",cle,v chi, 117-111,0,   
+2019-10-30,PF,"Ellenson, Henry",0,"3,500",bkn,v ind, 108-118,0,   
+2019-10-30,PF,"Wade, Dean",0,"3,500",cle,v chi, 117-111,0,   
+2019-10-30,SF,"Jeffries, DaQuan",0,"3,500",sac,v cha, 111-118,0,   
+2019-10-30,PF,"Miller, Malcolm",0,"3,500",tor,v det, 125-113,0,   
+2019-10-30,SF,"George, Paul",0,"9,600",lac,@ uta, 96-110,0,   
+2019-10-30,SF,"Hoard, Jaylen",0,"3,500",por,@ okc, 102-99,0,   
+2019-10-30,PF,"Doumbouya, Sekou",0,"3,500",det,@ tor, 113-125,0,   
+2019-10-30,C,"Baynes, Aron",58.1,"4,700",pho,@ gsw, 121-110,28:01,   24pt 13rb 7as 3bl 1to 2trey 9-18fg 4-5ft
+2019-10-30,C,"Thompson, Tristan",52,"7,400",cle,v chi, 117-111,35:01,   23pt 10rb 2as 5bl 1to 11-19fg 1-3ft
+2019-10-30,C,"Drummond, Andre",49.9,"10,000",det,@ tor, 113-125,35:20,   21pt 22rb 3as 1bl 5to 10-17fg 1-2ft
+2019-10-30,C,"Bryant, Thomas",48.9,"7,100",was,v hou, 158-159,34:18,   13pt 12rb 5as 1st 4bl 1to 5-10fg 3-4ft
+2019-10-30,C,"Vucevic, Nikola",47.6,"8,500",orl,v nyk, 95-83,33:51,   21pt 13rb 4as 1st 1bl 1to 2trey 8-17fg 3-4ft
+2019-10-30,C,"Capela, Clint",44.9,"8,200",hou,@ was, 159-158,29:46,   21pt 12rb 3as 1st 1bl 1to 9-13fg 3-7ft
+2019-10-30,C,"Whiteside, Hassan",36.4,"7,500",por,@ okc, 102-99,24:47,   12pt 12rb 2st 2bl 2to 4-9fg 4-6ft
+2019-10-30,C,"Zeller, Cody",34.5,"6,600",cha,@ sac, 118-111,34:53,   12pt 15rb 5as 3to 6-14fg
+2019-10-30,C,"Embiid, Joel",33,"11,200",phi,v min, 117-95,19:57,   19pt 5rb 2as 1st 1bl 1to 1trey 7-14fg 4-4ft
+2019-10-30,C,"Jordan, DeAndre",30.4,"5,000",bkn,v ind, 108-118,22:36,   8pt 17rb 1bl 1to 3-7fg 2-4ft
+2019-10-30,C,"Robinson, Mitchell",30,"6,100",nyk,@ orl, 83-95,19:28,   12pt 5rb 2as 3bl 4-6fg 4-4ft
+2019-10-30,C,"Gobert, Rudy",29.4,"8,900",uta,v lac, 110-96,32:38,   13pt 7rb 1st 2bl 1to 5-7fg 3-8ft
+2019-10-30,C,"Towns, Karl",27.7,"11,800",min,@ phi, 95-117,22:39,   13pt 6rb 1as 2st 1bl 3to 3trey 5-7fg
+2019-10-30,C,"Jr, Wendell",27.6,"6,700",chi,@ cle, 111-117,27:10,   15pt 8rb 2bl 3to 5-8fg 5-6ft
+2019-10-30,C,"Zubac, Ivica",24.1,"4,300",lac,@ uta, 96-110,17:46,   8pt 8rb 1as 2bl 1to 4-4fg
+2019-10-30,C,"Portis, Bobby",24,"5,600",nyk,@ orl, 83-95,29:03,   12pt 10rb 2trey 5-11fg
+2019-10-30,C,"Stein, Willie",22.5,"5,500",gsw,v pho, 110-121,12:19,   12pt 5rb 1as 1bl 5-5fg 2-2ft
+2019-10-30,C,"Wagner, Moritz",19.5,"3,500",was,v hou, 158-159,13:42,   12pt 5rb 1as 1st 3to 5-8fg 2-3ft
+2019-10-30,C,"Lopez, Brook",18.6,"5,800",mil,@ bos, 105-116,26:54,   10pt 3rb 2as 2bl 4to 1trey 2-8fg 5-6ft
+2019-10-30,C,"Maker, Thon",14.6,"3,500",det,@ tor, 113-125,12:40,   8pt 3rb 1st 1trey 3-7fg 1-2ft
+2019-10-30,C,"Harrell, Montrezl",14.4,"7,000",lac,@ uta, 96-110,13:39,   10pt 2rb 1bl 1to 5-9fg
+2019-10-30,C,"Williams, Robert",14.3,"4,500",bos,v mil, 116-105,13:41,   2pt 4rb 3as 1bl 1-2fg
+2019-10-30,C,"Gasol, Marc",12.8,"5,600",tor,v det, 125-113,14:46,   6pt 4rb 2as 1to 1trey 2-3fg 1-1ft
+2019-10-30,C,"Bamba, Mohamed",12.6,"3,500",orl,v nyk, 95-83,14:09,   9pt 3rb 1trey 4-7fg
+2019-10-30,C,"Turner, Myles",9.4,"7,400",ind,@ bkn, 118-108,9:41,   7pt 2rb 1trey 3-5fg
+2019-10-30,C,"Lopez, Robin",8.4,"3,500",mil,@ bos, 105-116,13:30,   3pt 2rb 1st 1trey 1-3fg
+2019-10-30,C,"Boucher, Chris",7.2,"3,500",tor,v det, 125-113,4:04,   0pt 1rb 2bl 0-2fg
+2019-10-30,C,"Bitadze, Goga",5.7,"3,600",ind,@ bkn, 118-108,8:32,   0pt 1rb 1as 1bl 0-1fg
+2019-10-30,C,"Chandler, Tyson",3.2,"3,500",hou,@ was, 159-158,3:37,   2pt 1rb 1-1fg
+2019-10-30,C,"Quinn, Kyle",1.2,"3,500",phi,v min, 117-95,5:01,   0pt 1rb 0-1fg
+2019-10-30,C,"Dedmon, Dewayne",1.2,"4,000",sac,v cha, 111-118,4:13,   0pt 1rb
+2019-10-30,C,"Bradley, Tony",0,"3,500",uta,v lac, 110-96,1:22,   0pt
+2019-10-30,C,"Biyombo, Bismack",0,"3,500",cha,@ sac, 118-111,0,   
+2019-10-30,C,"Poirier, Vincent",0,"3,500",bos,v mil, 116-105,0,   
+2019-10-30,C,"Hernangomez, Guillermo",0,"3,500",cha,@ sac, 118-111,0,   
+2019-10-30,C,"Ayton, Deandre",0,"3,500",pho,@ gsw, 121-110,0,   
+2019-10-30,C,"Patton, Justin",0,"3,500",okc,v por, 99-102,0,   
+2019-10-30,C,"Dieng, Gorgui",0,"3,700",min,@ phi, 95-117,0,   
+2019-10-30,C,"Brown, Moses",0,"3,500",por,@ okc, 102-99,0,   
+2019-10-30,C,"Felicio, Cristiano",0,"3,500",chi,@ cle, 111-117,0,   
+2019-10-30,C,"Mahinmi, Ian",0,"3,500",was,v hou, 158-159,0,   
+2019-10-30,C,"Fall, Tacko",0,"3,600",bos,v mil, 116-105,0,   
+2019-10-30,C,"Gasol, Pau",0,"3,500",por,@ okc, 102-99,0,   
+2019-10-30,C,"Looney, Kevon",0,"5,700",gsw,v pho, 110-121,0,   
+2019-10-30,C,"Hilario, Nene",0,"3,500",hou,@ was, 159-158,0,   
+2019-10-30,C,"Adams, Steven",0,"6,300",okc,v por, 99-102,0,   
+2019-10-30,C,"Zizic, Ante",0,"3,500",cle,v chi, 117-111,0,   
+2019-10-30,C,"Kanter, Enes",0,"5,700",bos,v mil, 116-105,0,   

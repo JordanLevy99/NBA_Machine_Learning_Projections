@@ -1,0 +1,101 @@
+Date,Position,"LastName, FirstName",FD PTS,Salary,Team,Opp Team,Score,Min,Statline
+2018-10-23,SG,"Redick, JJ",46.2,"5,300",phi,@ det, 132-133,37:20,   30pt 6rb 6as 6trey 9-21fg 6-7ft
+2018-10-23,PG,"Payton, Elfrid",43.2,"7,000",nor,v lac, 116-109,35:45,   20pt 6rb 6as 3st 2to 1trey 7-11fg 5-7ft
+2018-10-23,PG,"Beverley, Patrick",34,"4,400",lac,@ nor, 109-116,26:42,   12pt 10rb 8as 2to 1trey 5-10fg 1-3ft
+2018-10-23,SG,"Holiday, Jrue",31.7,"7,800",nor,v lac, 116-109,37:54,   8pt 6rb 9as 2st 3to 2-15fg 4-6ft
+2018-10-23,SG,"Harris, Gary",31.1,"7,200",den,v sac, 126-112,26:19,   18pt 3rb 5as 1st 1to 2trey 8-12fg
+2018-10-23,SG,"III, Frank",30.5,"3,800",sac,@ den, 112-126,27:27,   14pt 5rb 7as 1st 3to 2trey 6-10fg
+2018-10-23,PG,"Jackson, Reggie",30.1,"6,300",det,v phi, 133-132,38:44,   23pt 3rb 3as 1to 3trey 7-14fg 6-6ft
+2018-10-23,PG,"Smith, Ishmael",29.7,"4,600",det,v phi, 133-132,32:46,   21pt 1rb 3as 1bl 2trey 9-12fg 1-1ft
+2018-10-23,PG,"Murray, Jamal",29.2,"6,400",den,v sac, 126-112,18:30,   19pt 1rb 4as 1st 3trey 6-10fg 4-4ft
+2018-10-23,PG,"Morris, Monte",28.1,"3,600",den,v sac, 126-112,28:57,   11pt 3rb 7as 1st 1trey 4-12fg 2-2ft
+2018-10-23,PG,"McConnell, TJ",24.6,"4,000",phi,@ det, 132-133,32:01,   10pt 3rb 8as 1st 4to 5-8fg
+2018-10-23,SG,"Bullock, Reggie",23.9,"4,400",det,v phi, 133-132,41:25,   17pt 2rb 3as 2trey 6-14fg 3-3ft
+2018-10-23,SG,"Shumpert, Iman",22.9,"4,300",sac,@ den, 112-126,19:45,   12pt 2rb 3as 2st 2to 2trey 4-7fg 2-2ft
+2018-10-23,SG,"Fultz, Markelle",22.7,"5,900",phi,@ det, 132-133,20:59,   13pt 6rb 1as 1bl 2to 1trey 6-9fg
+2018-10-23,PG,"Alexander, Shai",19.8,"4,500",lac,@ nor, 109-116,22:11,   9pt 4rb 2as 1st 1bl 3to 1trey 3-8fg 2-2ft
+2018-10-23,PG,"Fox, De",18.2,"8,000",sac,@ den, 112-126,20:33,   6pt 1rb 4as 2st 1to 2-8fg 2-5ft
+2018-10-23,SG,"Williams, Louis",18.1,"5,500",lac,@ nor, 109-116,26:06,   17pt 3rb 1as 4to 8-15fg 1-2ft
+2018-10-23,SG,"Beasley, Malik",15.2,"3,500",den,v sac, 126-112,19:29,   11pt 1rb 1bl 1trey 5-10fg
+2018-10-23,PG,"Ferrell, Yogi",13.4,"3,800",sac,@ den, 112-126,20:30,   11pt 2rb 1trey 4-9fg 2-2ft
+2018-10-23,SG,"Craig, Torrey",11.7,"3,900",den,v sac, 126-112,22:52,   7pt 1rb 1as 1st 1to 1trey 3-5fg
+2018-10-23,SG,"Hield, Buddy",10.5,"6,000",sac,@ den, 112-126,23:15,   5pt 5rb 1as 2to 1trey 2-7fg
+2018-10-23,PG,"Shamet, Landry",8,"3,700",phi,@ det, 132-133,24:24,   5pt 2as 1trey 2-5fg
+2018-10-23,SG,"Galloway, Langston",6.4,"3,600",det,v phi, 133-132,24:43,   4pt 2rb 1-3fg 2-2ft
+2018-10-23,SG,"Kennard, Luke",6.2,"3,700",det,v phi, 133-132,11:16,   2pt 1rb 2as 1-3fg
+2018-10-23,SG,"McLemore, Ben",6,"3,500",sac,@ den, 112-126,4:56,   6pt 2trey 2-3fg 0-2ft
+2018-10-23,SG,"Bradley, Avery",3.4,"3,900",lac,@ nor, 109-116,28:30,   2pt 2rb 1to 1-8fg
+2018-10-23,SG,"Clark, Ian",1.2,"3,600",nor,v lac, 116-109,3:46,   0pt 1rb
+2018-10-23,SG,"Purcell, DeVaughn",1,"3,500",den,v sac, 126-112,2:45,   1pt 0-2fg 1-2ft
+2018-10-23,SG,"Wallace, Tyrone",0,"3,500",lac,@ nor, 109-116,00:28,   0pt
+2018-10-23,PG,"Jackson, Demetrius",0,"3,500",phi,@ det, 132-133,0,   
+2018-10-23,SG,"Korkmaz, Furkan",0,"3,500",phi,@ det, 132-133,0,   
+2018-10-23,PG,"Teodosic, Milos",0,"3,600",lac,@ nor, 109-116,0,   
+2018-10-23,PG,"Calderon, Jose",0,"3,500",det,v phi, 133-132,0,   
+2018-10-23,PG,"Frazier, Tim",0,"3,500",nor,v lac, 116-109,0,   
+2018-10-23,SG,"Brown, Bruce",0,"3,500",det,v phi, 133-132,0,   
+2018-10-23,SG,"Jackson, Frank",0,"3,500",nor,v lac, 116-109,0,   
+2018-10-23,SG,"Milton, Shake",0,"3,500",phi,@ det, 132-133,0,   
+2018-10-23,SG,"Thornwell, Sindarius",0,"3,500",lac,@ nor, 109-116,0,   
+2018-10-23,PG,"Thomas, Isaiah",0,"5,200",den,v sac, 126-112,0,   
+2018-10-23,SG,"Thomas, Khyri",0,"3,700",det,v phi, 133-132,0,   
+2018-10-23,PG,"Simmons, Ben",0,"10,500",phi,@ det, 132-133,0,   
+2018-10-23,PG,"Evans, Keenan",0,"3,500",det,v phi, 133-132,0,   
+2018-10-23,SG,"Lofton, Zach",0,"3,500",det,v phi, 133-132,0,   
+2018-10-23,PG,"Bayless, Jerryd",0,"3,500",phi,@ det, 132-133,0,   
+2018-10-23,SG,"Smith, Zhaire",0,"3,600",phi,@ det, 132-133,0,   
+2018-10-23,SG,"Bogdanovic, Bogdan",0,"5,800",sac,@ den, 112-126,0,   
+2018-10-23,SG,"Bluiett, Trevon",0,"3,500",nor,v lac, 116-109,0,   
+2018-10-23,PG,"Robinson, Jerome",0,"3,600",lac,@ nor, 109-116,0,   
+2018-10-23,PF,"Griffin, Blake",77.8,"8,800",det,v phi, 133-132,44:02,   50pt 14rb 6as 1bl 1to 5trey 20-35fg 5-11ft
+2018-10-23,PF,"Davis, Anthony",70.6,"13,000",nor,v lac, 116-109,40:09,   34pt 13rb 2as 1st 5bl 2trey 11-21fg 10-15ft
+2018-10-23,PF,"Bagley, Marvin",46.3,"4,700",sac,@ den, 112-126,32:20,   20pt 9rb 3as 5bl 4to 1trey 9-11fg 1-3ft
+2018-10-23,PF,"Harris, Tobias",43.3,"7,900",lac,@ nor, 109-116,37:30,   26pt 9rb 3as 1st 1to 2trey 8-16fg 8-9ft
+2018-10-23,SF,"Gallinari, Danilo",38.7,"6,600",lac,@ nor, 109-116,35:07,   24pt 6rb 1as 1st 1bl 1trey 8-15fg 7-7ft
+2018-10-23,PF,"Jokic, Nikola",37.4,"10,600",den,v sac, 126-112,23:17,   14pt 12rb 6as 1st 3to 1trey 6-11fg 1-1ft
+2018-10-23,PF,"Saric, Dario",36.1,"5,900",phi,@ det, 132-133,37:41,   14pt 8rb 5as 1st 1bl 1to 2trey 5-16fg 2-3ft
+2018-10-23,SF,"Mirotic, Nikola",34.4,"7,400",nor,v lac, 116-109,30:01,   18pt 12rb 1bl 1to 7-18fg 4-5ft
+2018-10-23,SF,"Covington, Robert",33.6,"6,100",phi,@ det, 132-133,44:12,   16pt 8rb 2as 1st 1bl 1to 3trey 6-11fg 1-2ft
+2018-10-23,PF,"Harrell, Montrezl",30.7,"4,900",lac,@ nor, 109-116,22:59,   12pt 6rb 1as 2st 2bl 2to 5-6fg 2-2ft
+2018-10-23,SF,"Jackson, Justin",28.1,"3,900",sac,@ den, 112-126,27:34,   17pt 3rb 3as 1bl 3trey 7-11fg
+2018-10-23,PF,"Millsap, Paul",27,"7,100",den,v sac, 126-112,22:08,   15pt 5rb 1st 1bl 1trey 6-10fg 2-2ft
+2018-10-23,SF,"Hill, Solomon",26.6,"3,500",nor,v lac, 116-109,23:05,   2pt 3rb 2as 4st 2bl 1-4fg
+2018-10-23,SF,"Moore, E",22.4,"4,800",nor,v lac, 116-109,34:21,   14pt 2rb 2as 1bl 2trey 6-13fg
+2018-10-23,SF,"Hernangomez, Juan",22.3,"4,000",den,v sac, 126-112,25:08,   5pt 9rb 1as 2st 1to 1trey 2-7fg
+2018-10-23,PF,"Lyles, Trey",21.5,"4,600",den,v sac, 126-112,23:07,   12pt 5rb 3as 1bl 4to 5-12fg 2-2ft
+2018-10-23,SF,"Bjelica, Nemanja",13.9,"5,400",sac,@ den, 112-126,20:58,   10pt 2rb 3as 3to 1trey 4-7fg 1-2ft
+2018-10-23,PF,"Johnson, Amir",10.3,"3,800",phi,@ det, 132-133,13:00,   6pt 4rb 1as 2to 3-5fg 0-2ft
+2018-10-23,PF,"Moute, Luc",7.6,"3,600",lac,@ nor, 109-116,16:14,   5pt 3rb 1to 2-4fg 1-2ft
+2018-10-23,PF,"Giles, Harry",5.9,"3,800",sac,@ den, 112-126,14:13,   0pt 2rb 1as 1st 1to 0-6fg 0-2ft
+2018-10-23,SF,"Johnson, Stanley",5.7,"4,800",det,v phi, 133-132,19:16,   0pt 1rb 3as 0-5fg
+2018-10-23,PF,"Scott, Mike",4.7,"3,500",lac,@ nor, 109-116,11:09,   2pt 1rb 1as 1-1fg
+2018-10-23,PF,"Labissiere, Skal",3.9,"3,500",sac,@ den, 112-126,4:56,   0pt 2rb 1as
+2018-10-23,SF,"Miller, Darius",3.5,"3,500",nor,v lac, 116-109,13:07,   2pt 1as 1-2fg
+2018-10-23,SF,"Lydon, Tyler",3.2,"3,500",den,v sac, 126-112,2:45,   2pt 1rb 1-1fg
+2018-10-23,PF,"Bolden, Jonah",0,"3,500",phi,@ det, 132-133,0,   
+2018-10-23,SF,"III, Glenn",0,"3,500",det,v phi, 133-132,0,   
+2018-10-23,PF,"Leuer, Jon",0,"3,500",det,v phi, 133-132,0,   
+2018-10-23,SF,"Johnson, Wesley",0,"3,500",nor,v lac, 116-109,0,   
+2018-10-23,PF,"Ellenson, Henry",0,"3,700",det,v phi, 133-132,0,   
+2018-10-23,PF,"Williams, Kenrich",0,"3,500",nor,v lac, 116-109,0,   
+2018-10-23,PF,"Porter, Michael",0,"4,200",den,v sac, 126-112,0,   
+2018-10-23,PF,"Randolph, Zach",0,"4,800",sac,@ den, 112-126,0,   
+2018-10-23,SF,"Vanderbilt, Jarred",0,"3,500",den,v sac, 126-112,0,   
+2018-10-23,SF,"Chandler, Wilson",0,"4,900",phi,@ det, 132-133,0,   
+2018-10-23,PF,"Gabriel, Wenyen",0,"3,500",sac,@ den, 112-126,0,   
+2018-10-23,PF,"Motley, Johnathan",0,"3,500",lac,@ nor, 109-116,0,   
+2018-10-23,SF,"Barton, Will",0,"6,800",den,v sac, 126-112,0,   
+2018-10-23,PF,"Diallo, Cheick",0,"3,500",nor,v lac, 116-109,0,   
+2018-10-23,C,"Embiid, Joel",64.7,"10,700",phi,@ det, 132-133,38:41,   33pt 11rb 7as 3bl 1to 11-20fg 11-14ft
+2018-10-23,C,"Drummond, Andre",46.2,"9,700",det,v phi, 133-132,35:33,   14pt 16rb 2as 3st 2bl 5to 6-20fg 2-4ft
+2018-10-23,C,"Plumlee, Mason",29.4,"3,700",den,v sac, 126-112,20:46,   11pt 7rb 2as 3st 2to 5-7fg 1-2ft
+2018-10-23,C,"Randle, Julius",28,"7,800",nor,v lac, 116-109,21:52,   18pt 5rb 2st 2to 1trey 5-9fg 7-7ft
+2018-10-23,C,"Stein, Willie",25.7,"7,400",sac,@ den, 112-126,23:33,   11pt 6rb 3as 1st 5-7fg 1-2ft
+2018-10-23,C,"Muscala, Mike",13.4,"3,500",phi,@ det, 132-133,16:42,   5pt 2rb 2bl 1trey 2-3fg
+2018-10-23,C,"Pachulia, Zaza",11.2,"4,100",det,v phi, 133-132,17:15,   2pt 6rb 1st 1to 1-2fg
+2018-10-23,C,"Welsh, Thomas",4.2,"3,500",den,v sac, 126-112,3:57,   0pt 1rb 2as
+2018-10-23,C,"Gortat, Marcin",4.1,"4,100",lac,@ nor, 109-116,12:02,   0pt 3rb 1as 1to 0-4fg
+2018-10-23,C,"Okafor, Jahlil",0,"3,500",nor,v lac, 116-109,0,   
+2018-10-23,C,"Koufos, Kosta",0,"3,900",sac,@ den, 112-126,0,   
+2018-10-23,C,"Delgado, Angel",0,"3,500",lac,@ nor, 109-116,0,   
+2018-10-23,C,"Marjanovic, Boban",-1,"3,700",lac,@ nor, 109-116,1:02,   0pt 1to

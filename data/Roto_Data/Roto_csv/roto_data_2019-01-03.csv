@@ -1,0 +1,101 @@
+Date,Position,"LastName, FirstName",FD PTS,Salary,Team,Opp Team,Score,Min,Statline
+2019-01-03,SG,"Harden, James",80.5,"13,000",hou,@ gsw, 135-134,44:01,   44pt 10rb 15as 1st 2bl 7to 10trey 13-32fg 8-9ft
+2019-01-03,SG,"DeRozan, DeMar",57.3,"8,800",sas,v tor, 125-107,33:24,   21pt 14rb 11as 2st 3to 7-15fg 7-7ft
+2019-01-03,PG,"Murray, Jamal",52.4,"8,000",den,@ sac, 117-113,37:25,   36pt 7rb 6as 1st 4to 6trey 12-24fg 6-10ft
+2019-01-03,SG,"Thompson, Klay",52,"7,400",gsw,v hou, 134-135,43:12,   26pt 5rb 4as 3st 2bl 1to 4trey 11-20fg
+2019-01-03,PG,"Curry, Stephen",42.6,"10,400",gsw,v hou, 134-135,40:13,   35pt 3rb 6as 5to 5trey 14-27fg 2-3ft
+2019-01-03,SG,"Hield, Buddy",36.4,"7,000",sac,v den, 113-117,34:33,   29pt 2rb 2as 1st 1to 5trey 12-19fg
+2019-01-03,SG,"Rivers, Austin",31.8,"3,800",hou,@ gsw, 135-134,43:49,   18pt 4rb 4as 1st 4trey 7-18fg
+2019-01-03,PG,"Forbes, Bryn",31.1,"4,400",sas,v tor, 125-107,28:38,   20pt 3rb 3as 1st 6trey 7-10fg
+2019-01-03,PG,"Fox, De",30.4,"8,700",sac,v den, 113-117,28:41,   16pt 2rb 8as 1st 3to 1trey 7-10fg 1-2ft
+2019-01-03,PG,"White, Derrick",28,"6,100",sas,v tor, 125-107,33:08,   19pt 4as 1st 2trey 8-11fg 1-2ft
+2019-01-03,SG,"Wright, Delon",27.3,"3,800",tor,@ sas, 107-125,24:00,   15pt 4rb 1as 1st 1bl 1trey 5-9fg 4-4ft
+2019-01-03,SG,"Bogdanovic, Bogdan",25,"6,700",sac,v den, 113-117,29:22,   14pt 5rb 2as 1st 1to 2trey 5-9fg 2-2ft
+2019-01-03,PG,"VanVleet, Fred",20,"5,700",tor,@ sas, 107-125,27:42,   12pt 5rb 2as 1to 1trey 5-11fg 1-1ft
+2019-01-03,SG,"Iguodala, Andre",17.2,"4,800",gsw,v hou, 134-135,34:10,   5pt 6rb 4as 1to 1trey 2-4fg
+2019-01-03,PG,"Mills, Patty",17.2,"3,500",sas,v tor, 125-107,15:14,   12pt 1rb 2as 1st 2to 1trey 3-8fg 5-6ft
+2019-01-03,PG,"Livingston, Shaun",14.4,"3,600",gsw,v hou, 134-135,16:16,   6pt 2rb 2as 1st 2-4fg 2-2ft
+2019-01-03,PG,"Ferrell, Yogi",14,"3,600",sac,v den, 113-117,19:19,   11pt 1st 1trey 4-6fg 2-4ft
+2019-01-03,SG,"Beasley, Malik",13.6,"4,900",den,@ sac, 117-113,25:02,   7pt 3rb 1bl 1trey 3-9fg
+2019-01-03,SG,"Belinelli, Marco",12.4,"3,700",sas,v tor, 125-107,22:18,   7pt 2rb 2as 1trey 2-9fg 2-2ft
+2019-01-03,SG,"Craig, Torrey",11.8,"4,400",den,@ sac, 117-113,28:22,   2pt 4rb 4as 1to 1-5fg
+2019-01-03,PG,"Knight, Brandon",11,"3,500",hou,@ gsw, 135-134,11:36,   5pt 2as 1st 1trey 2-5fg
+2019-01-03,PG,"Cook, Quinn",10.7,"3,500",gsw,v hou, 134-135,7:14,   5pt 1rb 1as 1st 1trey 2-4fg
+2019-01-03,SG,"Green, Danny",9.3,"4,200",tor,@ sas, 107-125,25:58,   0pt 4rb 1as 1bl 0-7fg
+2019-01-03,PG,"Brown, Lorenzo",7.5,"3,500",tor,@ sas, 107-125,4:43,   3pt 1as 1st 1-2fg 1-1ft
+2019-01-03,SG,"Shumpert, Iman",5.7,"4,700",sac,v den, 113-117,21:30,   0pt 1rb 3as 0-7fg
+2019-01-03,SG,"Walker, Lonnie",4.2,"3,600",sas,v tor, 125-107,4:43,   3pt 1rb 1trey 1-2fg
+2019-01-03,SG,"Morris, Monte",3.2,"4,600",den,@ sac, 117-113,10:35,   3pt 1rb 1to 1trey 1-6fg
+2019-01-03,SG,"Pondexter, Quincy",0.2,"3,500",sas,v tor, 125-107,4:06,   0pt 1rb 1to
+2019-01-03,SG,"III, Jacob",0,"3,500",gsw,v hou, 134-135,0,   
+2019-01-03,SG,"III, Frank",0,"3,500",sac,v den, 113-117,0,   
+2019-01-03,SG,"McLemore, Ben",0,"3,500",sac,v den, 113-117,0,   
+2019-01-03,PG,"Goodwin, Brandon",0,"3,500",den,@ sac, 117-113,0,   
+2019-01-03,PG,"Lowry, Kyle",0,"8,100",tor,@ sas, 107-125,0,   
+2019-01-03,PG,"Williams, Michael",0,"3,700",hou,@ gsw, 135-134,0,   
+2019-01-03,PG,"Murray, Dejounte",0,"3,500",sas,v tor, 125-107,0,   
+2019-01-03,PG,"Thomas, Isaiah",0,"3,500",den,@ sac, 117-113,0,   
+2019-01-03,SG,"Gordon, Eric",0,"6,000",hou,@ gsw, 135-134,0,   
+2019-01-03,SG,"Richardson, Malachi",0,"3,500",tor,@ sas, 107-125,0,   
+2019-01-03,PG,"Paul, Chris",0,"8,500",hou,@ gsw, 135-134,0,   
+2019-01-03,PG,"Loyd, Jordan",0,"3,500",tor,@ sas, 107-125,0,   
+2019-01-03,SG,"Lee, Damion",0,"3,500",gsw,v hou, 134-135,0,   
+2019-01-03,PF,"Green, Draymond",42.2,"6,900",gsw,v hou, 134-135,36:56,   9pt 11rb 8as 2st 2bl 4to 4-7fg 1-1ft
+2019-01-03,SF,"Durant, Kevin",39.9,"10,100",gsw,v hou, 134-135,42:12,   26pt 7rb 3as 1bl 2to 1trey 10-23fg 5-5ft
+2019-01-03,SF,"Leonard, Kawhi",32.7,"10,300",tor,@ sas, 107-125,32:47,   21pt 1rb 5as 2st 3to 8-13fg 5-7ft
+2019-01-03,PF,"Aldridge, LaMarcus",29.9,"9,000",sas,v tor, 125-107,30:06,   23pt 2rb 5as 3to 10-14fg 3-3ft
+2019-01-03,SF,"Green, Gerald",29.8,"3,700",hou,@ gsw, 135-134,30:00,   16pt 4rb 2as 1st 1bl 3trey 6-13fg 1-1ft
+2019-01-03,SF,"Bjelica, Nemanja",29.7,"6,500",sac,v den, 113-117,31:39,   17pt 6rb 3as 1bl 2to 3trey 7-14fg
+2019-01-03,PF,"Siakam, Pascal",29.7,"7,000",tor,@ sas, 107-125,27:05,   10pt 6rb 7as 1st 1bl 4to 4-8fg 2-2ft
+2019-01-03,SF,"Powell, Norman",29.6,"3,900",tor,@ sas, 107-125,25:09,   14pt 3rb 2as 2st 1bl 1trey 5-11fg 3-3ft
+2019-01-03,SF,"House, Danuel",28.3,"4,600",hou,@ gsw, 135-134,39:19,   17pt 4rb 3as 1st 1to 2trey 3-5fg 9-9ft
+2019-01-03,SF,"Gay, Rudy",27.9,"5,700",sas,v tor, 125-107,23:16,   13pt 7rb 3as 1st 1to 1trey 6-10fg
+2019-01-03,PF,"Ibaka, Serge",24.7,"6,600",tor,@ sas, 107-125,26:06,   14pt 6rb 1as 1st 1to 1trey 5-11fg 3-4ft
+2019-01-03,PF,"Millsap, Paul",20.2,"6,200",den,@ sac, 117-113,22:13,   10pt 6rb 2as 1trey 3-6fg 3-4ft
+2019-01-03,SF,"Jackson, Justin",19.5,"3,500",sac,v den, 113-117,20:31,   3pt 5rb 1as 1st 2bl 1trey 1-5fg
+2019-01-03,PF,"Giles, Harry",16.5,"3,600",sac,v den, 113-117,19:09,   6pt 5rb 3as 3-8fg 0-1ft
+2019-01-03,SF,"Harris, Gary",15.6,"4,800",den,@ sac, 117-113,31:07,   14pt 3rb 2to 2trey 4-10fg 4-5ft
+2019-01-03,SF,"Bertans, Davis",14.3,"4,000",sas,v tor, 125-107,27:13,   5pt 4rb 1as 1st 1trey 2-4fg
+2019-01-03,SF,"Hernangomez, Juan",14,"5,200",den,@ sac, 117-113,15:31,   5pt 5rb 2as 2-2fg 1-1ft
+2019-01-03,PF,"Tucker, PJ",11.6,"4,400",hou,@ gsw, 135-134,36:28,   3pt 3rb 1st 1bl 1to 1trey 1-4fg
+2019-01-03,SF,"McKinnie, Alfonzo",8.9,"3,500",gsw,v hou, 134-135,5:15,   5pt 2rb 1as 1trey 2-2fg
+2019-01-03,PF,"Boucher, Chris",8.4,"3,500",tor,@ sas, 107-125,4:43,   3pt 2rb 1bl 1trey 1-3fg
+2019-01-03,SF,"Ennis, James",8.4,"4,000",hou,@ gsw, 135-134,8:19,   3pt 2rb 2as 1-2fg 1-4ft
+2019-01-03,PF,"Jerebko, Jonas",5,"3,600",gsw,v hou, 134-135,10:38,   5pt 1trey 1-2fg 2-2ft
+2019-01-03,PF,"Lyles, Trey",4.4,"3,700",den,@ sac, 117-113,8:21,   2pt 2rb 0-2fg 2-2ft
+2019-01-03,SF,"Miles, CJ",3,"3,500",tor,@ sas, 107-125,6:48,   3pt 1trey 1-1fg
+2019-01-03,SF,"Anunoby, OG",2.9,"3,600",tor,@ sas, 107-125,17:48,   0pt 2rb 1as 1to 0-3fg
+2019-01-03,SF,"Clark, Gary",1.5,"3,500",hou,@ gsw, 135-134,5:42,   0pt 1as 0-1fg
+2019-01-03,SF,"Cunningham, Dante",1.4,"3,500",sas,v tor, 125-107,4:43,   0pt 2rb 1to
+2019-01-03,PF,"Labissiere, Skal",0,"3,500",sac,v den, 113-117,0,   
+2019-01-03,SF,"Lydon, Tyler",0,"3,500",den,@ sac, 117-113,0,   
+2019-01-03,PF,"Chriss, Marquese",0,"3,500",hou,@ gsw, 135-134,0,   
+2019-01-03,PF,"Eubanks, Drew",0,"3,500",sas,v tor, 125-107,0,   
+2019-01-03,SF,"Williams, Troy",0,"3,500",sac,v den, 113-117,0,   
+2019-01-03,SF,"Moore, Ben",0,"3,500",sas,v tor, 125-107,0,   
+2019-01-03,PF,"Porter, Michael",0,"4,100",den,@ sac, 117-113,0,   
+2019-01-03,PF,"Randolph, Zach",0,"3,500",sac,v den, 113-117,0,   
+2019-01-03,SF,"Anthony, Carmelo",0,"3,500",hou,@ gsw, 135-134,0,   
+2019-01-03,PF,"Bagley, Marvin",0,"6,500",sac,v den, 113-117,0,   
+2019-01-03,SF,"Vanderbilt, Jarred",0,"3,500",den,@ sac, 117-113,0,   
+2019-01-03,SF,"Edwards, Vincent",0,"3,500",hou,@ gsw, 135-134,0,   
+2019-01-03,PF,"Gabriel, Wenyen",0,"3,500",sac,v den, 113-117,0,   
+2019-01-03,SF,"Barton, Will",0,"6,700",den,@ sac, 117-113,0,   
+2019-01-03,PF,"Metu, Chimezie",0,"3,500",sas,v tor, 125-107,0,   
+2019-01-03,PF,"Derrickson, Marcus",0,"3,500",gsw,v hou, 134-135,0,   
+2019-01-03,PF,"Hartenstein, Isaiah",0,"3,500",hou,@ gsw, 135-134,0,   
+2019-01-03,C,"Capela, Clint",63.7,"8,600",hou,@ gsw, 135-134,45:45,   29pt 21rb 1as 2st 1bl 1to 12-19fg 5-5ft
+2019-01-03,C,"Jokic, Nikola",51.6,"10,300",den,@ sac, 117-113,31:35,   26pt 13rb 6as 1st 1bl 5to 3trey 10-18fg 3-4ft
+2019-01-03,C,"Plumlee, Mason",35,"5,000",den,@ sac, 117-113,29:49,   12pt 10rb 4as 1st 1bl 1to 5-7fg 2-4ft
+2019-01-03,C,"Looney, Kevon",28.4,"4,300",gsw,v hou, 134-135,21:37,   12pt 7rb 2as 1st 1bl 1to 5-9fg 2-2ft
+2019-01-03,C,"Monroe, Greg",25.2,"3,900",tor,@ sas, 107-125,17:11,   12pt 6rb 1st 1bl 4-8fg 4-7ft
+2019-01-03,C,"Stein, Willie",23.7,"7,600",sac,v den, 113-117,29:57,   13pt 6rb 3as 1to 5-10fg 3-4ft
+2019-01-03,C,"Poeltl, Jakob",10.9,"3,800",sas,v tor, 125-107,13:11,   2pt 7rb 1as 1to 1-2fg
+2019-01-03,C,"Bell, Jordan",6.6,"3,800",gsw,v hou, 134-135,7:16,   0pt 3rb 2as
+2019-01-03,C,"Koufos, Kosta",5.2,"3,500",sac,v den, 113-117,5:19,   4pt 1rb 1-2fg 2-2ft
+2019-01-03,C,"Gasol, Pau",0,"3,900",sas,v tor, 125-107,0,   
+2019-01-03,C,"Hilario, Nene",0,"3,500",hou,@ gsw, 135-134,0,   
+2019-01-03,C,"Cousins, DeMarcus",0,"3,500",gsw,v hou, 134-135,0,   
+2019-01-03,C,"Welsh, Thomas",0,"3,500",den,@ sac, 117-113,0,   
+2019-01-03,C,"Valanciunas, Jonas",0,"5,000",tor,@ sas, 107-125,0,   
+2019-01-03,C,"Jones, Damian",0,"3,900",gsw,v hou, 134-135,0,   
